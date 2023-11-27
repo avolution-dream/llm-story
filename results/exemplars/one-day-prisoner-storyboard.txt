@@ -1,0 +1,291 @@
+
+---
+
+[Scene 1]
+- [Scene Name]: Mr. B's Arrival
+- [Environment]: The Building, Nighttime, covered in fog
+- [Characters Present]: Mr. B, Two Men in Black, Narrator (Building Employee)
+- [Dialogue]: None in this scene
+- [Camera Info]: Wide shot of the building exterior, obscured by fog
+- [Camera Motion]: Steady shot, slowly moving towards the building entrance
+- [Visual Design]: The building is shrouded in fog, creating a mysterious and eerie atmosphere. Mr. B, accompanied by two men in black, stands outside the building entrance. The men carry suitcases. Mr. B appears pale and frail, with a look of sorrow on his face. The narrator, dressed in a uniform, stands at the entrance, observing the scene.
+- [Sound Elements]: Eerie ambient music, muffled sounds due to the fog
+- [Emotional Atmosphere]: Suspenseful, mysterious
+
+[Text-to-Image Prompt]:
+The camera pans across a dark and foggy scene, revealing the large building in the distance. The building's exterior is barely visible, covered in a thick layer of mist. Mr. B, dressed in dark clothing and wearing glasses, stands with two men in black, their faces obscured by the fog. The men carry suitcases, hinting at their purpose. The narrator, dressed in a uniform, stands at the entrance of the building, watching the scene unfold. The sound of eerie ambient music fills the air, adding to the suspense.
+
+---
+
+[Scene 2]
+- [Scene Name]: Mr. B's Nocturnal Wanderings
+- [Environment]: Outside the Building, early morning, covered in fog
+- [Characters Present]: Mr. B, Narrator
+- [Dialogue]: Narrator: "Did you just go out? The main door was locked." Mr. B: "Is that so? You must be mistaken. I left from here."
+- [Camera Info]: Wide shot of the fog-covered building exterior, focusing on Mr. B and the Narrator
+- [Camera Motion]: Slow pan from the building entrance to Mr. B and the Narrator
+- [Visual Design]: The fog creates a haunting and mysterious atmosphere, obscuring visibility. Mr. B appears pale and frail, wearing dark clothing. The Narrator is dressed in a building employee uniform.
+- [Sound Elements]: Eerie background music, muffled footsteps on the foggy ground
+- [Emotional Atmosphere]: Intrigue, confusion, and unease
+- [Text-to-Image Prompt]: In the early morning fog, Mr. B, with a pale face, slowly emerges from the mist, his frail figure bent over. The Narrator rushes to open the glass doors, allowing Mr. B to enter. The Narrator questions Mr. B about his nocturnal excursion, puzzled by his ability to leave despite the locked entrance. Mr. B, with a slight smile, insists that he left from the building itself. The fog intensifies the mysterious atmosphere, shrouding the scene in an eerie ambiance.
+
+---
+
+[Scene 3]
+- [Scene Name]: Mr. B's Arrival
+- [Environment]: The Building, daytime, with fog outside creating a mysterious atmosphere
+- [Characters Present]: Mr. B, Narrator
+- [Dialogue]: None
+- [Camera Info]: Wide shot of the building lobby, focusing on Mr. B and the Narrator
+- [Camera Motion]: None
+- [Visual Design]: Mr. B enters the building, appearing pale and frail. The Narrator observes Mr. B's odd behavior and the fog outside, creating an eerie ambiance.
+- [Sound Elements]: Ambient background noise, muffled footsteps in the lobby.
+- [Emotional Atmosphere]: Intrigue, curiosity, and a sense of mystery.
+- [Text-to-Image Prompt]: Mr. B enters the building, his frail figure contrasting against the foggy backdrop. The Narrator watches him closely, intrigued by his peculiar behavior. The lobby is dimly lit, with muffled footsteps echoing in the background, adding to the mysterious atmosphere.
+
+---
+
+[Scene 4]
+- [Scene Name]: Mr. B's Card Trick
+- [Environment]: Mr. B's Room, daytime, with limited furnishings
+- [Characters Present]: Mr. B, Narrator
+- [Dialogue]: None
+- [Camera Info]: Medium shot of Mr. B and the Narrator in the room
+- [Camera Motion]: None
+- [Visual Design]: Mr. B demonstrates an impressive card trick to the Narrator, showcasing his skill and memory. The room is sparsely furnished, emphasizing the focus on Mr. B's performance.
+- [Sound Elements]: Subtle background music, the sound of shuffling cards.
+- [Emotional Atmosphere]: Intrigue, awe, and a growing sense of unease.
+- [Text-to-Image Prompt]: Mr. B showcases his card trick to the Narrator, his pale face reflecting both sorrow and a hint of mischievousness. The room is barren, with only a table and a few chairs. The Narrator watches in awe as Mr. B flawlessly remembers the position of each card, increasing the sense of mystery and intrigue.
+
+---
+
+[Scene 5]
+- [Scene Name]: Mr. B's Strange Observation
+- [Environment]: Outside the Building, daytime, covered in fog
+- [Characters Present]: Mr. B, Narrator
+- [Dialogue]: Mr. B: "You see that lamppost?"
+- [Camera Info]: Close-up shot of Mr. B and the Narrator, with the foggy surroundings
+- [Camera Motion]: None
+- [Visual Design]: Mr. B and the Narrator stand outside the building, surrounded by dense fog. Mr. B points at a lamppost, questioning its existence. The surroundings are obscured, adding to the sense of mystery.
+- [Sound Elements]: Minimal background noise and muffled voices.
+- [Emotional Atmosphere]: Suspense, confusion, and a growing sense of unease.
+- [Text-to-Image Prompt]: Mr. B and the Narrator stand outside the building, their figures barely visible through the thick fog. Mr. B points at a lamppost, his voice filled with fear as he questions its existence. The fog creates an eerie and haunting atmosphere, heightening the sense of mystery and unease.
+
+---
+
+[Scene 6]
+- [Scene Name]: Mr. B's Death
+- [Environment]: Mr. B's Room, nighttime, with dim lighting
+- [Characters Present]: Narrator, Two Men in Black
+- [Dialogue]: Narrator: "What happened? Who are you?"
+- [Camera Info]: Wide shot of Mr. B's room, focusing on the Narrator, Two Men in Black, and Mr. B's body
+- [Camera Motion]: None
+- [Visual Design]: The Narrator discovers Mr. B's lifeless body in the room, shocked and confused. The Two Men in Black enter the room, appearing ominous. The lighting is dim, adding to the somber atmosphere.
+- [Sound Elements]: Eerie background music, footsteps, and hushed voices.
+- [Emotional Atmosphere]: Shock, confusion, and a sense of foreboding.
+- [Text-to-Image Prompt]: The Narrator enters Mr. B's room, finding his lifeless body on the floor. The room is dimly lit, casting an eerie glow on the scene. The Two Men in Black enter, their presence heightening the sense of mystery and intrigue. The Narrator demands answers, his voice filled with confusion and fear.
+
+---
+
+[Scene 7]
+- [Scene Name]: The Hidden Message
+- [Environment]: Mr. B's Room, nighttime, with dim lighting
+- [Characters Present]: Narrator
+- [Dialogue]: None
+- [Camera Info]: Close-up shot of the Narrator, focusing on the hidden message on the wall
+- [Camera Motion]: None
+- [Visual Design]: The Narrator discovers Mr. B's hidden message on the wall, written in special ink. The lighting is dim, accentuating the message's significance.
+- [Sound Elements]: Subtle background music, the sound of the Narrator's breath.
+- [Emotional Atmosphere]: Astonishment, realization, and a deep sense of empathy.
+- [Text-to-Image Prompt]: The Narrator stands in Mr. B's room, staring at the wall covered in the hidden message. The room is dimly lit, highlighting the words written in special ink. The Narrator's eyes widen in astonishment as the realization of Mr. B's torment and punishment dawns upon him, evoking a profound sense of empathy.
+
+---
+
+[Scene 8]
+- [Scene Name]: Reflection and Conclusion
+- [Environment]: The Building, daytime, with fog outside creating a mysterious atmosphere
+- [Characters Present]: Narrator
+- [Dialogue]: None
+- [Camera Info]: Wide shot of the building lobby, focusing on the Narrator
+- [Camera Motion]: Slow zoom out from the Narrator
+- [Visual Design]: The Narrator reflects on Mr. B's endless nightmare, staring out into the foggy surroundings. The lobby is dimly lit, emphasizing the haunting atmosphere.
+- [Sound Elements]: Subtle background music, the sound of the Narrator's breath.
+- [Emotional Atmosphere]: Sadness, contemplation, and a lingering sense of unease.
+- [Text-to-Image Prompt]: The Narrator stands in the lobby, gazing out into the foggy surroundings. His face reflects a mix of sadness and contemplation. The haunting atmosphere lingers, symbolizing Mr. B's eternal punishment and leaving the Narrator with a sense of unease and lingering questions.
+
+---
+
+[Scene 9]
+- [Scene Name]: Mr. B's Arrival
+- [Environment]: The Building, Daytime, Foggy Atmosphere
+- [Characters Present]: Mr. B, Narrator
+- [Dialogue]: Mr. B: "I would like to rent a small, unfurnished room for just one day."
+- [Camera Info]: Wide shot, showing Mr. B standing in the lobby of the building, with the foggy exterior visible through the glass doors.
+- [Camera Motion]: Slow zoom in on Mr. B's face as he makes his request.
+- [Visual Design]: Mr. B is dressed in dark clothing, looking frail and pale. The lobby is dimly lit, with the fog outside creating an eerie atmosphere.
+- [Sound Elements]: Soft background music, creating a sense of mystery and unease.
+- [Emotional Atmosphere]: Intrigue, curiosity, and a touch of foreboding.
+- [Text-to-Image Prompt]: Mr. B stands in the dimly lit lobby of the building, his pale face reflecting the faint light. The fog outside obscures the view, adding an element of mystery. The camera slowly zooms in on Mr. B's face as he requests to rent a room for just one day, setting the stage for the enigmatic events that are about to unfold.
+
+---
+
+[Scene 10]
+- [Scene Name]: Mr. B's Death
+- [Environment]: Mr. B's Room, Nighttime
+- [Characters Present]: Mr. B, Narrator, Two Men in Black, Doctor
+- [Dialogue]: None
+- [Camera Info]: Medium shot, showing Mr. B lying motionless on the bed, with the men in black and the doctor standing nearby.
+- [Camera Motion]: Steady shot with no movement.
+- [Visual Design]: The room is empty and white after being packed up by the men in black. Mr. B's appearance is frail and lifeless. The men in black and the doctor wear dark clothing, adding to the somber atmosphere.
+- [Sound Elements]: Soft, eerie background music, emphasizing the mysterious and haunting nature of the scene.
+- [Emotional Atmosphere]: Shock, confusion, and a growing sense of unease.
+- [Text-to-Image Prompt]: Mr. B lies motionless on the bed in his empty room, his pale face and frail body contrasting with the white surroundings. The men in black and the doctor stand nearby, their presence only deepening the mystery. The camera captures the stillness of the scene, reflecting the shock and confusion felt by the narrator and the audience.
+
+---
+
+[Scene 11]
+- [Scene Name]: The Hidden Message
+- [Environment]: Mr. B's Room, Daytime
+- [Characters Present]: Narrator
+- [Dialogue]: None
+- [Camera Info]: Close-up shot of the wall in Mr. B's room, revealing the hidden message.
+- [Camera Motion]: No camera movement.
+- [Visual Design]: The room is empty and white, with the hidden message written in small letters on the wall. The handwriting appears hurried and desperate.
+- [Sound Elements]: Soft background music, conveying a mix of curiosity and fear.
+- [Emotional Atmosphere]: Shock, realization, and a sense of the narrator's growing understanding of Mr. B's plight.
+- [Text-to-Image Prompt]: The camera focuses on the wall in Mr. B's room, where a hidden message is written in small, desperate letters. The room is empty and white, starkly contrasting with the message's urgency. The camera captures the shock and realization on the narrator's face as they read the message, shedding light on Mr. B's torment and the endless nightmare he is condemned to.
+
+---
+
+[Scene 12]
+- [Scene Name]: Mr. B's Arrival
+- [Environment]: The Building, daytime, with fog outside creating a mysterious atmosphere.
+- [Characters Present]: Mr. B, Narrator
+- [Dialogue]: Narrator: "Welcome to our building, Mr. B. How may I assist you today?"
+- [Camera Info]: Wide shot of the building's lobby, focused on Mr. B and the Narrator.
+- [Camera Motion]: Steady shot, no camera movement.
+- [Visual Design]: Mr. B enters the building, wearing dark clothing and carrying a suitcase. The Narrator stands behind a reception desk, dressed in professional attire. The fog outside partially obscures the view through the windows, creating an eerie backdrop.
+- [Sound Elements]: Muted background music, creating a sense of mystery and suspense.
+- [Emotional Atmosphere]: Intrigue, curiosity, and a touch of unease.
+- [Text-to-Image Prompt]: Mr. B, a pale and frail man, enters the building's lobby through the fog. He wears glasses and carries a suitcase. The Narrator, dressed professionally, stands behind a reception desk, welcoming him. The fog outside creates a haunting and mysterious atmosphere, hinting at the strange events that will unfold.
+
+---
+
+[Scene 13]
+- [Scene Name]: Mr. B's Death
+- [Environment]: Mr. B's Room, nighttime, with limited visibility due to fog outside.
+- [Characters Present]: Mr. B, Narrator, Two Men in Black, Doctor
+- [Dialogue]: None
+- [Camera Info]: Medium shot of Mr. B lying motionless on the bed, surrounded by the Narrator, Two Men in Black, and a Doctor.
+- [Camera Motion]: Slow zoom in on Mr. B's face, creating a sense of tension and mystery.
+- [Visual Design]: Mr. B lies lifeless on the bed, his face pale and sorrowful. The Narrator, Two Men in Black, and the Doctor surround him, their expressions serious and secretive. The room is dimly lit, with the fog outside casting eerie shadows on the walls.
+- [Sound Elements]: Low ambient noise, emphasizing the silence and tension in the room.
+- [Emotional Atmosphere]: Suspense, intrigue, and a touch of fear.
+- [Text-to-Image Prompt]: Mr. B lies motionless on the bed in his small, empty room. The Narrator, Two Men in Black, and a Doctor stand around him, their expressions serious and secretive. The room is dimly lit, with the fog outside casting eerie shadows on the walls. The silence adds to the tension and mystery surrounding Mr. B's death.
+
+---
+
+[Scene 14]
+- [Scene Name]: The Hidden Message
+- [Environment]: Mr. B's Room, daytime, with fog outside creating a haunting atmosphere.
+- [Characters Present]: Narrator
+- [Dialogue]: None
+- [Camera Info]: Close-up shot of the Narrator's face as they discover the hidden message on the wall.
+- [Camera Motion]: Steady shot, no camera movement.
+- [Visual Design]: The Narrator stands in the center of the room, staring at the wall where Mr. B's hidden message is written. The room is empty and white, with the fog outside creating a haunting atmosphere. The message is written in bold letters, contrasting against the white wall.
+- [Sound Elements]: Eerie background music, intensifying the mysterious ambiance.
+- [Emotional Atmosphere]: Shock, realization, and a sense of unease.
+- [Text-to-Image Prompt]: The Narrator stands in Mr. B's small, empty room, their eyes fixed on the wall where a hidden message is written in bold letters. The room is white and devoid of furniture, with the fog outside creating a haunting atmosphere. The message reveals Mr. B's eternal punishment, leaving the Narrator shocked and unsettled.
+
+---
+
+[Scene 15]
+- [Scene Name]: The Endless Nightmare
+- [Environment]: Outside the Building, nighttime, with fog creating a mysterious atmosphere.
+- [Characters Present]: Narrator
+- [Dialogue]: None
+- [Camera Info]: Wide shot of the building, enveloped in fog, as the Narrator reflects on Mr. B's endless punishment.
+- [Camera Motion]: Slow zoom out from the building, creating a sense of vastness and despair.
+- [Visual Design]: The building stands tall, surrounded by thick fog that obscures the view. The Narrator stands outside, their gaze fixed on the building, reflecting on Mr. B's eternal punishment. The fog symbolizes the unknown and the endless nightmare that Mr. B is trapped in.
+- [Sound Elements]: Haunting background music, emphasizing the sense of despair and hopelessness.
+- [Emotional Atmosphere]: Despair, sadness, and a touch of sympathy.
+- [Text-to-Image Prompt]: The building, shrouded in thick fog, stands tall as the Narrator looks on. The fog creates a mysterious and haunting atmosphere, representing the endless nightmare that Mr. B is condemned to. The Narrator reflects on the tragedy of his eternal punishment, feeling a deep sense of despair and sympathy.
+
+---
+
+[Scene 16]
+- [Scene Name]: Mr. B's Arrival
+- [Environment]: The Building, Evening
+- [Characters Present]: Mr. B, Narrator
+- [Dialogue]:
+  - Narrator: "Welcome to our building, Mr. B. How can I assist you?"
+  - Mr. B: "I need to rent a room, just for tonight."
+- [Camera Info]: Wide shot
+- [Camera Motion]: Static
+- [Visual Design]: The building lobby is dimly lit, with the fog outside casting an eerie glow through the windows. Mr. B stands in front of the reception desk, his pale face and sorrowful expression contrasting with the darkness around him.
+- [Sound Elements]: Soft, mysterious background music
+- [Emotional Atmosphere]: Mysterious, haunting
+- [Text-to-Image Prompt]: Mr. B, with a bald head and wearing dark clothing, stands in the dimly lit lobby of the building. The fog outside creates a haunting atmosphere. His pale complexion and sorrowful expression add to his mysterious presence.
+
+---
+
+[Scene 17]
+- [Scene Name]: Mr. B's Death
+- [Environment]: Mr. B's Room, Night
+- [Characters Present]: Mr. B, Narrator, Two Men in Black
+- [Dialogue]:
+  - Narrator: "What happened to Mr. B?"
+  - Two Men in Black: "We're here to take care of it. Don't worry."
+- [Camera Info]: Medium shot
+- [Camera Motion]: Static
+- [Visual Design]: Mr. B's room is white and empty, with suitcases scattered around. Mr. B lies lifeless on the bed, his frail body almost blending into the pale walls. The two men in black search the room, packing Mr. B's belongings.
+- [Sound Elements]: Tense, suspenseful background music
+- [Emotional Atmosphere]: Suspenseful, mysterious
+- [Text-to-Image Prompt]: Mr. B's lifeless body lies on the bed in his empty room. The two men in black search the room, packing his belongings into suitcases. The narrator looks on, filled with intrigue and suspicion.
+
+---
+
+[Scene 18]
+- [Scene Name]: The Hidden Message
+- [Environment]: Mr. B's Room, Night
+- [Characters Present]: Narrator
+- [Dialogue]:
+  - Narrator (voiceover): "There must be something more to Mr. B's story."
+- [Camera Info]: Close-up
+- [Camera Motion]: Slow zoom in
+- [Visual Design]: The camera focuses on the wall, where a hidden message is written in faint letters. The message reads: "Trapped in an eternal loop."
+- [Sound Elements]: Mysterious background music
+- [Emotional Atmosphere]: Intriguing, mysterious
+- [Text-to-Image Prompt]: The camera slowly zooms in on the wall of Mr. B's room, revealing a hidden message written in faint letters. The message reads: "Trapped in an eternal loop." The narrator's voiceover expresses their intrigue and desire to uncover the truth.
+
+---
+
+[Scene 19]
+- [Scene Name]: Reflection and Conclusion
+- [Environment]: The Building, Day
+- [Characters Present]: Narrator
+- [Dialogue]:
+  - Narrator (voiceover): "Mr. B is condemned to an endless nightmare."
+- [Camera Info]: Wide shot
+- [Camera Motion]: Slow pan
+- [Visual Design]: The building lobby is filled with people going about their daily activities. The camera pans across the scene, capturing the everyday hustle and bustle. The narrator's face reflects a mix of sadness and contemplation.
+- [Sound Elements]: Melancholic background music
+- [Emotional Atmosphere]: Melancholic, reflective
+- [Text-to-Image Prompt]: The camera pans across the busy lobby of the building, capturing the mundane activities of the people. The narrator's face reflects a mix of sadness and contemplation as they reflect on Mr. B's endless punishment.
+
+---
+
+[Scene 20]
+- Scene Name: Mr. B's Arrival
+- Environment: The Building, lobby area, daytime with foggy windows.
+- Characters Present: Mr. B, Narrator (Building Employee)
+- Dialogue: None
+- Camera Info: Medium shot, facing the entrance of the building.
+- Camera Motion: None
+- Visual Design: The narrator stands behind a reception desk in the lobby. The fog outside obscures the view through the windows, creating an eerie atmosphere. Mr. B enters the building, looking pale and frail, wearing dark clothing. He approaches the reception desk, talking to the narrator.
+- Sound Elements: Soft background sounds of the building, muffled by the fog.
+- Emotional Atmosphere: Mysterious, eerie
+
+[Text-to-Image Prompt]:
+In a dimly lit lobby, the narrator stands behind a reception desk, their face partially obscured by the foggy windows. The fog outside creates an ethereal atmosphere. Mr. B, with a sorrowful expression on his face, enters the building, his pale complexion contrasting with the darkness of his attire. The narrator observes Mr. B closely, their eyes meeting briefly. The scene is shrouded in mystery and anticipation, leaving the viewers wondering about Mr. B's true intentions.
+

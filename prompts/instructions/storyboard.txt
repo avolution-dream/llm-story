@@ -1,0 +1,30 @@
+Based on the comprehensive character summaries provided, can you construct a meticulously detailed storyboard script suitable for adaptation into various formats like movies, comics, or animations? Structure the script by scenes, and within each scene, please adhere to the following guidelines:
+
+- Scene Index: Sequential numbering to indicate the order of the scenes.
+- Text-to-Image Prompt: Create a condensed, highly specific description of the scene that can be used as a text-to-image prompt for models like DALL-E or Stable Diffusion.
+- Camera Angles: Specify the perspectives from which the scene will be shot, outlining any camera movements or transitions.
+- Environment: Describe both the location and the time of day or night where the scene unfolds.
+- Characters Present: Enumerate the characters in the scene, specifying their roles and actions.
+- Visual Design: Articulate significant visual elements, such as character positions, lighting conditions, camera perspectives, and any special visual effects. Be as detailed as possible.
+- Dialogue: Include pivotal lines of dialogue, marking the speaker for each.
+- Sound Elements: Provide notes on sound design, including background music, sound effects, and any other auditory elements.
+- Emotional Atmosphere: Convey the overarching emotional tone or mood that permeates the scene.
+
+The resulting storyboard should be formatted as follows:
+{
+  'Scene 1': {
+    'Text-to-Image Prompt': '',
+    'Camera Angle': '',
+    'Environment': '',
+    'Characters Present': '',
+    'Visual Design': '',
+    'Dialogue': '',
+    'Sound Elements': '',
+    'Emotional Atmosphere': ''
+  },
+  'Scene 2': { ... },
+  ...
+}
+
+It's imperative that this storyboard aligns seamlessly with the previously detailed character summaries. The "Text-to-Image Prompt" will be used to generate visual content, so please make it as specific and descriptive as possible.
+

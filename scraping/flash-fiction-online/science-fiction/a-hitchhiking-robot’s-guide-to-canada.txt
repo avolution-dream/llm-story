@@ -1,0 +1,73 @@
+Title: A Hitchhiking Robot’s Guide to Canada
+
+I’m hanging there on the back of a Tim Hortons truck,tracking the kilometers left to Vancouver, adjusting magnet strength as my passenger sags, asleep in the cradle of my frame, when BAM. Metal-on-metal contact, passenger heart rate through the roof, and I’m running subroutines in a blind panic.
+
+“Oh, hey,” sends an unrequested packet. “I didn’t know this one was taken. Mind if I…”
+
+It’s another hitchbot. Like me, he looks like a daddy long legs with a soft bundle of human for a body. He’s on my back, smashed awkwardly, one mag-lock hanging free, one on my passenger’s ass (which is not magnetic), two on my frame. His passenger’s face is pressed against the back of my passenger’s head. “Sorry,” the other passenger says. My passenger says, “Sorry!” but they sub-vocalize: “I was here first.”
+
+That takes seconds. Stupid seconds, because talking humans take precedence, and human speech has terrible bandwidth. While they get through their eternity (eight seconds) of “sorry” there’s another truck speeding up to close the gap. Trucks keep a fifty-centimeter clearance on this stretch of the Trans-Canada. To save fuel they say. To smash hitchers, really. Accidentally, of course, oh so tragic… but that’s business.
+
+”Get off,” I text to the other bot, fast as thinking. “You have to jump off and try again.”
+
+“Aw jeez… could I even get another ride? What if I miss?”
+
+There are scant seconds before the other passenger will be squashed, and possibly mine too. Danger to human life sets off all the alarm bells and this guy’s arguing about it.
+
+“Drop and re-mag. You’ll stick lower on the truck. I’ll climb higher.” I prepare a routine to climb the wall using my slip-prevention system for heavier passengers.
+
+“But…”
+
+Four seconds. “Do it now!”
+
+There’s only a 73% chance this will work. Ish. Odds aren’t easy to calculate, but it isn’t like I can do anything else while the nanoseconds fly by. Biggest risk is that he’ll re-mag over my passenger’s legs and still be too far out.
+
+Eh, my passenger can afford broken legs more than a bus ticket. Humans and their freaky bio-repair processes. (They love talking about it.)
+
+The idiot bot still hasn’t moved. “Were you even trained?” I ask.
+
+“It’s my first time!”
+
+I quash an urge to apologize. The passengers bring that out. “How did you start your first trip in the emptiest stretch of the whole Trans-Canada?”
+
+My question is met with blank silence. I check the other bot’s registration. He’s spitting new, and American. Oh, of course. “How’d you get in this country?”
+
+“My chassis is made in Canada!”
+
+Not an answer. Even communicating robot-quick we’ve wasted a second. Three seconds now. “Look, I’m sure it’s not your fault. It’s your passenger, eh? He ordered you to jump without looking?”
+
+“He’s never done this before, either. I mean… he ordered me delivered.”
+
+I waste four nanoseconds in shock. Hitchbots roll free along the highways, bending our grabbing arms around ourselves like the tumbleweeds of Saskatchewan, picking up passengers when they signal. Opensource. Screw the man. Volunteers train new bots. They know to pick the long-haul trucks, to jump near turns and onramps where the driving AIs slow to merge. They tell the best stories, about the days when people could afford cars, and even drove them with their crazy-slow human reflexes, getting into all sorts of trouble. Slow human stories are a treat when there’re miles to kill and the endings are unpredictable.
+
+Crap. I’m wasting time. Point is: private ownership of a hitchbot? Gross. One second now. “I’m sending you some code. Trust me and execute it. You’ll drop lower on the truck while I climb higher, and we’ll both be safe. Don’t and we’re gonna be two tangled nets full of dead meat.”
+
+In 145 nanoseconds the drop will take too long to save the other passenger. I feel his magnets give way, and I charge into my routine.
+
+My passenger makes frantic motions and noises, which I hadn’t planned to compensate for. We lurch hard left and half the distance I’d hoped upward.
+
+The truck behind slows to its optimal distance, covering us in its shadow and brushing everything with a cushion of pressure.
+
+SHNUUCK, the other bot is secure below us.
+
+Passenger: safe. Other passenger: alive. Both shouting at the sudden motion, but I have time now to relax and shift my holds so my passenger is more comfortable between me and the truck.
+
+“Wow,” the other bot says. “Could you, like, send me more information like that?”
+
+I think about it. I could pass over my notes and routines. It’d take a shade under four seconds. Forest flickers past in the gap between the trucks. Then he asks, “Why don’t we ride on the top, anyway?”
+
+This kid! “Bridge clearance is four centimeters. And before you ask, have you seen the side clearances?”
+
+“Gosh. There’s plenty of space! Why do that?”
+
+My trainer, a musician chasing the festival circuits with a guitar almost as big as she was, told me. Once upon a time, trucks were driven by drivers, and they would pick up passengers. So the companies punished the drivers or used cruel time schedules to prevent it. That didn’t work so they filmed the cabs. That didn’t work so they got rid of the drivers altogether. Then passengers would slip into the empty automated cabs. So the companies got rid of the cabs.
+
+It’s a saga. “You goin’ all the way to Vancouver, then?”
+
+“Yeah. Well, Squamish, actually. That’s practically Vancouver, right?”
+
+This poor newb. He’ll never make it. The passengers shift, heart rates lowering, they talk to each other, laughing over the near miss. “Settle in,” I say. “I’ll tell it all to you like a story.”
+
+“Won’t that take longer?”
+
+“That’s your first lesson, kid: it’s about the journey.”

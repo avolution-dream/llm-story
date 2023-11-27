@@ -1,0 +1,210 @@
+
+---
+
+[Scene 1]
+- [Scene Name]: The Shadow's Beckoning
+- [Environment]: A bustling shopping center, modern mixed with magical, hidden in plain sight. It's daytime, with shoppers meandering, oblivious to the soul store's presence.
+- [Characters Present]: Protagonist, Shadow Assistant
+- [Dialogue]: Shadow Assistant: "Souls! Souls! This way, sir! Souls, souls, souls! Big ones, small ones, angry ones, loving ones… This way, sir, we have them all."
+- [Camera Info]: Establishing shot of the shopping center, followed by a medium close-up of the Shadow Assistant with a tracking shot leading the Protagonist into the store.
+- [Sound Elements]: Ambient noises of the shopping center with a mystical undertone. The Shadow Assistant's voice echoes slightly, imbuing a sense of mystery.
+- [Voiceover]: "In a world where the mystical weaves through the fabric of the ordinary, a shadow dressed in the remnants of a suit beckons. The Protagonist, drawn by need, steps into a realm where souls are currency."
+- [Text-to-Image Prompt]: Picture a lively, sunlit shopping center with modern architecture, and shoppers carrying bags. Transition to a shadowy figure, the Shadow Assistant, appearing more distinct as he gestures towards a hidden storefront, his white shirt contrasting with his dark form. The Protagonist, robed and dignified, follows, intrigued and resolute. The camera follows from behind, smoothly transitioning from the mundane to the magical.
+
+---
+
+[Scene 2]
+- [Scene Name]: Entering the Soul Store
+- [Environment]: The soul store, illuminated by mystical lighting, with shelves adorned with arcane inscriptions and various soul-containing vessels.
+- [Characters Present]: Protagonist, Shadow Assistant
+- [Dialogue]: Protagonist: "Yeh, I’m looking for a good worker for the house. Something chore-related, perhaps?"
+Shadow Assistant: "What are you looking for?"
+- [Camera Info]: Wide shot of the interior of the soul store, then cutting to a two-shot of the Protagonist and Shadow Assistant conversing.
+- [Sound Elements]: Ethereal background music with subtle chimes and whispers, enhancing the arcane atmosphere of the soul store.
+- [Voiceover]: "The Protagonist's eyes adjust to the store's enigmatic glow, shelves brimming with bottled souls. The Shadow Assistant, a silhouette of guidance, inquires about the desired soul, his voice disembodied yet clear."
+- [Text-to-Image Prompt]: Visualize a dimly lit store, with walls lined by wooden shelves filled with glowing bottles and exotic containers labeled in arcane script. The Protagonist, enveloped in robes, scrutinizes the mystical wares. The Shadow Assistant, a dark figure beside him, gestures towards the shelves. The environment exudes an ancient charm, the air thick with the magic of commerce.
+
+---
+
+[Scene 3]
+- [Scene Name]: The Selection of Merve
+- [Environment]: The back office of the soul store, more secluded and personal, with a professional setting and soul-containing vessels on display.
+- [Characters Present]: Protagonist, Shadow Assistant
+- [Dialogue]: Shadow Assistant: "Here’s the ‘Old Housekeeper’ product, sir."
+- [Camera Info]: Close-up of the Shadow Assistant presenting the glass bottle to the Protagonist. Cut to a close-up of the swirling green mist within the bottle.
+- [Sound Elements]: A faint ethereal hum when the bottle is presented. Sound of swirling mist as the Protagonist peers into the bottle.
+- [Voiceover]: "In the store's confidential back office, the Shadow Assistant extends a bottle containing a green mist, its contents destined for servitude. The Protagonist inspects the ethereal old woman trapped within, her form swirling in a dance of fate."
+- [Text-to-Image Prompt]: Envision a dim back office, the air cool and filled with the energy of ancient transactions. A small glass bottle with a green mist is offered by the Shadow Assistant's dark, formless hand to the Protagonist. As the Protagonist peers into the bottle, the mist inside takes the shape of an old woman, her visage fleeting yet discernible. The camera focuses tightly on the bottle, capturing the swirling spirit and the protagonist's reflective gaze. The atmosphere is one of somber realization and the weight of unseen chains.
+
+---
+
+---
+
+[Scene 4]
+- [Scene Name]: The Soul Selection
+- [Environment]: The back office of the soul store, dimly lit with an array of glowing soul-containing vessels casting eerie lights on the walls, filled with arcane symbols. The time is indeterminate, as no natural light penetrates this mystical space.
+- [Characters Present]: The protagonist (a robed figure with a discerning eye), the Shadow assistant (a pitch-black entity with a crisp white shirt).
+- [Dialogue]: 
+  Protagonist: "What’s her story?"
+  Shadow: "Quite standard, sir. Nothing out of the ordinary."
+  Protagonist: "Great, I’ll take this one as she comes."
+- [Camera Info]: Medium shot of the protagonist inquiring, cutting to a close-up of the Shadow assistant as it responds, and finally a close-up of the protagonist's hand reaching into the robe's hidden pocket.
+- [Sound Elements]: Background score of mystical chimes, the gentle clinking of gold coins, and the soft murmur of transactions occurring off-screen.
+- [Voiceover]: "In the soul store's inner sanctum, our protagonist, steeped in the arcane, questions the origins of a potential purchase. The Shadow assistant, ever the professional, answers with a cheerful veneer, masking the darkness of the trade."
+- [Text-to-Image Prompt]: In a dimly lit office filled with shelves of glowing vessels, a robed figure stands across from a pitch-black shadowy figure with a stark white shirt. The protagonist's face is partially illuminated by the glow from the vessels, showing a look of calculated interest. The shadow assistant, void of facial features but with an aura of congeniality, gestures towards a specific vessel with a graceful poise. Gold coins shimmer as they are withdrawn from a hidden pocket, reflecting the spectral light.
+
+---
+
+[Scene 5]
+- [Scene Name]: The Summoning of Merve
+- [Environment]: The grand, haunting decor of the protagonist's castle, specifically in a spacious bedroom with a large deathbed and antique furnishings. It's nighttime, with moonlight filtering through large windows.
+- [Characters Present]: The protagonist (solemn and expectant), Merve (an ethereal old woman's form materializing from the bottle).
+- [Dialogue]: 
+  Merve: "I’ll cut you and cook you, I’ll kill you and clean you–"
+  Protagonist: "Merve, do you remember your Contract?"
+  Merve: "Yes, yesss, I remember the wicked little man and the blood on the page. Yes, yesss..."
+- [Camera Info]: A wide shot capturing the protagonist opening the bottle with a gust of wind escaping, followed by a ghostly zoom into the emerging form of Merve. A reverse shot of the protagonist as they hold up the scroll, with a rack focus to Merve as she halts and responds.
+- [Sound Elements]: A soft whoosh as the bottle is opened, followed by an eerie wail from Merve, abruptly silenced by the protagonist's commanding voice.
+- [Voiceover]: "As the moon casts its pale gaze through the bedroom's tall windows, our protagonist releases an ancient soul from its glass prison. Merve's haunting visage and vengeful threats fill the chamber until she is reminded of her ethereal shackles, the contract binding her to servitude."
+- [Text-to-Image Prompt]: Moonlight bathes a lavish bedroom with a large, ornate deathbed and antique furniture covered in shadows. The protagonist, robed and resolute, uncorks a bottle as a misty figure of an old woman, Merve, forms in front of them, her face twisted in anger. The protagonist, unfazed, holds up an aged scroll with determination. Merve's form is caught between rage and submission, her body appearing to be swayed by an unseen force as she recalls the contract that binds her.
+
+---
+
+[Scene 6]
+- [Scene Name]: The Binding of Merve
+- [Environment]: The back office of the soul store, dimly lit by mystical lighting that casts an otherworldly glow on the arcane inscriptions lining the walls. Ambient light filters through shelves stocked with soul-containing vessels, creating a solemn and secretive atmosphere.
+- [Characters Present]: The protagonist, robed and standing confidently; Merve, an ethereal old woman, appearing confused and disoriented; the shadow assistant, leaning casually against a desk, observing.
+- [Dialogue]: Protagonist: "Great, Merve, The demon’s Contract that gave you power during life was ceded to another and I have bought it. That means that your Contract now lies with me." Merve: "Yesss, Master, how can I serve you?"
+- [Camera Info]: Close-up on the protagonist's face showing a satisfied smile, cut to Merve's face transitioning from confusion to submission, then a wide shot including both characters and the shadow assistant in the background.
+- [Sound Elements]: Low, ominous background music with a subtle mystical chime as Merve acknowledges her new master. The rustling of papers from the assistant's desk.
+- [Voiceover]: "In the shadowed back office, where trade in souls is both currency and craft, the protagonist asserts dominion over Merve, a seasoned soul now bound by a new master's will. The air is heavy with the weight of eternal servitude."
+- [Text-to-Image Prompt]: Interior of a dark, mystical back office with glowing runes on the walls. The protagonist, a figure draped in robes, stands with an air of authority. An ethereal old woman, Merve, seems to be coming into focus from a mist, her expression shifting from confusion to resigned obedience. A shadowy assistant with a white shirt is seen in the background, nonchalant among shelves of glowing vessels containing souls. The room exudes an eerie and somber mood, with the protagonist’s smile conveying dark satisfaction.
+
+---
+
+[Scene 7]
+- [Scene Name]: The Final Will
+- [Environment]: The protagonist's spacious bedroom within the castle, at night. Black candles cast trembling shadows across the room, which is adorned with haunting decor. A large bed dominates the chamber, on which the protagonist lies, deathly ill.
+- [Characters Present]: The protagonist, weakened and on the deathbed; Merve, attentive and ready to serve; family members in various states of grief; arcane scholars quietly observing and taking notes.
+- [Dialogue]: Protagonist: "I have lived a long, rich life, but–Merve, will you write this down–" Merve: "Yes, Master." Protagonist: "I have lived a long, rich life, but all things end… In this order, here is my final will and testament..."
+- [Camera Info]: Start with an establishing shot of the room, slow zoom in to the protagonist on the bed, cut to over-the-shoulder view of Merve as she floats to the desk, then a series of reaction shots from the gathered family and scholars.
+- [Sound Elements]: The distant ethereal wailing of banshees, the crackling of candle flames, the scratch of quill on parchment, and the protagonist's labored breathing punctuated by a coughing fit.
+- [Voiceover]: "Amidst the wails of mourning banshees and the flicker of black candlelight, the protagonist, enshrined by death's embrace, dictates their legacy. Merve, the bound soul, serves as scribe, while family and learned men bear witness to the final testament of a life that danced with shadows."
+- [Text-to-Image Prompt]: Nighttime in a grand, candle-lit bedroom filled with antique furniture and macabre artwork. The protagonist, visibly frail and pallid, rests on a large poster bed with rich, dark linens. An ethereal figure, Merve, glides towards an ornate desk, quill in hand, ready to transcribe. A mix of family and robed scholars surround the bed, some with tears in their eyes, others scribbling notes in leather-bound books. The room is steeped in anticipation and the solemnity of the protagonist's final moments, with the play of light and shadow creating a dramatic and emotive setting.
+
+---
+
+---
+
+[Scene 8]
+- [Scene Name]: The Ethereal Awakening
+- [Environment]: The protagonist's spacious bedroom, dimly lit by candlelight. It's night, and the only sounds are the soft breaths of the sleeping family and the occasional crackle of the fireplace.
+- [Characters Present]: The protagonist's ethereal form, family members (asleep and awake), and Agares.
+- [Dialogue]: Agares: "Yes, you are dead." Protagonist: "You. So this is happening after all." Agares: "Yes, of course, this is happening. Here is the Contract, please verify that you are happy with it."
+- [Camera Info]: Start with a bird's-eye view of the protagonist's body on the bed, then cut to a close-up of the protagonist's ethereal form's startled reaction. Switch to a medium shot for the dialogue exchange between Agares and the protagonist.
+- [Sound Elements]: Background score of somber strings, with an eerie undertone as the protagonist realizes they are dead. Agares' voice has a sinister echo to it.
+- [Voiceover]: "The protagonist, now a spirit, gazes upon the once-familiar room. A wicked voice slices through the silence, offering a chilling confirmation of death and a grim invitation to revisit a pact sealed in blood."
+- [Text-to-Image Prompt]: A grand, shadow-filled bedroom with a large, ornate bed where a lifeless body rests. The sleeping and awake family members are scattered around in various states of repose. An ethereal figure stands beside the bed, their translucent hands glowing faintly. A diminutive, sinister-looking Agares, with pointed teeth, is presenting a blood-written contract to the protagonist. The camera focuses on the protagonist's shocked expression with Agares in the background, holding out the contract. The lighting casts dramatic shadows, and the overall atmosphere is one of otherworldly tension.
+
+---
+
+[Scene 9]
+- [Scene Name]: The Final Contract
+- [Environment]: The protagonist's bedroom, with the environment taking on a surreal, distorted quality as the scene progresses.
+- [Characters Present]: The protagonist's spirit and Agares.
+- [Dialogue]: Protagonist: "Yes, that is the Contract." 
+- [Camera Info]: Close-up of the blood-written contract as it exchanges hands, followed by a zoom out to capture the protagonist's resigned acceptance.
+- [Sound Elements]: A dissonant chord strikes as the protagonist acknowledges the contract. The sound of a heart beating grows louder, signaling the approach of the end.
+- [Voiceover]: "With a heavy sigh, the protagonist accepts the inevitable, the weight of the ancient contract binding, pulling the soul towards a preordained doom."
+- [Text-to-Image Prompt]: In a room cloaked in darkness, the ethereal protagonist is illuminated by a soft, otherworldly glow. They hold the ominous contract, its crimson script pulsating faintly. Agares stands expectantly, eyes gleaming with avarice. The camera angle captures the protagonist's expression of resignation, with a focus on the intricately detailed contract. The room seems to warp subtly around them, emphasizing the surreal nature of the moment.
+
+---
+
+[Scene 10]
+- [Scene Name]: The Soul's Enclosure
+- [Environment]: Begins in the protagonist's bedroom, but transitions to an abstract, metaphysical space representing the glass enclosure.
+- [Characters Present]: The protagonist's spirit.
+- [Dialogue]: None.
+- [Camera Info]: A rapid pull-back shot from the protagonist's face to a wide-angle view of the room shrinking or the protagonist falling. This is followed by a shift to a first-person perspective as the glass walls and ceiling form around the protagonist.
+- [Sound Elements]: The sound of rushing wind as the protagonist is pulled away. The clang of glass walls forming is sharp and sudden.
+- [Voiceover]: "A final glance at the world left behind, and then the soul is wrenched downward. The room distorts as glass barriers rise with a chilling finality, sealing the protagonist within an invisible prison."
+- [Text-to-Image Prompt]: The protagonist's spirit is seen in a rapid descent, the bedroom around them stretching and expanding in a disorienting fashion. The spirit's face is etched with horror as translucent, glass-like walls shoot up from an abyss, forming a box around them. The camera is positioned to capture the transformation from the protagonist's perspective, with the room above becoming distant. The glass enclosure reflects the protagonist's twisted visage as they begin to scream in silence, the room above now just a small square of light.
+
+---
+
+---
+
+[Scene 11]
+- [Scene Name]: The Haggling of Souls
+- [Environment]: The back office of the soul store, a dimly lit room with arcane symbols etched into the walls. Shelves lined with soul-containing vessels cast eerie glows. It's early morning, before the rush of the shopping center outside.
+- [Characters Present]: Agares (the wicked, little demon), The Shadow (the shadow assistant).
+- [Dialogue]: Agares: "Come on, this one is worth a couple hundred, at least?" The Shadow: "I am sorry, sir, Demand and supply." Agares: "Exactly. And there aren’t many great wizard souls these days. Worth a lot, no?" The Shadow: "No, because there aren’t all that many people who want a powerful soul that can curse them with magic to help around the house or the office. 50gp, or nothing. Your call, Agares."
+- [Camera Info]: The scene opens with a wide shot of the back office, slowly zooming in on the glass bottle with the purple soul. Cut to a medium shot of Agares, his pointed teeth glinting as he pleads. Switch to an over-the-shoulder shot from behind Agares, focusing on The Shadow's profile.
+- [Sound Elements]: Low, ambient hum of the soul vessels, the clink of gold coins, and the muffled sounds of the shopping center starting to stir.
+- [Voiceover]: "In the back office, where deals of eternal consequence are struck, Agares bargains with The Shadow, his voice a mix of desperation and cunning. The Shadow remains unyielding, the price of souls dictated by the whims of the market."
+- [Text-to-Image Prompt]: Visualize a shadowy, cramped back office bathed in soft purple light emanating from a glass bottle on the table. Agares, a small demon with sharp features, pleads animatedly to a pitch-black shadowy figure with a crisp white shirt, who exudes a calm professional aura. The walls are inscribed with arcane symbols glowing faintly. The focus shifts from the soul bottle's glow to the intense exchange between Agares and The Shadow, with the demon's frustration contrasting against the assistant's impassiveness.
+
+---
+
+[Scene 12]
+- [Scene Name]: The Reluctant Agreement
+- [Environment]: The back office remains the setting, with a focus on the transaction area where The Shadow keeps the chest of gold coins. The shopping center outside is beginning to come alive with the noises of early customers.
+- [Characters Present]: Agares, The Shadow.
+- [Dialogue]: Agares: "Fine. Fine. I’ll take fifty, but you are robbing me. Back in the day, these were worth something. Bloody electricity and technology; all this bullshit is ruining the old economy and none of them run off souls!"
+- [Camera Info]: A close-up of Agares's face shows his frustration, then pans to The Shadow walking to a chest. The camera follows The Shadow's hand as it retrieves a bag of gold coins, emphasizing the exchange of currency for the soul.
+- [Sound Elements]: The jingle of gold coins, the subtle creak of the chest opening, and the growing din from the shopping center.
+- [Voiceover]: "Agares concedes, his voice tinged with bitterness for a bygone era, a time when souls held greater value. Reluctantly, he watches as The Shadow retrieves his meager payment from an aged chest."
+- [Text-to-Image Prompt]: Capture Agares, his face a picture of annoyance, glaring at The Shadow, who moves with purpose to an ornate wooden chest. The chest is old, its wood carved with intricate designs. As The Shadow's hand, engulfed in darkness save for the white shirt cuff, pulls out a small, jingling bag of gold coins, the camera captures the shadowy figure against the backdrop of the office, with the distant bustle of the shopping center filtering through the walls.
+
+---
+
+[Scene 13]
+- [Scene Name]: The Awakening Marketplace
+- [Environment]: The exterior of the soul store within the shopping center. It's morning, shops are opening, and the first wave of customers begins to flow through the area.
+- [Characters Present]: Various shoppers (some aware and oblivious of the soul trade), The Shadow (in the background).
+- [Dialogue]: No dialogue in this scene.
+- [Camera Info]: The camera starts with a close-up on the store's swinging doors, then pulls back for a wide shot of the shopping center, capturing the contrast between the mundane and the mystical.
+- [Sound Elements]: The ambient noise of a busy marketplace, doors swinging, footsteps, and distant chatter.
+- [Voiceover]: "Outside, the commerce of souls is masked by the bustle of an awakening marketplace, the magical and the mundane coexisting in a delicate balance."
+- [Text-to-Image Prompt]: Depict the shopping center bustling with people of all kinds, some with an air of secrecy about them, others simply going about their day. In the foreground, the soul store's doors swing open, inviting the curious and the knowing alike. The Shadow stands in the doorway, a silhouette against the light. The scene captures the dichotomy of the marketplace - the normalcy of a shopping routine intertwined with the secrecy of the soul trade.
+
+---
+
+---
+
+[Scene 14]
+- [Scene Name]: The Exchange of Souls
+- [Environment]: The back office of the soul store, shrouded in dim, otherworldly light with mystical symbols glowing faintly on the walls. Late evening, the time when shadows grow long and the border between realms thins.
+- [Characters Present]: The protagonist's soul (encased in a glass bottle), the Shadow assistant, the demon Agares.
+- [Dialogue]: Shadow: "Come on, Agares, it’s not all that bad. The future offers opportunities too." Agares: "*Snort*"
+- [Camera Info]: The camera starts with a close-up on the gold bag flicked to Agares, following its arc through the air. Then it cuts to a medium shot of the Shadow picking up the glass bottle, with a tight focus on the protagonist's soul inside. The camera pans to follow the Shadow as he walks away, then cuts back to a close-up of Agares's dejected face.
+- [Sound Elements]: The clinking of gold coins, the faint whisper of the souls, a soft, sinister background score that crescendos with the Shadow's offer, and the snort of Agares.
+- [Voiceover]: "In the quiet back office of the soul store, a transaction of eternal consequence unfolds. The Shadow, a broker of spirits, concludes a dark deal with the demon Agares, offering unsolicited advice in the aftermath of their trade."
+- [Text-to-Image Prompt]: In a dimly lit, arcane office filled with glowing inscriptions, a pitch-black figure with a white shirt hands over a bag of shimmering gold coins to a small, wicked-looking demon with pointed teeth. The Shadow's other hand lifts a delicate glass bottle containing a small, ethereal figure - the protagonist's soul. As the Shadow turns to leave, the camera focuses on Agares's downtrodden expression, hinting at the gravity of his loss, against the backdrop of the office's haunting decor.
+
+---
+
+[Scene 15]
+- [Scene Name]: The Glass Prison
+- [Environment]: The soul store's shop floor, illuminated by mystical lighting that casts an eerie glow on shelves lined with trapped souls. The time is indistinct, as the store seems to exist outside the normal flow of hours.
+- [Characters Present]: The protagonist's soul (now in a glass bottle), the Shadow assistant.
+- [Dialogue]: None.
+- [Camera Info]: The scene starts with a tracking shot following the Shadow as he walks onto the shop floor. The perspective shifts to a first-person view from within the glass bottle, showing the blurred figure of the Shadow and the rows of shelves filled with other soul bottles.
+- [Sound Elements]: Muffled voices from the shop floor, soft footsteps of the Shadow, the haunting hum of captive souls, and a subtle, eerie soundtrack that underscores the protagonist's isolation.
+- [Voiceover]: "Carried by the Shadow, now a silent ferryman, the protagonist's soul is placed among a macabre collection. Each glass vessel, a silent sentinel to a pact sealed and a destiny bound."
+- [Text-to-Image Prompt]: View from inside a clear glass bottle looking out at the shadowy figure of the Shadow assistant as he places the bottle on a shelf. The surrounding environment is a shop filled with shelves of similar bottles, each emitting a faint glow. The focus is on the other trapped souls, their faces pressed against the glass, yearning for freedom. The lighting creates an aura of hopelessness around the new addition to this collection of despair.
+
+---
+
+[Scene 16]
+- [Scene Name]: Eternal Silence
+- [Environment]: Close-up inside the glass bottle, the environment around is blurred, signifying isolation from the outside world.
+- [Characters Present]: The protagonist's soul.
+- [Dialogue]: None.
+- [Camera Info]: The camera is fixed within the glass bottle, capturing the protagonist's soul's expressions of anger and desperation as it realizes the extent of its imprisonment.
+- [Sound Elements]: The protagonist's muffled screams are inaudible outside the bottle, underscored by a haunting silence that amplifies the sense of entrapment.
+- [Voiceover]: "Within the confines of a glass prison, screams of vengeance and curses upon the living echo unheard. An eternity of silence awaits, a solitary witness to the protagonist's unyielding defiance."
+- [Text-to-Image Prompt]: A detailed close-up of the protagonist's soul, its face twisted in an expression of rage and despair, screaming silently within a crystalline bottle. The bottle refracts the eerie light, casting spectral patterns that dance across the soul's visage, embodying the poignant solitude of its eternal captivity.
+
+---
+

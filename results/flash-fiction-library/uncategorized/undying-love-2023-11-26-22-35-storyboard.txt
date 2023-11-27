@@ -1,0 +1,127 @@
+
+---
+
+[Scene 1]
+- [Scene Name]: Final Signature
+- [Environment]: The sterile lawyer's office is bathed in the harsh light of midday, the air cool and filled with the hum of the air conditioning.
+- [Characters Present]: Michael, a son of Death with a skull-like smile and wearing a mix of contemporary and ethereal attire, and the Lawyer, a woman with blood-red nails and pale skin.
+- [Dialogue]: Lawyer: "Michael, can I have my pen back?". Michael: "Sure, sure. I think we are done here. Anything else I need to sign?". Lawyer: "No, Michael. Nothing else. The divorce is now full and final. Congratulations."
+- [Camera Info]: Begin with a close-up on the Lawyer's outstretched hand, her red nails prominent. Cut to Michael's face, showing his resignation. Zoom out slowly to a medium shot as he speaks. Cut back to a close-up of the Lawyer's faux-smile as she delivers her final line.
+- [Sound Elements]: The faint buzz of the air conditioning, the distant sound of traffic honking, and the subtle sound of pen on paper as Michael signs.
+- [Voiceover]: "In a realm between the living and the departed, Michael, the immortal son of Death, confronts the mortality of his marriage. The cool air of the lawyer’s office whispers of finality as he relinquishes his bond to his mortal love."
+- [Text-to-Image Prompt]: Visualize a stark, modern lawyer's office with minimalist furniture. The room is quiet except for the air conditioning's soft breathing. Michael, with his gaunt features, sits across from the Lawyer, dressed in a blend of a dark tailored suit and otherworldly accessories. The Lawyer's pale hand with blood-red nails extends towards Michael, holding a sleek, silver pen. Michael's face shows a mix of sorrow and relief under the room's cold lighting. As the camera pans out, the lawyer's forced smile cuts through the tension in the air, her teeth a stark contrast to her pale complexion.
+
+---
+
+[Scene 2]
+- [Scene Name]: The Bridge Bar Encounter
+- [Environment]: The bar under the bridge is dimly lit, with shadows dancing on the walls. It's evening and the heavy air is tinged with the acrid scent of sulfur.
+- [Characters Present]: Michael, disoriented and seeking solace in alcohol, and the Barman, a burly figure with a no-nonsense attitude.
+- [Dialogue]: Barman: "Buddy, I think you’ve had enough."
+- [Camera Info]: A spinning overhead shot representing Michael's disorientation, then cutting to a medium shot of the barman's gruff expression. As the camera stabilizes, it reflects Michael's attempt to regain his bearings.
+- [Sound Elements]: The slow whir of a ceiling fan, the muffled sound of traffic above, and the distant drip of water from a leaky pipe.
+- [Voiceover]: "Michael's descent into the night takes him beneath the city’s veins, to a watering hole where the weight of eternity bears down upon him. The spinning room mirrors his spiraling thoughts, with the barman’s gruff voice a grounding anchor in his tempestuous sea."
+- [Text-to-Image Prompt]: Picture a gloomy bar with an atmosphere heavy with despondency. It's under an old stone bridge, with moisture seeping through its walls. Michael, looking disheveled with his eclectic attire, sits slouched at the bar. The ceiling fan spins lazily above, casting an oscillating light that plays across his hollow features. A troll-like figure looms in the background, blurry and out of focus. The barman, rugged and world-weary, leans over the counter with a look of concern directed at Michael, the dim light catching the edges of bottles lined up on the shelves behind him.
+
+---
+
+[Scene 3]
+- [Scene Name]: The Last Drink
+- [Environment]: A dimly lit, damp bar under a bridge at night. The air is heavy with the smell of sulfur, and the bar's atmosphere is suffused with the murky glow of scattered, low-hanging lights.
+- [Characters Present]: Michael (drinking, disheveled), Barman (stubby, grubby fingers, nonchalant), Troll (implied presence, source of sulfur scent)
+- [Dialogue]: Barman: "Sure, OK, buddy, but this is your last one and then I’m gonna call you a cab and you’re gonna go home to your wife." Michael: "Of course, Trolls don’t like silver. No silver. Not gooooo–"
+- [Camera Info]: A close-up on the Barman's hands as he pours the drink, transitioning to a medium shot of Michael snorting and giggling. A quick zoom to the wedding ring on Michael's finger as he pulls it off. A pan following Michael as he staggers away from the bar.
+- [Sound Elements]: The clinking of the bottle, ambient bar noises, muffled cackling of witches in the background, Michael's snorting giggle, the clatter of the silver ring on the counter, and a thud as Michael collapses.
+- [Voiceover]: "In a shadowy nook under a bridge, where otherworldly patrons lingered, Michael found solace in spirits of a different kind. The barman's final offer of a drink was laced with irony – a ride home to a wife no longer his. The ring, a circle of endless commitment, now a relic of a severed tie, clatters to its final rest as Michael's night fades to black."
+- [Text-to-Image Prompt]: Capture the gritty ambience of the bar, shadows playing across Michael's gaunt, skull-like face as he raises a glass with bony fingers. The barman, a figure of indifference, stands in a stained apron, pouring the drink with his grubby fingers. A subtle greenish haze suggests the nearby presence of a troll. Focus on the silver ring slipping off Michael's finger and onto the grimy bar top, its metallic sheen stark against the wood. Michael's drunken stumbling retreat is framed by the backdrop of the dimly lit bar, with silhouettes of other patrons visible in the smokey haze.
+
+---
+
+[Scene 4]
+- [Scene Name]: Fragmented Memories
+- [Environment]: An unspecified, metaphorical location that is disorienting, with a sudden change in light and atmosphere, possibly representing the transition from the bar to a dreamlike state or Michael's former home.
+- [Characters Present]: Michael (disoriented, waking), Unidentified Voice (off-camera, concerned)
+- [Dialogue]: Unidentified Voice: "...must’ve snuck in last night with his old keys…trying to make a statement? Or was it anger? Probably both. All I know, is… you know how it was when you were young too?"
+- [Camera Info]: A series of disjointed shots mimicking Michael's disorientation, blurry and swirling transitions between darkness and light. Then a sudden cut to a close-up of Michael's eye opening to a blinding light.
+- [Sound Elements]: Murmured, echoing voice drifting in and out, a soft ambient hum suggesting unconsciousness, a sharp crescendo as the light floods in, and Michael groans.
+- [Voiceover]: "Adrift in the void of his own tumultuous thoughts, Michael's consciousness teeters on the edge of reality. Whispers of the past haunt the periphery of his awareness, grappling with the specter of choices made. Abruptly, the comfort of darkness is shattered, as light invades and the world demands his return."
+- [Text-to-Image Prompt]: Illustrate a sequence of abstract, swirling patterns shifting between shadows and light, evoking the feeling of Michael's subconscious mind grappling with hazy memories. Transition to a stark, bright light overwhelming the frame, symbolizing the abrupt return to consciousness. Michael's face is partially illuminated, showing a mixture of pain and confusion. The surroundings are blurred and indistinct, focusing solely on Michael's awakening with the bright light casting stark contrasts across his features, accentuating the skull-like smile.
+
+---
+
+---
+
+[Scene 5]
+- [Scene Name]: The Awakening in the Afterlife
+- [Environment]: Michael's room in the afterlife. It's an ethereal space that blends the familiar comfort of a bedroom with otherworldly elements. The atmosphere is soft and suffused with a gentle, otherworldly light. Time is an irrelevant concept here.
+- [Characters Present]: Michael (immortal son of Death), Death (Michael's father), Michael's Mother (unnamed Valkyrie)
+- [Dialogue]: Death: "Hey, Michael, you up? About time." Michael: "I’m dead, aren’t I?" Death: "Yes, my boy, you are dead. Have you learned your lesson?" Michael's Mother: "Dear, don’t do that! That won’t solve anything. Just let the boy be."
+- [Camera Info]: The camera starts with an overhead shot of Michael lying down, slowly zooming in as Death speaks. It then cuts to a close-up of Death's towering figure as he speaks, followed by a reverse shot to Michael's perspective as he realizes his state. When Michael's mother speaks, the camera switches to her, capturing her stern yet caring expression.
+- [Sound Elements]: The scene opens with ethereal ambient music that sets a tone of calmness and otherness. Death's laughter is a deep echo reminiscent of graveyards, and the creaking of his bones sounds like ancient crypt doors swinging open. Michael's mother's voice has a melodic quality with a strong Norse accent.
+- [Voiceover]: "In the afterlife, Michael stirs from his slumber, greeted by the looming presence of Death and the caring Valkyrie accent of his mother. In this realm beyond time, the immortal son confronts the truth of his existence, guided by the love of his ethereal parents."
+- [Text-to-Image Prompt]: Visualize an expansive, serene bedroom merging modern furnishings with incorporeal qualities, like walls that shimmer with a spectral glow. Michael, a blend of human and skeleton features, lies on the bed with a contemplative expression. Death, a towering skeletal figure in flowing black robes, stands beside him with a parental presence. In the background, a strong yet tender Valkyrie woman watches over the scene, her attire a fusion of Norse armor and comforting fabrics. The light casts soft shadows, emphasizing the emotional weight of the moment.
+
+---
+
+[Scene 6]
+- [Scene Name]: The Disappointing Truth
+- [Environment]: The same as the previous scene in Michael's room in the afterlife, but now the focus is more intimate, centering around the personal dynamics between the characters.
+- [Characters Present]: Michael, Death, Michael's Mother
+- [Dialogue]: Michael: "It was all just so-so-so… Disappointing. It was just disappointing, Dad."
+- [Camera Info]: Close-up shots alternating between Michael and Death as they share this moment of emotional honesty. A slow dolly-in towards Michael's face as he speaks his heart, and then cutting to an over-the-shoulder shot from Michael's perspective showing Death's unchanging skull smile.
+- [Sound Elements]: The background score lowers to a near silence, emphasizing the gravity of Michael's admission. The sound design focuses on the subtle emotional cues of the characters' voices.
+- [Voiceover]: "A moment of unspoken understanding passes between father and son, as Michael lays bare the sorrow of his immortal heart. In the realm of Death, where every smile is eternal, the pain of disappointment echoes with a particular poignancy."
+- [Text-to-Image Prompt]: Capture a close-up of Michael's face, his eyes betraying a deep sadness that belies his skeletal smile. Across from him, Death's skull, always in a grin, reflects an empathetic solemnity. The environment, while still ethereal, feels more closed in, emphasizing the intimacy of the moment. The Valkyrie mother stands slightly out of focus in the background, her expression a mixture of concern and strength. The soft lighting accentuates the characters' expressions, casting deep shadows that mirror the emotional depth of the scene.
+
+---
+
+---
+
+[Scene 7]
+- [Scene Name]: The Comforting Pat
+- [Environment]: Michael's room in the afterlife, a space that combines the familiar with the surreal. The room is dimly lit by an unknown source, creating soft shadows that dance across the walls. Time is irrelevant here.
+- [Characters Present]: Michael (son), Death (father)
+- [Dialogue]: Death: "There will be other mortals, other times and other chances at love."
+- [Camera Info]: Close-up on Death's hand as it pats Michael's leg, transitioning to a wide shot that captures both characters in the frame.
+- [Sound Elements]: The sound of Death's touch echoes like a thousand skeletons dancing, adding a chilling yet comforting auditory layer.
+- [Voiceover]: "In a room where eternity whispers through the walls, Death's skeletal hand, as tender as the gravest shadow, reassures his immortal son with the promise of love's return."
+- [Text-to-Image Prompt]: Imagine a dimly lit, ethereal bedroom with walls that seem to be made of a soft, nebulous material. Death, a skeletal figure shrouded in dark robes, is sitting beside a bed where Michael, a man with bony fingers and a skull-like smile, is seated. Death's hand gently pats Michael's leg, which echoes hauntingly. The ambience of the room is one of somber comfort, with shades of blue and gray dominating the color palette.
+
+---
+
+[Scene 8]
+- [Scene Name]: The Missing Limb
+- [Environment]: Michael’s room in the afterlife. The surroundings are a blend of earthly and ethereal, with a bed that looks both inviting and out of place.
+- [Characters Present]: Michael (son)
+- [Dialogue]: Michael nods, acknowledging his father's words.
+- [Camera Info]: Medium shot of Michael as he attempts to rise, followed by a quick cut to a low angle shot of his legs, highlighting the missing part.
+- [Sound Elements]: A soft thud as Michael topples to the floor, creating a sharp contrast to the previous ethereal sounds.
+- [Voiceover]: "Michael, heart heavy and mind clouded, attempts the mundane act of rising. But reality, or the lack thereof, sends him tumbling down, a reminder of his fragmented existence."
+- [Text-to-Image Prompt]: Picture Michael in a state of disarray, as he tries to stand from an antique bed in a room that feels both cozy and otherworldly. As he stands, he unexpectedly falls to the floor, looking bewildered. The room's lighting casts dramatic shadows, emphasizing the shocking moment when he realizes his leg is missing. The atmosphere is tinged with confusion and vulnerability.
+
+---
+
+[Scene 9]
+- [Scene Name]: Maternal Comfort and Recovery
+- [Environment]: The same room in the afterlife, with the atmosphere now infused with a soft, golden light, suggesting a new morning or the warmth of family.
+- [Characters Present]: Michael (son), Michael's Mother (Valkyrie)
+- [Dialogue]: Michael's Mother: "Don’t worry, my love. Let your Dad help you pop the leg back on and then come down for breakfast."
+- [Camera Info]: Close-up on Michael's Mother's face, filled with maternal warmth, then cutting to her hand picking up the fibula.
+- [Sound Elements]: The gentle, reassuring tone of the Valkyrie’s voice with a subtle background hum that signifies the afterlife's serenity.
+- [Voiceover]: "In the comforting glow of the room, the Valkyrie's voice, soft as a feather on the wind, dispels the chaos. Her warrior's hands, now tender, retrieve what was lost."
+- [Text-to-Image Prompt]: Visualize a nurturing Valkyrie, her attire a mix of traditional Norse garb and armor, bending over to pick up a bone from amongst the remnants of a shattered picture frame. The room is bathed in a warm light that seems to emanate from her presence. Her face shows a mixture of concern and love as she reassures Michael. The emotional atmosphere is one of comfort and familial support.
+
+---
+
+[Scene 10]
+- [Scene Name]: A Grateful Son
+- [Environment]: The room in the afterlife, steadily becoming brighter, reflecting the emotional shift towards hope and acceptance.
+- [Characters Present]: Michael (son), Death (father), Michael's Mother (Valkyrie)
+- [Dialogue]: Michael: "Thanks, Dad. Mom. I really love both of you. You don’t mind if I crash here for a while? She also got the house..."
+- [Camera Info]: A series of close-ups on Michael, Death, and his Valkyrie mother, capturing their expressions, then pulling back to a full shot to envelop the family together.
+- [Sound Elements]: Soft instrumental music that swells with warmth and a hint of melancholy.
+- [Voiceover]: "With humility and love, Michael voices his gratitude, his voice a tender thread weaving through the tapestry of eternity. The son, embraced by the immortal love of his parents, finds solace in his timeless refuge."
+- [Text-to-Image Prompt]: A heartfelt scene unfolds with Michael, his parents on either side. Michael's appearance is a contrast between his human-like torso and the skull-like face, reflecting his dual nature. Death, with a paternal and sad smile, and the Valkyrie mother, with a face that radiates warmth, are both touching moments of reassurance. The room now feels like a sanctuary, a family haven where Michael is enveloped in love and acceptance, the light enhancing the sentiment of a safe haven.
+
+---
+

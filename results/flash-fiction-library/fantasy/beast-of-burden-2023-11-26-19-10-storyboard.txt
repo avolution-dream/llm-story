@@ -1,0 +1,74 @@
+
+---
+
+[Scene 1]
+- [Scene Name]: The Bitter Awakening
+- [Environment]: Early morning in a back alley of the city, with the first light of dawn breaking. Shadows still linger in the corners where the protagonist has made his bed, and the environment is quiet except for the occasional car passing by.
+- [Characters Present]: The Sin Eater (Protagonist)
+- [Dialogue]: None in this scene.
+- [Camera Info]: Close-up on the Sin Eater's face as he awakens, then cut to a medium shot showing him in his makeshift bed. A smooth tracking shot follows the empty bottle rolling away.
+- [Sound Elements]: Ambient sounds of the city waking up, distant traffic, the subtle sound of breathing, and the flick of a lighter.
+- [Voiceover]: "The back of his throat tasted bitter, and his mouth was dry. His head throbbed with the echoes of the night before and the weight of a thousand sorrows."
+- [Text-to-Image Prompt]: Visualize an alleyway at dawn, dimly lit with the soft glow of sunrise filtering in. The Sin Eater lies on a bed of cardboard. Close-up on his face showing the discomfort of his awakening. The camera pans out, revealing his surroundings - a desolate space with trash scattered around. An empty bottle rolls away, capturing the quiet despair of the scene. The light of a flickering flame as he lights his cigarette casts moving shadows over his face, reflecting the turmoil within.
+
+---
+
+[Scene 2]
+- [Scene Name]: The Sin Eater's Solitude
+- [Environment]: The alleyway has begun to brighten as the sun rises higher. The harsh reality of the urban landscape is visible with more clarity now.
+- [Characters Present]: The Sin Eater
+- [Dialogue]: None in this scene.
+- [Camera Info]: A bird's-eye view showing the Sin Eater's small area within the vast city. The camera then zooms in slowly to a low angle shot of him smoking, gazing at the sky.
+- [Sound Elements]: Soft rustling of paper as he smokes, the distant hum of the city growing busier, and a faint melody that speaks to the protagonist's isolation.
+- [Voiceover]: "Infinitely swirled above his bed, the morning stars twinkled out of existence as the sun claimed the sky. His gaze was fixed upwards, lost in thoughts that sought to escape the night's dark hauntings."
+- [Text-to-Image Prompt]: The camera looks down on the sprawling city from above, narrowing its focus to the small figure of the Sin Eater. He smokes his cigarette, the smoke curling up towards an endless sky. The camera closes in on his face, revealing eyes that have seen too much, staring into the distance. The contrast between the vastness of the city and his lone figure is stark, emphasizing his isolation amidst the urban chaos.
+
+---
+
+[Scene 3]
+- [Scene Name]: The Unseen Burden
+- [Environment]: The city street, busy with morning commuters and the sounds of a city coming to life. The sky is a clear blue, and the rush of the day has begun.
+- [Characters Present]: The Sin Eater, The Stranger
+- [Dialogue]: 
+The Sin Eater: "Hey buddy, she wasn’t worth it. She really wasn’t. You’re better off without her."
+- [Camera Info]: The camera follows the Sin Eater from behind as he rises and steps onto the busy sidewalk. A quick cut to the Sin Eater's point of view as he approaches the Stranger. The final shot is a close-up of the Stranger's face, capturing his shocked expression.
+- [Sound Elements]: The cacophony of the city grows louder, footsteps, chatter, and the occasional car horn. The Stranger's gasp is audible over the din as he's addressed.
+- [Voiceover]: "He stepped into the city's heart with its indifference and its pain. His words, though softly spoken, were heavy with a truth only he could see."
+- [Text-to-Image Prompt]: The Sin Eater, disheveled and seemingly insignificant, moves through the morning crowd. The camera captures the indifferent faces of the city dwellers before focusing on the Sin Eater speaking to a well-dressed man. The Stranger's face transitions from annoyance to surprise, his expression frozen as the Sin Eater's words strike a chord. The city moves around them, a blur of activity, as they stand in a moment of frozen connection.
+
+---
+
+[Scene 4]
+- [Scene Name]: The Intervention
+- [Environment]: A bustling city street in the early hours of the morning, with the first rays of dawn casting long shadows between the towering buildings. The air is cool and the street is just starting to wake with the distant sound of traffic and the city's pulse.
+- [Characters Present]: The Sin Eater (Protagonist), The Stranger
+- [Dialogue]: Sin Eater: "Don't worry, buddy, I'm a Sin Eater. That's what I do. You were wrong. She was wrong. And that's all fine. Now throw that gun away, and don't hurt all those people. Just don't. You'll be fine and live a good life."
+- [Camera Info]: Begin with a close-up on the Sin Eater's empathetic eyes as he speaks, then cut to the Stranger's hand holding the gun, trembling. Slow zoom out to capture both characters in the frame.
+- [Sound Elements]: Ambient street noise underpins the scene, with a low, tension-filled score that rises subtly in volume as the Sin Eater speaks.
+- [Voiceover]: "In the quiet dawn, an unremarkable hero steps forth, his voice gravelly with the weight of many sorrows, yet steady as he speaks words of absolution to the lost soul before him."
+- [Text-to-Image Prompt]: Visualize the Sin Eater, his face etched with the lines of hardship, reaching out to touch the Stranger's arm, a gesture both comforting and transformative. The Stranger's expression is a complex tapestry of fear, anger, and sudden relief. The city street around them is muted, the early morning light casting a soft glow on the scene. The tension is palpable, yet there's a sense of impending release as the Sin Eater's words hover in the air between them.
+
+---
+
+[Scene 5]
+- [Scene Name]: The Sin Eater’s Burden
+- [Environment]: The stranger has walked away, leaving the Sin Eater alone on the city street, now more populated and alive with the morning rush. The Sin Eater's shoulders are hunched, his face contorted with the pain he's absorbed.
+- [Characters Present]: The Sin Eater
+- [Dialogue]: Sin Eater: (Muttering to himself) "Not all heroes wear capes. Some don't even have homes."
+- [Camera Info]: A wide shot to establish the Sin Eater's solitude in the crowd. Cut to a medium shot of his face, showing the pain and turmoil he now bears. The camera then follows him from behind, highlighting his isolation as he moves through the bustling city.
+- [Sound Elements]: The sound of the city grows louder, juxtaposed with a solitary, melancholic melody that underscores the Sin Eater's internal struggle.
+- [Voiceover]: "As the world awakens, unaware, the Sin Eater walks among them, his newfound anguish a silent scream amidst the cacophony of the oblivious city."
+- [Text-to-Image Prompt]: Capture the Sin Eater, now alone, his posture stooped under the invisible weight he carries. The city around him is alive with people, the contrast of his stillness against their movement accentuating his isolation. His face is a mask of pain, his eyes reflecting a world of hurt that only he can see. The camera's perspective is intimate, yet also detached, as if the viewer is glimpsing into a hidden world of sorrow within the mundane.
+
+---
+
+[Scene 6]
+- [Scene Name]: Seeking Solace
+- [Environment]: A neglected alleyway, dimly lit by a single flickering street lamp. The Sin Eater's makeshift bed of cardboard lies in the shadows, away from the eyes of the city.
+- [Characters Present]: The Sin Eater
+- [Dialogue]: None
+- [Camera Info]: Close-up on the Sin Eater's hands as they shake while trying to open a bottle. Zoom out slowly to show him in the context of his meager surroundings.
+- [Sound Elements]: The distant city sounds are muffled here, replaced by the Sin Eater's heavy breathing and the crackling of the street lamp.
+- [Voiceover]: "In the solace of shadows, the Sin Eater seeks refuge, his only companion the burning liquid that promises to drown the unbearable echoes of pain."
+- [Text-to-Image Prompt]: Detail the Sin Eater in his alleyway sanctuary, the grimy walls and rough texture of cardboard beneath him. The bottle in his hands is old, the label worn away, the clear liquid inside his desperate attempt to numb the roaring pain. The street lamp's light flickers, casting an intermittent glow that reflects in the Sin Eater's weary eyes, full of torment and the unspoken knowledge of countless sorrows.
+

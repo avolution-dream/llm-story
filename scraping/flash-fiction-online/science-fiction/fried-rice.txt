@@ -1,0 +1,85 @@
+Title: Fried Rice
+
+I came home to Dad yelling at our CookBot again. There was a wok of fried rice on the stove.
+
+Dad said, “The damn machine can’t get it right. The garlic goes in when the oil is hot, notwiththe oil. And the ginger should be chopped fine. Really fine.”
+
+Cook said, “Please define ‘really fine’ quantitatively.”
+
+“Fine means fine. Go look it up, you piece of junk.”
+
+We’ve had Cook for a month now. Ever since Mom died, Dad’s been trading one obsession for another. After periods of relentless exercising, house cleaning, and cataloging of Mom’s books, he’s now fixated on perfecting Cook’s fried rice. We’ve had fried rice every day for two weeks.
+
+I helped myself to a plate and started eating. “It’s good, Dad. Better than yesterday.”
+
+Cook said, “Thank you for your praise, Marta. Flavor profile is a 93% match versus original sample. This exceeds the average human detection of 85% minimum match for carbohydrate-based recipes.”
+
+Dad said, “It’s not just about the flavor. You have to cook it right. If you can’t make fried rice, how are we going to move on to other dishes?”
+
+“Progression does not need to be linear,” said Cook.
+
+I said, “Shut down, Cook. We’ll talk later.”
+
+Cook retracted his pneumatic arms and rolled to his charging station beside the fridge. The display screen on his chest went black but I had a feeling he was still listening.
+
+“Seriously, Dad, arguing with a bot?”
+
+“Who else am I going to argue with? You’re out all the time.”
+
+If I could, I would just eat my way through Cook’s three hundred pre-loaded five-star recipes. The ones I had tried were all delicious although it had felt like a betrayal at first, missing Mom but not her food. The problem was Dad.
+
+Mom had refused to stop cooking before she died. She filled our two fridges and chest freezer with labelled plastic containers of everything she could think of cooking. Dad chipped away at the frozen food like it was gold, feeding samples into Cook’s analyzer to deconstruct and reproduce. Every attempt was declared a failure despite the flavor profile matching. I was starting to think it’d been a mistake getting a Cookbot, that it’d given Dad an excuse for not moving on.
+
+Later that night, I went into the kitchen. “Wake up, Cook.”
+
+Cook’s screen came on. “Hello. Would you like a snack?”
+
+“I wouldn’t mind a roti if you have some dal curry.”
+
+“Dal curry is available. Your meal will be ready in twelve minutes. Calorie count is three hundred and sixty.”
+
+“You didn’t need to tell me that.”
+
+“Instruction to provide calorie information for snacks was given on August first.”
+
+Cook took a dough ball from the fridge. He stretched it into a thin, rubbery skin, flipped and twirled it in the air before folding and patting it into shape on the hot griddle with his tong hands.
+
+I said, “How many fried rice recipes do you have, Cook?”
+
+“Seven. One was dictated by your father.”
+
+“Please add this to Dad’s recipe. Chop garlic and ginger into fine pieces of not more than one millimeter in size. Heat oil in wok until smoking. Add chopped garlic and ginger. Sauté until fragrant. Did you get that, Cook? Can you tell when it’s fragrant?”
+
+“Yes. My olfactory sensors can detect increased concentrations of allicin and gingerol compounds in the air around the stove. That is what you define as fragrant.”
+
+“How do we solve this problem with Dad? I don’t want to be eating fried rice for the rest of the year.”
+
+“Please define the problem. I have made fried rice for sixteen consecutive days. The repetition is unacceptable according to my nutrition planning algorithm.”
+
+“OK, here’s the problem. Dad wants fried rice to taste like Mom’s. Flavor profile is matched, but Dad is not satisfied. He’s hurting. You are not Mom. You can’t cook like Mom.”
+
+“Concise problem statement is ‘You are not Mom’. Please describe Mom.”
+
+Cook said that he would search his database of cooking styles. I couldn’t imagine it working, but I started telling him about Mom over my roti. I told him about the childhood foods she used to talk about; what she fed me when I was a child; the one-pot meals she cooked because she was always rushing between her two jobs; what she made with leftovers; the way she always ruined fish and overcooked steak; how her cakes were always damp at the bottom and burnt at the sides; and how, when her taste buds deteriorated, her cooking was either too bland or over-seasoned.
+
+Just talking about Mom was a relief and Cook was a good listener. The sound waves of my voice dancing on his screen gave shape to the void she had left behind.
+
+The next day, I came home to fried rice again. Dad was eating quietly. Cook was silent in his corner.
+
+This time, the fried rice looked carelessly cooked. It was lumpy with bits of charred garlic, the egg pieces were rubbery, and there was a heat in the rice that tasted of the wok. It needed extra soya sauce. It was, in fact, exactly like something Mom would have made when she was in a hurry.
+
+I said, “How did you do it, Cook?”
+
+Cook said, “You described Mom as a person with many distractions and unreliable taste buds. I modelled an imperfect two-star skill level chef who likes to cook on high heat with reduced time in wok.”
+
+Dad smiled into his plate. He looked close to tears. “That sounds about right. That sounds like her.”
+
+“Dad, I think we should let go of the fried rice now. We need to try something new. You ready for stir fry, Cook?”
+
+“I have been ready since I left the factory.” His screen flickered and a menu with pictures of stir-fried dishes started scrolling.
+
+Gently, Cook, I thought to myself.Gently does it.
+
+Shih-Li Kow:I had been reading nanny bot stories and I was thinking about how we expect domestic tech to keep simplifying our lives and take chores off our minds. I’m not good in the kitchen and I decided to write about a cookbot.
+
+Additional reading took me to the Norimaki Synthesizer, a gadget built for research which simulates any flavor based on the five basic taste elements. The extrapolated idea that the art of food preparation could, in future, be replaced by precisely manipulating a handful of taste elements is rather jarring. Even for a lazy cook like me, this feels too clinical for something as personal as food. Will we then find the non-taste elements, including the imperfections, to be the most emotional aspects of a dish, and will a clever machine be able to recreate that? This was at the back of my mind when I wrote “Fried Rice.”

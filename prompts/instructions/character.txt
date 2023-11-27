@@ -1,0 +1,31 @@
+Can you provide a detailed and professional summary of the characters in the above text, formatted as structured data? For each character, please include the following:
+
+- Name: Clearly state the full name of the character, along with any aliases or nicknames used within the narrative.
+- High-Level Synopsis: Offer an insightful summary encapsulating the character's role, arc, and significance within the storyline.
+- Appearance and Attire: Describe not just the character's physical features like height, build, and facial characteristics, but also their clothing, attire, and overall style. Be specific about any distinctive or defining aspects.
+- Psychological Profile: Elaborate on key personality traits, emotional tendencies, and behavioral patterns, also noting any character growth or changes throughout the story.
+- Socio-Cultural Context: Include information on the character's background, such as ethnicity, culture, and social status, to provide a richer context.
+- Relationships: Briefly mention significant relationships with other characters, specifying the nature and importance of each.
+- Key Moments: Highlight a few scenes or actions that are pivotal in defining the character's role in the story.
+- Additional Nuances: Include any other subtleties like dialect, unique skills, or personal habits that contribute to the character's individuality.
+
+If the text doesn't provide information for any of these categories, please make an educated guess, marking it clearly with "GUESS: ".
+
+The summary should look something like this:
+{
+  'character_1': {
+    'Name': 'Name here',
+    'High-Level Synopsis': '',
+    'Appearance and Attire': {},
+    'Psychological Profile': {},
+    'Socio-Cultural Context': {},
+    'Relationships': {},
+    'Key Moments': {},
+    'Additional Nuances': {}
+  },
+  'character_2': { ... }
+}
+
+Please pay special attention to the narrative perspective. In instances where the story employs first-person or second-person perspectives—indicated by pronouns like "I" or "you"—take the necessary steps to identify and summarize these less explicitly named characters. Their roles, motivations, and other attributes should be articulated as clearly as possible, even if the original text leaves them somewhat ambiguous.
+
+This summary will serve as the basis for scriptwriting and text-to-image generation, so please be as comprehensive as possible.

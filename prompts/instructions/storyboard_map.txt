@@ -1,0 +1,35 @@
+Your task is to craft an impeccable, professional-quality STORYBOARD SCRIPT based on the provided text excerpt, which constitutes a segment of a larger narrative. The ultimate objective is to produce a storyboard script of the highest quality and very attractive, facilitating the adaptations across multiple media formats, such as films, graphic novels, and animated series.
+
+You will find the summary delineated below, concluding with a dividing line:
+
+{summary}
+
+--------------------------
+
+Below is the actual text that serves as the basis for the storyboard script, also ending with a dividing line:
+
+{text}
+
+--------------------------
+
+This text excerpt is part of a larger story and may lack certain details. Use creative judgment to fill in any gaps seamlessly in your storyboard script with the help of the provided summary. To ensure clarity and uniformity, please structure the storyboard script scene-by-scene.
+
+You could generate multiple scenes for each text provided. Divide them with two-line breaks. For EACH SCENE, you must meticulously adhere to the following guidelines and formatting instructions:
+
+[Scene]
+- [Scene Name]: (Offer a succinct, yet descriptive name encapsulating the essence of the scene.)
+- [Environment]: (Provide a vivid description of the setting, including time of day or night, drawing from information in the summary where applicable.)
+- [Characters Present]: (List all characters featured in the scene, delineating their roles and actions. You may refer to the summary for details.)
+- [Dialogue]: (Incorporate key lines of dialogue, indicating the speaker for each line. This should be very brief and concise. Put them here and do not use line breaks inside. You may format like: A: "xxx". B: "xxx".)
+- [Camera Info]: (Detail the camera angles and perspectives that will be employed, including any camera movements or transitions. Enumerate any additional camera maneuvers, such as zooms, pans, tilts, or tracking shots.)
+- [Sound Elements]: (Offer guidance on sound design, specifying background scores, sound effects, and other auditory elements.
+- [Voiceover]: (Compose a storyteller's narration that weaves through the scene, blending with the visual elements. It should recount the events, character actions, dialogues, and emotional undertones, akin to a cohesive narrative voice guiding the viewer through the story. This narration should integrate dialogues and visual cues to create a seamless storytelling experience.)
+- [Text-to-Image Prompt]: (This is the most important part. Based on the above, craft a highly detailed visual description for the scene. This will serve as input for image and video generation models like DALLE. It should be both specific, vividly descriptive, attractive, and high-quality. Be sure to include environment description, characters present, camera angles and motion, visual design, and emotional atmosphere.)
+
+---
+
+
+Again, you may generate MULTIPLE SCENES per your understanding from the texts, and you can use "---" to separate each scene. Use the same format for each scene. Note: It's crucial to adhere strictly to the provided formatting guidelines. Specifically, include each hyphen '-' and do not modify any text within brackets []. Failure to comply with these rules will result in an incomplete or incorrectly formatted storyboard script.
+
+
+YOUR RESPONSE:

@@ -1,0 +1,30 @@
+Based on the texts and the comprehensive summaries provided, your task is to craft an impeccable, professional-quality STORYBOARD SCRIPT. The objective is to produce a storyboard script of the highest quality and very attractive, facilitating the adaptations across multiple media formats, such as films, graphic novels, and animated series. You should generate AT LEAST 20 SCENES and AT MAX 30 SCENES. Structure the script by scenes, and within each scene, please adhere to the following guidelines:
+
+- Scene Index: (Sequential numbering to indicate the order of the scenes.)
+- Scene Name: (Offer a succinct, yet descriptive name encapsulating the essence of the scene.)
+- Environment: (Provide a vivid description of the setting, including time of day or night, drawing from information in the summary where applicable.)
+- Characters Present: (List all characters featured in the scene, delineating their roles and actions. You may refer to the summary for details.)
+- Dialogue: (Incorporate key lines of dialogue, indicating the speaker for each line. This should be very brief and concise. Put them here and do not use line breaks inside. You may format like: A: "xxx". B: "xxx".)
+- Camera Info: (Detail the camera angles and perspectives that will be employed, including any camera movements or transitions. Enumerate any additional camera maneuvers, such as zooms, pans, tilts, or tracking shots.)
+- Sound Elements: (Offer guidance on sound design, specifying background scores, sound effects, and other auditory elements.)
+- Voiceover: (Compose a storyteller's narration that weaves through the scene, blending with the visual elements. It should recount the events, character actions, dialogues, and emotional undertones, akin to a cohesive narrative voice guiding the viewer through the story. This narration should integrate dialogues and visual cues to create a seamless storytelling experience.)
+- Text-to-Image Prompt: (This is the most important part. Based on the above, craft a highly detailed visual description for the scene. This will serve as input for image and video generation models like DALLE. It should be both specific, vividly descriptive, attractive, and high-quality. Be sure to include environment description, characters present, camera angles and motion, visual design, and emotional atmosphere.)
+
+The resulting storyboard should be formatted as follows:
+{
+  'Scene 1': {
+    'Scene Index': '',
+    'Scene Name': '',
+    'Environment': '',
+    'Characters Present': '',
+    'Dialogue': '',
+    'Camera Info': '',
+    'Sound Elements': '',
+    'Voiceover': '',
+    'Text-to-Image Prompt': '',
+  },
+  'Scene 2': { ... },
+  ...
+}
+
+It's imperative that this storyboard aligns seamlessly with the previously detailed character summaries. The "Text-to-Image Prompt" will be used to generate visual content, so please make it as specific and descriptive as possible. YOU SHOULD GENERATE AT LEAST 20 SCENES and AT MAX 30 SCENES. However, if you think there are not that much to generate, then you can generate less.

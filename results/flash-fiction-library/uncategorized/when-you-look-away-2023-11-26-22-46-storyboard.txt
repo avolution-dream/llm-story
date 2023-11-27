@@ -1,0 +1,101 @@
+
+---
+
+[Scene 1]
+- [Scene Name]: Comforting Words
+- [Environment]: Anna's bedroom during a somber, rainy evening. The room is dimly lit, with shadows dancing on the walls as the rain patters against the window.
+- [Characters Present]: Anna, lying on her bed; Razzybones, standing beside her.
+- [Dialogue]: Razzybones: "The monsters win when you look away. You cannot look away. You must be strong and stare them down."
+- [Camera Info]: Close-up on Anna's face, buried in her pillow. Cut to medium shot of Razzybones, with a gentle, warm smile, speaking to Anna. Slow zoom in on Razzybones as he comforts her.
+- [Sound Elements]: Sound of steady rain, Anna's soft crying, and a soothing, gentle score that underlines Razzybones' words.
+- [Voiceover]: "In the quiet of her sanctuary, amidst the tears and rain, a voice of comfort speaks. Razzybones, her guardian of the imagination, stands resolute, imparting wisdom to the little warrior beneath the duvet."
+- [Text-to-Image Prompt]: Visualize an intimate, warmly lit bedroom with circus-themed decorations and a large, circus-coloured duvet. Anna, a young girl, is shown from above, her face hidden in a pillow as she cries. Beside her, Razzybones, a tall, thin figure with a top hat, exudes an aura of comfort. The room's lighting casts soft shadows, while the sound of rain creates a cocoon of intimacy. Razzybones, clothed in vibrant circus attire, reaches out a hand towards Anna, his expression one of unwavering support.
+
+---
+
+[Scene 2]
+- [Scene Name]: A Turn Towards Hope
+- [Environment]: Anna's bedroom. The rain has stopped, and a soft, blue light begins to filter through the window, giving the room an ethereal glow.
+- [Characters Present]: Anna, now sitting up on her bed; Razzybones, offering his hand with a smile.
+- [Dialogue]: Razzybones: "Come, little one. Let's get out of this room. Let's go play outside and we can practice staring the monsters down, OK?"
+- [Camera Info]: The scene begins with a shot of Anna lifting her head, then a cut to Razzybones' outstretched hand. The camera then switches to Anna's perspective, looking up at Razzybones, before a wide shot shows them both, capturing the now-blue skies outside the window.
+- [Sound Elements]: Subtle transition from the sound of rain to the sound of children playing in the distance. A hopeful, uplifting melody begins to play.
+- [Voiceover]: "The storm within and without subsides. A new light casts away shadows, and with it, Razzybones extends an invitation to a world beyond walls—a place where fears are faced, and courage blooms."
+- [Text-to-Image Prompt]: Capture the change from a gloomy, rain-soaked room to a sanctuary bathed in soft, blue light. Razzybones, in his colorful circus garb and top hat, stands with an outstretched hand towards Anna, who sits up on her bed with tear-stained cheeks. The room is filled with the tangible sense of a turning point, as the outside world transforms from grey to a hopeful blue, visible through the open window.
+
+---
+
+[Scene 3]
+- [Scene Name]: The Blue Skies Beyond
+- [Environment]: A magically transformed outdoor environment, once gloomy, now a vibrant garden or playground bathed in sunlight, reflecting Anna's shift in emotion.
+- [Characters Present]: Anna, holding Razzybones' hand; Razzybones, leading the way.
+- [Dialogue]: No dialogue in this scene, only actions.
+- [Camera Info]: A tracking shot follows Anna and Razzybones from behind as they walk towards the bright outdoors. The camera then elevates to a bird's-eye view, showcasing the transformed environment around them.
+- [Sound Elements]: The background score swells with a sense of adventure and liberation. The sounds of nature, birds chirping, and a gentle breeze complement the scene.
+- [Voiceover]: "Hand in hand with her spectral guide, Anna steps into a world remade by imagination—a place where the skies are never gray, and the rain is just a memory. Here, monsters are mere shadows, dispelled by the light of resolve."
+- [Text-to-Image Prompt]: Envision a lush, bright garden or playground appearing as if by magic outside Anna's window. Anna, now with a glimmer of a smile, takes Razzybones' delicate hand, and together they step into the sunlight that bathes the once gloomy atmosphere in warmth and vibrant colors. The scenery is alive with the energy of renewal, reflecting Anna's inner transformation towards hope and courage.
+
+---
+
+---
+
+[Scene 4]
+- [Scene Name]: Final Goodbye at the Grave
+- [Environment]: A somber funeral site under a leaden sky, with mourners dressed in black surrounding a freshly dug grave. It is midday, but the overcast weather casts a pall over the scene.
+- [Characters Present]: Anna (grieving and conflicted), Anna's Mother (supportive and sorrowful), Pastor (delivering the eulogy), Mourners (background characters).
+- [Dialogue]: Pastor: "George was a loving husband and caring stepfather to Anna."
+- [Camera Info]: Start with a wide shot showing the overall funeral. Cut to a close-up of Anna's and her mother's hands intertwined. Shift to a mid-shot of the Pastor and pan to Anna's face as she looks towards the casket.
+- [Sound Elements]: Muffled ambient sounds of a funeral service, soft crying, a distant bell tolling, and the subtle thud of the casket being lowered into the grave.
+- [Voiceover]: "As the pastor eulogizes a man whose true nature only Anna knows, a tempest of emotions rages within her. She clings to her mother, their shared grief a silent conversation of its own."
+- [Text-to-Image Prompt]: Depict a dreary funeral scene, with a crowd of mourners in black attire. In the foreground, focus on Anna, a young girl with a pensive expression, clutching her mother’s hand. The mother, her face lined with both sorrow and strength, stands by her side. In the background, a pastor speaks beside a casket suspended above a grave. The sky is grey and oppressive, complementing the heavy mood. Emotional intensity is captured in the tight grip of their hands and the tears welling in their eyes.
+
+---
+
+[Scene 5]
+- [Scene Name]: Razzybones' Whisper
+- [Environment]: Same funeral site, but the focus narrows to Anna's immediate surroundings, creating a sense of isolation from the rest of the mourners.
+- [Characters Present]: Anna (introspective and determined), Razzybones (imaginary, empowering).
+- [Dialogue]: Razzybones: "Don’t look away. Don’t ever look away."
+- [Camera Info]: Close-up on Anna's face, illustrating her internal struggle. Cut to an over-the-shoulder shot of Razzybones leaning in to whisper, though he is invisible to all but Anna.
+- [Sound Elements]: A soft, otherworldly whisper of Razzybones' voice, contrasted with the fading background funeral sounds.
+- [Voiceover]: "In the midst of her turmoil, a voice cuts through the silence—a guide in the guise of imagination. Razzybones, protector of her inner world, urges Anna to confront her past with unflinching eyes."
+- [Text-to-Image Prompt]: Close-up on Anna, her eyes showing a mix of fear and resolve. Beside her, a whimsically dressed Razzybones, in circus attire with a great top hat, leans in, his lips close to her ear. His expression is earnest and supportive. The surrounding mourners are blurred, emphasizing the intimate moment between Anna and her imaginary guardian. Razzybones' fierce blue eyes sparkle with encouragement, contrasting with the dark, heavy atmosphere of the funeral.
+
+---
+
+[Scene 6]
+- [Scene Name]: A Mother's Comfort
+- [Environment]: Anna's bedroom at night, illuminated by a soft bedside lamp. The room is cozy, with a circus-coloured duvet and the gentle sound of rain against the window.
+- [Characters Present]: Anna (frightened and seeking comfort), Anna's Mother (nurturing and understanding).
+- [Dialogue]: Anna's Mother: "What is wrong, my dear? What can mommy help with?" Anna: "Mommy, it’s the monsters again. They are there when you turn the lights off..."
+- [Camera Info]: Begin with a shot of the bedroom door opening, revealing Anna's mother. Cut to Anna under the duvet, her eyes wide with fear. Reverse shot from Anna's perspective as her mother sits on the bed.
+- [Sound Elements]: The soft patter of rain, the faint murmur of the television from the lounge, and the subtle creak of the bed as the mother sits.
+- [Voiceover]: "Retreating to the sanctuary of her room, Anna seeks solace in her mother's embrace. Together, they face the monsters of the night—a ritual of reassurance against the shadows."
+- [Text-to-Image Prompt]: Anna's bedroom, a refuge steeped in warmth. The bedside lamp casts a gentle glow over the circus-themed duvet. Anna's mother, a silhouette of comfort, sits on the edge of the bed, her hand reaching out to soothe her daughter. Anna is partially concealed under the covers, her eyes reflecting both fear and relief. The scene is intimate, with the rain's rhythm adding a lullaby-like quality. In the background, the soft light from the hallway spills in, contrasting with the coziness of the room.
+
+---
+
+---
+
+[Scene 7]
+- [Scene Name]: Embracing the Night
+- [Environment]: Anna's bedroom at night, warmly lit by a bedside lamp. The room is a cozy haven, with walls adorned with whimsical circus posters and a large window revealing the starry night sky.
+- [Characters Present]: Anna, Anna's Mother
+- [Dialogue]: Mother: "Come, let’s tuck you in and I will tell you a secret." Mother: "The monsters win when you look away. Next time, baby girl, you look straight at them and you do not look away. Do you think you can do that, my dear? Do you think you can stare the monsters down for Mommy?" Anna: (nods) 
+- [Camera Info]: Start with a wide shot of Anna's bedroom, slowly zoom in on Anna and her mother as they prepare for bed. Cut to a close-up of Anna's mother as she shares the secret. Switch to an over-the-shoulder shot from behind Anna, focusing on her mother's face.
+- [Sound Elements]: Soft background music with a comforting melody. The sound of sheets rustling as Anna is tucked in. A faint echo when the mother shares the secret, emphasizing its importance.
+- [Voiceover]: "In the quiet sanctum of Anna's room, away from the echoes of the past, her mother imparts a secret—a torch in the dark. Anna, wrapped in the colors of her inner world, listens as the words weave a spell of courage."
+- [Text-to-Image Prompt]: In a tenderly lit bedroom, Anna, a young girl with expressive eyes, is nestled under a vibrant duvet with circus patterns. Her mother, a silhouette of comfort, bends over to kiss her forehead, imparting wisdom. The room is filled with circus imagery and a soft glow reflecting a sense of protection and warmth. Camera focuses on the mother's earnest expression, her eyes alight with a mix of sorrow and hope.
+---
+
+[Scene 8]
+- [Scene Name]: The Imaginary Embrace
+- [Environment]: Anna's bedroom continues from the previous scene, with the light dimmed to a soft glow, emphasizing the transition to a realm of dreams and imagination.
+- [Characters Present]: Anna, Razzybones (imaginary)
+- [Dialogue]: There is no verbal dialogue in this scene, but the emotional exchange is palpable.
+- [Camera Info]: A gentle pan across Anna's room, pausing on her smiling face. Transition to an ethereal, slightly blurred view as if entering Anna's imagination, with Razzybones appearing beside her.
+- [Sound Elements]: A whimsical, slightly otherworldly musical cue begins, signifying Razzybones' presence. The sound of a gentle breeze or chimes might be heard.
+- [Voiceover]: "As the night whispers secrets of bravery, Razzybones, the whimsical guardian of Anna's dreams, emerges. In the soft embrace of her bed, Anna's smile reflects a shared triumph over shadows."
+- [Text-to-Image Prompt]: In a dimly lit room, Anna lies with a serene smile under the duvet. Beside her, the translucent figure of Razzybones materializes, adorned in his circus regalia and great top hat. His fierce, blue eyes sparkle with magic and empathy as he offers an invisible hug, the room around them suffused with a dreamlike quality, blurring the lines between reality and imagination.
+---
+

@@ -1,0 +1,163 @@
+
+---
+
+[Scene 1]
+- [Scene Name]: Lingering Memories
+- [Environment]: The protagonist's bedroom is dimly lit by the grey light of a rainy dawn. The sound of raindrops is a steady backdrop. The room is sparse, with a bed and minimal furnishings, reflecting a utilitarian lifestyle.
+- [Characters Present]: The protagonist lies in bed, their animalistic features softened by emotion. The companion's presence is felt but not seen, a ghostly memory that haunts the space.
+- [Dialogue]: None.
+- [Camera Info]: Begin with an overhead shot of the protagonist in bed, slowly zooming in to capture the subtle emotions playing across their face. Cut to a close-up of their entwined tails from the past, then back to the protagonist alone.
+- [Sound Elements]: The continuous sound of rain, a somber and reflective musical score that echoes the protagonist's solitude.
+- [Voiceover]: "In the quiet aftermath, as the world outside wept, so did the heart within. There, in the solitude of an unadorned room, lay the protagonist, their thoughts a tangle as intertwined as the memory of tails now unwound."
+- [Text-to-Image Prompt]: The room is cast in shades of blue and grey, the light of dawn barely penetrating the rain-streaked window. The protagonist, a hybrid creature with a visible tail, lies in a bed that looks too big for them alone. Their eyes fix on the ceiling, a mix of grief and longing etched into their brows. The camera captures the stark loneliness of the scene, the empty space beside them whispering of a presence now absent.
+
+---
+
+[Scene 2]
+- [Scene Name]: The Final Goodbye
+- [Environment]: The cemetery is bleak and sodden under a persistent rainfall, surrounded by the crumbling edifices of a once-proud city. It's dusk, with the City's lights casting an eerie glow through the curtains of rain.
+- [Characters Present]: The protagonist stands gravely with their small pack, the group's postures reflecting a collective grief. The graves around them are simple, unadorned.
+- [Dialogue]: Protagonist: "She wanted flowers on her grave, and the Apocalypse. Unfortunately, this world no longer has any flowers in it."
+Pack Member: "What will you do now? What can you do now?"
+- [Camera Info]: A wide shot establishes the cemetery, the City in the distance, before cutting to a medium shot of the protagonist speaking. Close-ups on the pack members' faces show their expressions, then back to the protagonist.
+- [Sound Elements]: Rain patters against leaves and stone, with a low, mournful cello piece underlining the dialogue. The distant hum of the City is muted, almost respectful.
+- [Voiceover]: "Amidst the graves of their kin, under a sky that mourned in endless tears, the protagonist spoke of a wish unfulfilled, a world bereft of beauty. The pack stood sentinel, their silence a heavy shroud upon the land."
+- [Text-to-Image Prompt]: Rain-soaked graves line the foreground, with the protagonist and their pack in the middle ground, facing the camera. The protagonist's voice carries a weight that stirs the air. The City's distant lights flicker through the rainfall, creating a soft bokeh effect. The camera focuses on the protagonist's face, capturing a moment of resolution amidst despair, the raindrops clinging to their fur like a thousand tiny prisms.
+
+---
+
+[Scene 3]
+- [Scene Name]: The Call to Vengeance
+- [Environment]: The protagonist's bedroom, now post-revelation. The room is darker, the rain outside heavier, symbolizing the shift in the protagonist's resolve.
+- [Characters Present]: The protagonist stands alone, their body language tense, a visage of determination replacing their prior sorrow.
+- [Dialogue]: None.
+- [Camera Info]: Start with a close-up of the protagonist's eyes, then pull back to a full shot as they dress in their survivalist attire, each movement deliberate and final.
+- [Sound Elements]: The sound of rain intensifies, blending with a rising, ominous score that builds tension.
+- [Voiceover]: "The rumble of the storm outside mirrored the storm within. It was in this moment of solitude that the protagonist's purpose crystalized, transforming grief into a callous resolve. The path forward was one of darkness and retribution."
+- [Text-to-Image Prompt]: The protagonist stands in the center of the frame, their clothing rugged and functional, suited for a world fallen into ruin. The room is dim, save for the occasional flicker of lightning that illuminates their form, casting long shadows. Their eyes are steely, reflecting the inner turmoil that has shifted to a steely resolve. The camera captures the transition from mourning to vengeance, the room's simplicity underscoring the protagonist's isolation and singular focus.
+
+---
+
+[Scene 4]
+- [Scene Name]: The Solemn Rain
+- [Environment]: Nighttime at the cemetery; heavy rain pours down, reflecting the protagonist's emotional turmoil against a backdrop of graves and decaying urban structures in the distance.
+- [Characters Present]: The protagonist stands before the fresh grave of their companion, their posture conveying a mix of defiance and sorrow.
+- [Dialogue]: None.
+- [Camera Info]: Begin with a close-up on the protagonist's face, raindrops mingling with tears. Slowly zoom out to reveal the grave and the desolate surroundings.
+- [Sound Elements]: The sound of heavy rain dominates, complemented by distant thunder. The protagonist's breathing is audible, heavy with emotion.
+- [Voiceover]: "In the relentless downpour, a figure stands resolute yet shattered. The rain masks their tears, but not the taste of salt on their lips. It's a scene of mourning, a silent testament to a bond broken by the cruelty of man."
+- [Text-to-Image Prompt]: Visualize a rain-drenched anthropomorphic figure with fangs, standing before a simple grave. The protagonist's eyes should be filled with a blend of pain and anger. The background features blurred outlines of gravestones and the skeletal remains of urban decay. The rain creates a shimmering curtain around the scene, the drops glistening against the dimly lit backdrop.
+
+---
+
+[Scene 5]
+- [Scene Name]: Echoes of Desolation
+- [Environment]: The cemetery at the heart of the city, surrounded by looming, dilapidated buildings that stand as monoliths to a bygone era of humanity.
+- [Characters Present]: The protagonist and the spectral forms of their pack, standing in a circle around the grave, their heads bowed in tribute.
+- [Dialogue]:
+Protoganist: (Muffled sob, then a guttural howl)
+- [Camera Info]: A sweeping 360-degree pan around the protagonist and the pack, capturing their unity in grief and the stark contrast to the desolate cityscape.
+- [Sound Elements]: The protagonist's howl rises above the rain, a haunting and sorrowful sound that is joined by the ghostly echoes of the pack. The city seems to absorb their lament.
+- [Voiceover]: "A primal cry tears through the silence of the night, a chorus of anguish that resounds off the cold, unfeeling structures of the cursed City. It's a sound that speaks of loss and a call to the wild that once was."
+- [Text-to-Image Prompt]: The anthropomorphic protagonist's silhouette howling skyward, surrounded by the faint outlines of their pack. The environment is a bleak urban graveyard, with skeletal buildings in the background. Focus on the raw emotional energy emanating from the group, with the rain amplifying the intensity of the scene. The city looms ominously in the background, indifferent to their pain.
+
+---
+
+[Scene 6]
+- [Scene Name]: The Feral Hymn
+- [Environment]: The protagonist's howl has stirred the city's depths, with narrow alleys and debris-strewn streets stretching out from the cemetery.
+- [Characters Present]: Rats, pigeons, and cockroaches scurry and flutter in the periphery, disturbed by the pack's howling.
+- [Dialogue]: None.
+- [Camera Info]: Use rapid cuts to various creatures reacting to the howl, close-ups of their startled movements, and retreat into the shadows.
+- [Sound Elements]: The crescendo of the pack's howling is intercut with the screeching of pigeons, the skittering of rats, and the rustling of cockroaches.
+- [Voiceover]: "The City stirs as the mournful dirge reaches into its darkest corners, sending the few survivors of nature's cull into hiding. It's a reminder that in this world, even the smallest hold their breath in the presence of raw, untamed grief."
+- [Text-to-Image Prompt]: Capture the frantic escape of urban wildlife as they scatter from the howling. The city's grimy alleyways, filled with trash and the remnants of human neglect, provide a stark contrast to the fleeing life. The focus is on the animals in motion, with blurred backgrounds emphasizing their haste and the unsettling disturbance caused by the protagonist's sorrowful anthem.
+
+---
+
+---
+
+[Scene 7]
+- [Scene Name]: The Pact of Vengeance
+- [Environment]: Nightfall blankets the desolate landscape where the protagonist stands with their pack, the silhouettes of the pack members are barely discernible against the dying light. The air is thick with tension, and the scent of revolt.
+- [Characters Present]: The protagonist, The Pack (a group of anthropomorphic creatures with varying animalistic features).
+- [Dialogue]: Protagonist: "Kill them. We will kill them all."
+- [Camera Info]: The camera starts with a close-up on the protagonist's snarling face, then zooms out to a wide shot, capturing the pack's reaction—a mix of resolve and fury.
+- [Sound Elements]: A low, ominous drone underscores the scene. The protagonist's growl reverberates, mingling with the distant howl of desolation.
+- [Voiceover]: "Mankind was right to have ostracized us. We were different. We were animals, and we would destroy all of them. And, in that moment, I knew what had to be done."
+- [Text-to-Image Prompt]: Capture the protagonist's face, fur bristling, eyes aflame with the reflection of a world set to burn. The pack behind them, a phalanx of shadows poised for war. The camera pulls back to reveal the expanse of the wasteland that serves as their gathering ground, the last light of day casting long, ominous shadows that merge with the darkness encroaching from the horizon.
+
+---
+
+[Scene 8]
+- [Scene Name]: The Fall of the Canister
+- [Environment]: The interior of the central water plant, a cavernous and dimly lit industrial space filled with the hum of machinery and the distant echo of water flowing through massive pipelines.
+- [Characters Present]: The protagonist alone, wounded but resolute.
+- [Dialogue]: No dialogue in this scene.
+- [Camera Info]: A bird's-eye view tracks the canister as it descends, intercut with close-up shots of the protagonist's intense gaze following its journey.
+- [Sound Elements]: The sound of the protagonist's labored breathing overpowers the industrial hum. A haunting, wordless choir crescendos as the canister falls.
+- [Voiceover]: "I watched the dissolvable canister fall. Slowly it fell, like the rise of the City from the eventual merging of all the smaller cities of mankind."
+- [Text-to-Image Prompt]: Visualize the canister, a compact cylinder with bioluminescent contents, tumbling slowly through the air. Below, the massive water pumps wait like slumbering beasts. The protagonist, a solitary figure standing on an elevated platform, watches with a mix of triumph and sorrow. The dim lighting casts sharp contrasts over their injured form, highlighting the determination etched into their features.
+
+---
+
+[Scene 9]
+- [Scene Name]: A Solemn Victory
+- [Environment]: The protagonist stands at the heart of the central water plant, surrounded by the lifeless bodies of the guards and the industrial might of humanity.
+- [Characters Present]: The protagonist, the corpses of the guards.
+- [Dialogue]: No dialogue in this scene.
+- [Camera Info]: Close-up shots of the protagonist's face, interspersed with panning shots of the deceased guards and the protagonist's own wounds.
+- [Sound Elements]: The subtle drip of blood, both human and hybrid, hitting the floor. A solo violin plays a sorrowful melody.
+- [Voiceover]: "The copper taste of the guards’ blood was still fresh and their corpses still warm behind me. Some of the blood, though, was mine. Perhaps a lot of it was?"
+- [Text-to-Image Prompt]: Focus on the protagonist's muzzle, coated in fresh blood, as they lick their lips. Behind them, the blurred shapes of fallen guards sprawl across the cold metal floor. The protagonist's wounds are evident—their clothing torn, fur matted with blood. The lighting is stark, throwing half of their face into shadow while the other half is illuminated by the flickering overhead lights, emphasizing the duality of their nature and the cost of their revenge.
+
+---
+
+[Scene 10]
+- [Scene Name]: The Final Hunt's Toll
+- [Environment]: The same industrial setting as the previous scene, but with a focus on the aftermath of the battle, showcasing the carnage and sacrifice.
+- [Characters Present]: The protagonist stands alone amidst the fallen members of their pack.
+- [Dialogue]: No dialogue in this scene.
+- [Camera Info]: A tracking shot moves slowly across the ground, showing the bodies of the protagonist's pack members, then ascends to frame the protagonist in the foreground, surveying the sacrifices made.
+- [Sound Elements]: The echo of heartbeats fades to silence, signifying the end of the pack. Ambient sounds of the plant are lower, almost respectful.
+- [Voiceover]: "All of my Pack had fallen. I was the last of them, and of us."
+- [Text-to-Image Prompt]: Portray the protagonist as a figure of both majesty and mourning, standing amidst the carnage. Their pack lies around them, each body telling a story of bravery and loss. The protagonist's head is bowed in silent tribute, their tail hanging limply, the weight of solitude and victory heavy upon their shoulders. The surrounding machinery looms like indifferent monuments to the futility of the struggle against man's dominion.
+
+---
+
+[Scene 11]
+- [Scene Name]: The Final Howl
+- [Environment]: The protagonist's bedroom during the twilight hours, with the soft sound of rain tapping against a small, grimy window. The room is dimly lit, and shadows cast long, somber lines across sparse furnishings.
+- [Characters Present]: The protagonist (unnamed, bio-engineered hybrid).
+- [Dialogue]: The protagonist: *Howling sound* (no spoken dialogue).
+- [Camera Info]: Start with a close-up on the protagonist's face, capturing the emotional intensity. Pull back to a medium shot as they throw their head back to howl. Slowly pan down to their knees as they collapse.
+- [Sound Elements]: Background sound of steady rainfall, thunder rumbling in the distance, the protagonist's heavy breathing, followed by a deep, mournful howl that echoes through the stillness.
+- [Voiceover]: "As the shadow of vengeance loomed, the final act was set in motion. The harbinger of doom, our protagonist, unleashed a sound not heard for ages. The howl, a forlorn anthem of loss and retribution, filled the desolate chamber, a prelude to the silence that would soon befall the world."
+- [Text-to-Image Prompt]: The image shows the protagonist, with distinct fangs and a bushy tail, wearing weathered post-apocalyptic attire. They're in the center of a spartan room with cracked walls. The protagonist's head is thrown back, and their mouth is open in mid-howl, a soundless scream of agony and resolve. The room's lighting is subdued, with a bluish hue suggesting the onset of twilight. The rain outside casts a pattern on their face through the window, adding texture to the emotional landscape portrayed.
+
+---
+
+[Scene 12]
+- [Scene Name]: A Life Ebbing Away
+- [Environment]: The same bedroom, the light has faded further, casting the room into deeper shadows. The protagonist is now on the floor, the sound of rain more apparent against the silent backdrop.
+- [Characters Present]: The protagonist.
+- [Dialogue]: No dialogue.
+- [Camera Info]: Close-up on the protagonist's hand as they clutch at their chest, the camera follows the trail of blood seeping through their fingers. A gradual zoom out to a high-angle shot showing the protagonist's collapsed form on the floor.
+- [Sound Elements]: The sound of rain intensifies, a thunderclap, the protagonist's labored breathing, and the faint drip of blood hitting the floor.
+- [Voiceover]: "The life force, once so potent within the hybrid hero, now spilled onto the cold floor. A stark reminder that even those who deal in death are not immune to its touch. The echo of their solitude was only broken by the relentless rain and their fading breaths."
+- [Text-to-Image Prompt]: Focus on the protagonist's hand, bloodied and trembling against their chest. Their clothing is damp and stained with the dark contrast of their own blood. Above, the room is dark, save for the occasional flash of lightning that momentarily illuminates their fallen form. The atmosphere is heavy with the weight of imminent death, and the rain's rhythm serves as a natural requiem.
+
+---
+
+[Scene 13]
+- [Scene Name]: The Final Gaze
+- [Environment]: The protagonist's bedroom, now almost entirely dark, save for the faint light that struggles through the weathered window. The storm outside crescendos, reflecting the climax of the protagonist's life.
+- [Characters Present]: The protagonist.
+- [Dialogue]: No dialogue.
+- [Camera Info]: A tracking shot starting from the protagonist's face, slowly moving upward towards the ceiling where the walls meet in the corner, simulating the protagonist's last line of sight.
+- [Sound Elements]: Rain crescendo, thunder peals, the faintest whisper of wind, and the protagonist's last, shallow breaths.
+- [Voiceover]: "As darkness embraced the room and the storm raged outside, our protagonist lay still. Their gaze fixed where wall met ceiling, a final image etched into fading consciousness. In their departure, they were not alone, for the pack awaited, and the world they left behind would know only night."
+- [Text-to-Image Prompt]: The protagonist lies on their side, their eyes glazed but fixed on the corner of the ceiling. Their features are serene, the struggle gone. The room is cast in dark tones of blue and gray, the dying light battling the encroaching shadows. The corner of the ceiling, the protagonist's final view, is mundane yet assumes a profound significance, framed by the convergence of walls. The emotional atmosphere is one of somber resolution, the end of a saga, and the acceptance of a fate long foretold.
+
+---
+

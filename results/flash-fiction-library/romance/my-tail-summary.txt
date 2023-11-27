@@ -1,0 +1,39 @@
+[Story Summary]
+"My Tail" follows the journey of a bio-engineered, anthropomorphic protagonist in a post-apocalyptic world. After losing their pack and beloved companion to human oppression, they exact revenge on humanity by releasing an enhanced rabies virus into the city's water supply. The virus is potent enough to turn the human race into feral creatures, ensuring their imminent downfall. The protagonist, mortally wounded in the process, dies alone, content with rejoining their pack in death and leaving the world to darkness.
+
+[Character Summary]
+character_1:
+- Name: The protagonist is unnamed, reflecting their universal representation of their species.
+- High-Level Synopsis: The protagonist is a bio-engineered hybrid who embodies the pain and struggle of their kind, transitioning from grief to revenge, and ultimately becoming humanity's executioner.
+- Appearance and Attire: The protagonist has distinct animalistic features like fangs and a tail. GUESS: They likely wear utilitarian, survivalist clothing suitable for a post-apocalyptic environment.
+- Psychological Profile: Emotionally complex, they journey from deep sorrow to resolute vengeance, showcasing a profound connection to their pack and an unwavering determination to avenge their kind.
+- Socio-Cultural Context: As a member of a marginalized and persecuted species, their actions are heavily influenced by the oppressive conditions imposed by humans.
+- Relationships: The protagonist's bond with their companion and pack is deep, driving the narrative and informing their motivations.
+- Key Moments: The release of the lethal virus and the protagonist's death are critical, signifying both the completion of their mission and the end of their personal saga.
+- Additional Nuances: The protagonist's primal instincts are evidenced in behaviors like howling, yet they demonstrate human-like intelligence, signifying the duality of their existence.
+
+character_2:
+- Name: The companion remains unnamed, serving as a symbol rather than an individual character.
+- High-Level Synopsis: The companion's memory serves as an emotional anchor for the protagonist, highlighting the depth of their bond and the pain of their loss.
+- Appearance and Attire: GUESS: The companion likely had a similar hybrid appearance to the protagonist, including animalistic traits and post-apocalyptic attire.
+- Psychological Profile: Known posthumously for their tenderness, the companion's gentle nature leaves a lasting impact on the protagonist.
+- Socio-Cultural Context: The companion shared the protagonist's marginalized status, embodying the dwindling hope and beauty in a ravaged world.
+- Relationships: Their profound romantic and emotional connection with the protagonist profoundly influences the narrative.
+- Key Moments: The companion's death acts as the catalyst for the protagonist's actions, with memories serving as poignant reminders of their significance.
+- Additional Nuances: The companion's desire for flowers symbolizes the yearning for beauty and normalcy in a brutal world.
+
+[Environment Summary]
+environment_1:
+- Name: The protagonist's bedroom.
+- Description: A sparse, enclosed space that mirrors the protagonist's solitude and emotional state, highlighted by the simple ceiling and the sound of rain outside.
+
+environment_2:
+- Name: The cemetery.
+- Description: The cemetery serves as a place of remembrance for the protagonist's pack, surrounded by decaying urban structures, emblematic of the disconnect with nature and the unity in grief.
+
+environment_3:
+- Name: The City.
+- Description: Known as the "cursed City," this is a vast, polluted urban jungle of concrete and waste, hostile to the protagonist and their species, and the site of humanity's downfall.
+
+Additional Environments:
+GUESS: The central water plant is likely a fortified, guarded structure where the protagonist enacts their final act of sabotage. The location of the pack's last stand is not elaborated upon but is an essential backdrop for the protagonist's motivation.

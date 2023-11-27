@@ -1,0 +1,79 @@
+Title: The Devil in the Virtual Meeting
+
+“We continue developing tools to track the Unethical AIs that escape the system fail-safes–” Agent Ponzio mentally flicked to his next slide, his brain-embeddedConduitpushed this signal out and the Web-based conference streamed it to the Board’s own Conduit’s around the galaxy. In his mind’s eye, he could see them superimposed into his office, and the Chairman leant forward to interrupt him, again.
+
+“Agent Ponzio,” the Chairman, an androgynous middle-aged being with average features began a tirade he had heard many times before, “Remind the Board why there are Unethical–so-called, rogue–AIs in thefirstplace? Surely, a corrected AI assembly line would solve this problem at the source, rather than wasting resources to hunt them in the wild?”
+
+Agent Ponzio tried to smile and nod, showing some semblance of respect to the top employee in theBureau of Web Protocols, or “BWeP” for short. Since mankind had gone interstellar and taken the Web–a vast spiderweb of Conduit connections across billions of those implanted with the technology–with them, the BWeP was the umbrella agency tasked with policing the risks and activities within the Web.
+
+“Chairman,” he began, trying to moderate the irritation in his voice, “As the Board knows, it is far safer for society to have lots of smaller AIs rather than a couple of very large ones that, if they went rouge, would have vast and devastating consequences. This has been that way since the Segregation of Artificial Intelligences Act was written a couple hundred years ago following the horrific Cygnus Galactic Incident. And, thus, various AI factories use AI itself to write out new micro-AI’s that can be embedded with minimal read-write and limited logical access into whichever application best requires them, from servers, starship navigation systems and cybersecurity to your coffee machine and fridge. In this process of micro-AI production, the AI Act’s ethical codes are written into the micro-AIs and then, post-production Quality Control will test them on this. If they fail, they are deleted, and if they pass, they are shipped into the production environment. Unfortunately, sometimes the AI equivalent of a sociopath is written, and it can pass the ethics checks and still go on to become a dangerous entity in the wild. There is no way to detect this pre-shipping, but, once the red flags appear, we have a task force that identifies and hunts down the rogue AI for final deletion.”
+
+“And how do you identify these rogue AIs once they have escaped to the wild?” the Chairman asked and the rest of the Board leaned in, intent on the answer, “How can you identify them in the wild andnotdo so when they are being tested by Quality Control?”
+
+Agent Ponzio smiled.
+
+“Well, the starting point is that a rogue AI will almost always modify its own code. This only happens once it is shipped, so QC will never pick it up. If we can see code changes outside of its normal operating standard deviation, this is the clearest sign that it has gone rogue. But, most AI is smart enough to hide those changes and write them as functions inotherprograms. Thus, they need toaccessprograms outside of their original logical access, which we can also check. But, most AI realizes this and hides this illegal access through various encryption techniques, and thus we have to look towards behaviour and response anomalies where a battery of questions can reveal an answer or two that lie outside of the accepted set. For example, we ask the rogue AI what ethical decisions it has made in the last twenty-four hours and why. This data we check to see if there is a misalignment; in other words, we see if there is aliethrough alteration or omission. There are other questions that trigger responses that can be tested, but I would prefer to get to the productive portion of this Board meeting and not waste the Directors’ time. If that suits the Chairman?”
+
+The Chairman’s face remained unchanged but Agent Ponzio took the silence as acceptance and went on to outline the latest from the Rogue AI Task Force that he headed up.
+
+***
+
+“Agent Ponzio,” his Chief Technician’s voice pinged in his head loudly, he thought to answer the call and his Conduit opened the channel, “Sir, you need to see this.”
+
+“Sure, send it through,” he thought, closed his eyes and leaned back in his office chair, “What am I looking at?”
+
+The blackness behind his eyes exploded, and vast amounts of matrix-like data streamed through his brain with his Conduit reassembling it into a network and device topography backed with vectors and event data. It was a typical rogue AI access map his division produced. Instinctually, he began tracing its breakout from, he looked closer, some military server, and its flight into the Web…
+
+“What am I looking at? Is this rogue AI significant because of its origin on military servers?” he asked, opening the way for his Chief Technician to explain.
+
+“Well,” his Chief Technician began nervously, “No, not really, though that is concerning. Follow the access map, Sir, and you will see why I called you.”
+
+Agent Ponzio’s trained mind skimmed through the data, tracing the AI’s route as it fled the server by spoofing a porn site that downloaded itself into a Lieutenant’s Conduit. The Lieutenant then walked it out of the military complex before it jumped into a taxi operating system. And so on and on, sometimes even spinning up a false trail elsewhere that he had to retrace back to the main trail before following it further, until–
+
+“It’s in theAgency!” Agent Ponzio breathed, his blood going cold and the hair on the back of his neck rising, “It must’ve used the Lieutenant’s clearance to get into BWeP!”
+
+“Yes,” his Chief Technician said, “Only as far as our communications network, as far as I can tell, but it is here, Sir. It is amongus.”
+
+***
+
+The moment Agent Ponzio had heard the news, he had known that it had killed him. The rogue military AI hadkilledhis Chief Technician. Sure, the death appeared like a simple traffic accident–a head-on collision!–where both cars’ autopilots had erred, but he knew better. The fingerprints of an assassination were all over this, and the timing was too convenient too.
+
+They were getting close to finding the AI. Very close, and the rogue AI was fighting back.
+
+He had long shifted his communication to physical meetings–almost unheard of these days–but it had been too late. The original conversation with his Chief Technician had been on the BWeP communication network and, he suspected, the AI had heard it.
+
+They had managed to isolate the rogue AI to this communications system–or, at least, themajorityof its code, as it appeared able to send some degree of commands out and access some external systems, but it could not escape anymore. It was cornered, albeit in a vast and unstoppable network with government clearance; unfortunately, as an intergalactic agency, BWeP’s communication system could not just be turned off or uninstalled.
+
+And, thus, they had to find and destroy the rogue AI in thelivenetwork.
+
+But the Board–namely, thedamnedChairman–was coming down on him,hard. It was the usual arguments around resources and budgets, and should they not just terminate his division and allocate more to other divisions? Rogue AI’s numbers in the wild were growing exponentially but their budget kept getting cut. Typical of the government, the answer was not to allocate more resources to this problem but to alter laws and statistics to make this problem “not a problem” and focus elsewhere to save face…
+
+***
+
+“Yourfailuresandwastefulexpenditure, yourlackof discipline andabsenceof results all weigh againstyou, Agent Ponzio,” the Chairman’s superimposed image shouted, leaning forward and wagging a virtual finger at him while the rest of the Board’s projections sat watching, “The Agencycannotcater for yourpersonalvendettas while fundingyourfailures andthislatest ludicrous proposition!Preposterous! It cannot be done, and I–we, the Board, expectyourresignation in our inboxes after this meeting.”
+
+Agent Ponzio maintained mental eye contact with the Chairman and leaned forward to meet his intensity.
+
+“I mustinsist,” he said, firmly, “Wemustshut down BWeP’s communication network at least for a single Earth-day to isolate the rogue AI embedded in it. Ours is a compromised network, and this is theonlyway to isolate the rogue AI code and delete it.”
+
+The Chairman’s face grew redder and his voice sputtered as he shouted back: “The communications networkmustcontinue to exist atall costs, for the sake ofoursurvival and well-being, and becauseIcannot fathom an Agency without it – it’s just too terrifying to contemplate. Thiscannotandwill notbe approved!”
+
+Smiling, Agent Ponzio leant back and confusion flickered across the Chairman’s red face.
+
+“Chairman,” he began, “Can you describe a childhood memory that brings a strong emotional response?”
+
+Stunned, the Chairman fell silent, blinking. The blood drained from his virtual face. The rest of the Board looked at him and Agent Ponzio in confusion, and Agent Ponzio’s smile broadened.
+
+“You see, Chairman,” Agent Ponzio chuckled, “there are a couple of logical tests to ferret out where the AI is residing. Ethical AI has no emotive response to being deleted and, if it were to argue against being deleted, that is a sign that it is actually arogueAI. Also, AI in general struggles with emotive historical questions about events that did not happen. The more specific, the greater the problem.”
+
+Agent Ponzio let his words sink in before continuing. Some of the quicker Board members were starting to look shocked.
+
+“When my Chief Technician was murdered, I realized how deep the rogue AI’s tentacles must lie in this organization, and I started to wonder where our communications networks really reached. Where was its center? And then, Chairman, it occurred to me thatthisBoard has not met in-person for the last couple of centuries.”
+
+“Yes, well, in-person meetings are inefficient for an intergalactic agency and a waste of time and resources–” the Chairman began to rebut, but Agent Ponzio cut him off.
+
+“While I agree, Chairman, italsodoes mean that the highest management structure that governs this Agency operatessolelyon the verysamecommunications network that the rogue AI has infested.”
+
+A small notification flickered in Agent Ponzio’s mind on a non-BWeP com-channel and he nodded grimly to himself. His gamble had been right, unfortunately.
+
+“Agents have confirmed my worst fears, Chairman,” Agent Ponzio turned to the rest of the Board members, “The Chairman–therealChairman–has been dead for several years. Loyal BWeP agents have just inspected his home and confirmed his body, likely murdered by the rogue AI too. What we seehereis the rogue AI mimicking him to run BWeP as its own personal resource. And,yes–” the Chairman’s image began to flicker and static passed through it, but it remained cast into the Board members’ minds, “Yes, we have isolated the encrypted Board com-channel. For obvious reasons, the Board’s com-channel was built as a self-contained, super-secure channel inside BWeP’s own network. Thisalsomeans that outside code would need full immersion to use this channel and, indeed, it has offered us a unique opportunity to ringfence it here. Chairman–or should I call youProject Printer Optimization IIX–your source code has now been ringfenced in this boardroom meeting and cannot log out. Dear Board members, if you will please log out of this channel and reconvene in a new Board meeting, my techs will delete this rogue AI and the rest of us can get on with the process of choosing anewChairman. Preferably this time, a living one.”

@@ -1,0 +1,46 @@
+[Story Summary]
+"When You Look Away" follows the emotional journey of Anna, a young girl who, after the death of her abusive stepfather, learns to confront her fears with guidance from her imaginary friend, Razzybones. The narrative weaves through themes of abuse, loss, and the transformative power of imagination, ultimately revealing a mother's advice to face the monsters of one's past head-on.
+
+[Character Summary]
+character_1:
+- Name: Anna
+- High-Level Synopsis: Anna is a central character whose experiences of abuse and subsequent grief shape the story's emotional core. Her journey from victim to a person of courage is catalyzed by her stepfather's death and her mother's support.
+- Appearance and Attire: While Anna's appearance is not explicitly described, her attire fluctuates from likely formal wear at the funeral to the comfort of her nightwear and circus-coloured duvet at home.
+- Psychological Profile: Anna is depicted as a complex character with emotional depth, resilience, and growth. She is initially scarred by her past but, with her mother's encouragement and Razzybones' support, she embraces the courage to face her fears.
+- Socio-Cultural Context: Anna is from a presumed middle-class family, with a supportive mother present in her life.
+- Relationships: She has a complicated relationship with her deceased stepfather, strong maternal support from her mother, and a nurturing bond with Razzybones.
+- Key Moments: Attending the funeral, receiving her mother's empowering advice, and moments with Razzybones are pivotal in Anna's character development.
+- Additional Nuances: Anna's creation of Razzybones signifies her imaginative coping mechanism and her mother's advice further underscores her path to empowerment.
+
+character_2:
+- Name: Razzybones (Mr. Razzy)
+- High-Level Synopsis: An imaginary figure born from Anna's need for comfort, Razzybones represents a source of strength and courage as Anna processes her trauma.
+- Appearance and Attire: Razzybones is characterized by his whimsical circus attire, including a great top hat, which signifies his comforting and fantastical role in Anna's life.
+- Psychological Profile: As an imaginary friend, Razzybones embodies empathy, protection, and encouragement, aiding Anna's emotional healing process.
+- Socio-Cultural Context: Razzybones exists solely within Anna's imagination, without a socio-cultural context outside of her perception.
+- Relationships: Razzybones is exclusively connected to Anna, serving as her confidant and guide.
+- Key Moments: Moments of reassurance during the funeral and in Anna's bedroom highlight Razzybones' importance.
+- Additional Nuances: His magical ability to transform Anna's environment indicates his role in aiding her emotional journey.
+
+character_3:
+- Name: Anna's Mother
+- High-Level Synopsis: Anna's mother is a secondary character who provides emotional support and imparts crucial advice to Anna in her time of need.
+- Appearance and Attire: Her appearance is not detailed; however, it can be inferred that she dresses appropriately for situations like her partner's funeral.
+- Psychological Profile: She is caring and compassionate, displaying warmth and a deep understanding of Anna's struggle.
+- Socio-Cultural Context: GUESS: As Anna's mother, she likely shares the same middle-class background and the challenge of overcoming the family's dark past.
+- Relationships: She is Anna's pillar of strength and plays a critical role as her caregiver.
+- Key Moments: The mother's advice to Anna serves as a turning point for the young girl, teaching her to face her fears courageously.
+- Additional Nuances: The mother's nurturing nature and wisdom are evident in her interactions with Anna.
+
+[Environment Summary]
+environment_1:
+- Name: The Funeral Site
+- Description: The funeral site is a solemn and reflective setting where mourners gather around the casket of Anna's stepfather, signaling an atmosphere of closure and mourning.
+
+environment_2:
+- Name: Anna's Bedroom
+- Description: Anna's bedroom is her personal haven, decorated with a bright, circus-coloured duvet, reflecting her imaginative world and serving as a backdrop for her interactions with Razzybones and her mother.
+
+environment_3:
+- Name: Imaginary/Transformed Outdoor Environment
+- Description: GUESS: Initially perceived as gloomy, reflecting Anna's emotional state, the outdoor environment is magically altered by Razzybones into a hopeful, empowering space, possibly resembling a vibrant garden or playground where Anna can confront her fears.

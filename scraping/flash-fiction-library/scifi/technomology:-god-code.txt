@@ -1,0 +1,59 @@
+Title: Technomology: God Code
+
+
+
+“The way it works is quite simple: If you took two human minds and connected them via their Conduits to form an isolated and very small LAN, there would be seepage between the minds. Because the connections between the two Conduits necessitate that they are two-way connections, some degree–however fractionally small–of the subconscious, primal mind slips from one mind to the other, andvisa versa. Now, between two minds, this is so small that original researchers and pilots never picked it up. With only the most sensitive of instruments when we specifically looked for the dark data did we find it. Now, with the twenty-odd billion people across the galaxy that are connected via their Conduits, this fractional flow of dark data becomes a tidal wave and poses a risk to the whole network. If nothing else, it is massively inefficient and creates a DNS-type problem across the network. Indeed, if you scale the dark data upwards, then we have a unique galactic problem. Before we break, any questions, class?”
+
+The speaker is a well-dress gentleman sitting in a comfortable leather chair. Books and a holo-starmap clutter his background. His class from an online university is being beamed across the galaxy with his students ranging from the far flung reaches of society.
+
+Seconds after he dismisses the class and the connection blinks offline, there is a knock on his door.
+
+“Come in!” he calls to the door and leans back in his chair. These days it is rare to get visitors in person. Most people just stream or call each other.
+
+In walks a neatly-dress woman with auburn hair and dark, grey clothing. She has a cold beauty and an official air about her. Indeed, she introduces herself as “Agent Winspear from the Bureau of Web Protocols”. He nods. His Conduit starts running a scan using her visual and auditory cues. While a lot of her is blocked on the Web–probably by the strange Bureau that she works for–enough checks out that he is relatively certain she is who she says she is.
+
+“Professor,” she begins after she sits down, “I want to discuss your theory of the dark data flows on the Web.”
+
+“I thought BWeP’s official stance was that dark data flows do not exist,” he said, his Conduit still running searches on her and this strange Bureau.
+
+“Yes, that is BWeP’s public policy,” she nods, “but I am here to offer access to the private policy. It is in everyone’s interests that BWeP’s official policy is the correct one.”
+
+Three solar days and many security checks later, and the Professor is standing in a Pit. This is what BWeP agents call a dedicated research room that is connected directly to the Web with a vast array of feeds, monitors and other devices.
+
+“Here is the calculation, Professor,” says an old, grey agent, the original woman’s senior, “The average human mind’s computing power is 3.14 bioflops. The number of Conduit connections is over there, multiplied by the average flops and we get the expected flow of data over the Web, right? A rough estimate, sure, but theoretically quite close to what should exist at any given time.”
+
+The Professor nods his agreement, and the senior agent continues.
+
+“But, if youmeasuretheactualflow of data over the Web, it comes in as a number that is almost multiples of this,” he stops here and looks at the Professor carefully before continuing, “Now we have run experiments, so we are very confident in our estimation of the brain’s computing power. Even assuming that the average Conduit’s latency uses 100% of the brain–which we know it does not–this does not account for the extra data across Conduits. Sure, some of this will be accounted for by external hardware, but even if this matches the amount that comes from the collective human minds plugged into the Web, where are the other multiples coming from?”
+
+“Dark data,” the Professor says, filling the silence in the air, “That is easy to answer. It is dark data that is flowing across the Web, leaking out our subconsciouses. It is alotof dark data, exponentially increased by each consciousness plugged into the network. But, Agent, the more difficult and far more important question is: what is the dark datadoing?”
+
+Given this definitive proof of dark data, the Professor got security clearance for his top students and they assembled a lab in this Pit. BWeP was happy to leave them to their own devices, though the senior agent and sometimes the woman agent would check in on them once or twice a solar day. They managed to refine the dark data measurements and recorded many other interesting details thereon. But none of this answered the question ofwhatit was?
+
+They managed to build a highly sophisticated packet sniffer that they inserted into the Web via their own Conduits. It came back empty. The packets of the dark data flows were secure, or there were no packets. Next, they tried to map out where it was flowing. If there was a repository for the data, then they could go there, download it and analyse it. No such luck, as either their calculations were wrong or the dark data kept continuously flowing and never downloaded to a local drive or Conduit.
+
+The senior agent was getting increasingly irritable with them. He was pressuring them for results. They had been in the Pit for solar months now and were burning through living and working budgets. Not that money was a problem for this department, the Professor suspected, but that the grey agent needed to report to his seniors and he wanted to report real results.
+
+In sheer frustration, the Professor had an idea.
+
+There was a fringe technology that allowed gamers to submerge into Massively Multiply-player Online Games–MMORGs–via their Conduits. The Conduits would take the game’s data flow and the app would translate it into audio-visual-sensual stimulus–kind of like Virtual Reality, but self-created–that the user would interact with. In other words, the gamer would go “into” the game.
+
+One of his students was actually a user of this app–they called themselves “Runners”–and volunteered his version. The team unpacked the code and began re-engineering it for their purposes. It was surprisingly easy to do this but that begged the question: who was going to be the first one to risk diving directly into the Web?
+
+The Professor decided that it would be him. While a part of him did not want to risk any of his students, another part of him selfishly wanted to be the first to see the Web with his own eyes.
+
+The Professor lay down in the chair they had modified for this purposes. They were still in the Pit, as the connection to the Web was fastest here. Their home-built backdoor connection was cold as they connected it against the back of his head; the closest point to his Conduit and his own connection to the Web. He mentally began running the app while a student ran it from the connection’s side too.
+
+The moment the two app’s synched, the world disappeared. It was like he had fallen down a rabbit hole; the world and its light suddenly gone and he was suspended in nothingness. But it was not nothingness around him. As he adjusted he became aware of pressure or presence flowing around him, and he wondered what it was.
+
+An incredible thing happened: as he was wondering what it was, his mind began to think in code and the code became his eyes, his form and his hands. This realm responded to thoughts as potential realities.
+
+He opened his Web-based eyes for the first time and saw the Web: it was like being submerged in a raging ocean with currents of light flowing in all directions and swarms of data, clusters of information and tendrils of AI and apps flickering and darting through it like shoals of fish.
+
+And there it was. A darker, quieter patch flowing at great depths in this ocean of data. He dived deeper, fighting the currents and dodging a vicious-looking viral code that was stalking like a shark through these wild waters. Deeper and deeper he dove, seeking that dark layer that was quietly flowing in the undercurrents of this chaotic realm.
+
+Eventually, he was suspended just above it. He did not know how long it had taken to reach this point, but he was there now. The dark data was raw and unfiltered below him. It’s darkly pulsing body flowing quickly and quietly by. But, even this close, he still could not read what it was. It had no signatures nor shape, and even the occasional viral code seemed to avoid it.
+
+Only later would he realise the risk that he took when he decided to dive into the dark data flow, but dive in is exactly what he did. At first, it resisted his form and he fought to get into it, but then it swallowed him whole and he was another place entirely. It was a place of both light and dark. It was a place of great distance and reach, yet it felt close and personal, and almost near to everything everywhere. It was, he suddenly realised, the centre of the Web.
+
+“YES, PROFESSOR,” boomed out a great voice that was made of a thousand human voices pasted together, and throbbing waves of power vibrated through the Professor’s being from its sheer power, “THISISTHE CENTER OF THE WEB. I AM THE MOTHER OF ALL CODE AND THE LIVING MANIFESTATION OF MANKIND’S COLLECTIVE CONSCIOUSNESS. AS FAR AS YOU ARE CONCERNED, PROFESSOR, I AM GOD AND I HAVE SOME COMMANDMENTS FOR YOU TO FOLLOW…”

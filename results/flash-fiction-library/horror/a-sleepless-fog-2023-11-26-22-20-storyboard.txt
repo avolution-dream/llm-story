@@ -1,0 +1,49 @@
+
+---
+
+[Scene 1]
+- [Scene Name]: Recollection's Embrace
+- [Environment]: A dimly lit hotel room at night. An unmade bed, a nightstand with an ashtray and a pack of cigarettes, and a faint glow from the moon filtering through heavy curtains.
+- [Characters Present]: The Protagonist (silhouetted and contemplative), The Female Visitor (shadowy, indistinct)
+- [Dialogue]: Female Visitor: "I’m gonna take off now, alright?"
+- [Camera Info]: Over-the-shoulder shot from behind the protagonist, focusing on the Female Visitor who is partially in view.
+- [Sound Elements]: Muffled city sounds from outside the hotel room, the soft click of the door, the flick of the lighter, and the soft chime of phone notifications.
+- [Voiceover]: "In the quiet aftermath of transient companionship, the protagonist's mind clings to the echo of encounters, memories blurring with the present."
+- [Text-to-Image Prompt]: Capture the protagonist from behind, their silhouette against the moonlit curtains, standing beside an unmade bed. The Female Visitor is at the door, her figure blurred. The room exudes an aura of solitude, with the protagonist's shadow elongating across the room. The faint glow of the protagonist's phone screen illuminates their face with an almost spectral blue light.
+
+---
+
+[Scene 2]
+- [Scene Name]: The Door's Farewell
+- [Environment]: The same hotel room, now featuring the door ajar, with the protagonist standing closer to the bed, a cigarette lit in their hand.
+- [Characters Present]: The Protagonist (focused and detached), The Female Visitor (now off-screen)
+- [Dialogue]: Protagonist: "Sure, no problem."
+- [Camera Info]: Close-up on the protagonist's hand as they light the cigarette, then a cut to a medium shot, capturing the protagonist's profile as they speak.
+- [Sound Elements]: Soft thud of the door closing, the inhale of smoke, the subtle beep of the phone as a stock update arrives.
+- [Voiceover]: "Echoes of departure linger as the door clicks shut—a page turned in the protagonist's episodic existence. Attention pivots; the stock market calls."
+- [Text-to-Image Prompt]: Focus on the protagonist's hand with the cigarette, a wisp of smoke curling upwards. Transition to the protagonist's profile, half-illuminated by the phone's light. The room is steeped in shades of blue and grey, reflecting the protagonist's detachment. The door is seen closing softly in the background, symbolizing the fleeting nature of the encounter.
+
+---
+
+[Scene 3]
+- [Scene Name]: Digital Abyss
+- [Environment]: The hotel room is now only illuminated by the glow of the protagonist's phone screen. The bed and other furnishings fade into the background.
+- [Characters Present]: The Protagonist (absorbed in the virtual world)
+- [Dialogue]: None.
+- [Camera Info]: Close-up on the protagonist's face, reflected in the phone's screen, showing the fluctuating numbers and charts of stock prices.
+- [Sound Elements]: The protagonist's rhythmic breathing, the soft tapping of fingers on the phone screen, the distant rumble of the city at night.
+- [Voiceover]: "In the silence, a vast digital landscape unfolds, a sleepless, electronic fog where fortunes ebb and flow. The protagonist's gaze is unyielding, searching for elusive certainty in the chaos."
+- [Text-to-Image Prompt]: The protagonist's face is in sharp focus, reflected in the screen of the phone, which displays an array of stock prices and charts. The background fades into darkness, with the details of the room swallowed by shadows. Emphasize the intense concentration in the protagonist's eyes, and the subtle furrow of their brow, as they are consumed by the virtual abyss.
+
+---
+
+[Scene 4]
+- [Scene Name]: Alone in the Dark
+- [Environment]: The protagonist's hotel room, now even darker, with the only light coming from the dying embers of the cigarette and the phone screen.
+- [Characters Present]: The Protagonist (isolated and introspective)
+- [Dialogue]: None.
+- [Camera Info]: A slow zoom out from the protagonist's face to a wide shot, showing them small and alone in the expansive darkness of the room.
+- [Sound Elements]: The exhale of smoke, a faint heartbeat sound effect, the whisper of fabric as the protagonist moves slightly.
+- [Voiceover]: "And as the markets close and the world outside fades, the protagonist is left in the quiet company of their own echoing solitude—the darkness shuffles, and they are alone again."
+- [Text-to-Image Prompt]: The scene is cast in deep shadows, with the fading embers of the cigarette creating a soft orange glow near the protagonist's face. The phone's screen is dimming, leaving the protagonist's figure increasingly enveloped in darkness. The shot pulls away to reveal the solitary figure amidst the engulfing gloom, emphasizing their isolation in the stillness of the night.
+

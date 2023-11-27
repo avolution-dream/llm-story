@@ -1,0 +1,163 @@
+
+---
+
+[Scene 1]
+- [Scene Name]: The Mournful Halo
+- [Environment]: An enclosed room within environment_1, at night, with tension palpable in the air. Blue lights flash intermittently, casting dynamic shadows.
+- [Characters Present]: character_1 (embodiment of emotional depth), character_2 (stoic counterpart).
+- [Dialogue]: character_1: "We messed this one up! I know what I said, but I wish–I wish… I am not as strong– What if I lose you? I don’t know? But what? I love you, but whatif?" character_2: "Don’t worry, it’ll all be fine, my love. We’ll eventually reach it. Remember, we are the immortals who swim through the river of time. One day, my love, one day we will reach the ocean and, no matter what, I want you to kn–"
+- [Camera Info]: Begin with an extreme close-up on character_1's tear-streaked face, then pull back to a medium shot framing both characters, with a halo effect caused by the blue light around character_2's head. Cut to the flashing lights outside, then back to a tight shot of the duffel bags and weapons. Then, return to an over-the-shoulder shot from behind character_1 looking at character_2.
+- [Sound Elements]: The distant sound of sirens, muffled shouting outside, and the clinking of metal. A soft, sorrowful instrumental score plays in the background.
+- [Voiceover]: "In a moment suspended between heartbeats, she beheld him—a safe harbor amidst a tempest of fear. The ephemeral blue light crowned him, a beacon of their undying love. Words, heavy with eternity, hung between them, a whispered testament to their infinite journey."
+- [Text-to-Image Prompt]: A dimly lit room at night, with blue police lights casting intermittent flashes through a window. In the center, character_1, with auburn hair matted by tears, is framed by the blue light that forms a halo around character_2's head. The background fades into obscurity, focusing on the emotional exchange. The room contains subtle hints of chaos, with weapons and duffel bags strewn on the bed, and shadows dancing on the walls. The atmosphere is heavy with emotion, underscored by the stark contrast between the couple's intimate moment and the impending threat outside.
+
+---
+
+[Scene 2]
+- [Scene Name]: The Shattered Sanctuary
+- [Environment]: The same room within environment_1, moments later. The chaos of the outside world is about to invade this hideout.
+- [Characters Present]: character_1, character_2.
+- [Dialogue]: No new dialogue, the previous conversation is cut off abruptly by the door blasting inward.
+- [Camera Info]: A quick succession of shots: a close-up on the door lock rattling, a shot of the couple's hands gripping each other, and then a wide shot from behind the couple as the door blasts inwards, capturing the explosion of wood and the entry of law enforcement shadows.
+- [Sound Elements]: The shouts crescendo, metal clinking peaks, and a sudden, deafening crash as the door is blown in. The background score halts abruptly.
+- [Voiceover]: "In the sanctity of their clandestine refuge, an unspoken promise lingered—untouchable, until the world itself shattered their solace with the violence of reality."
+- [Text-to-Image Prompt]: The perspective from behind character_1 and character_2 as they embrace, the room's tension reaching a climax. The door explodes inward, splinters flying, and the silhouette of armed figures is visible in the doorway. The couple's embrace tightens, a calm epicenter in the storm of intrusion. The room's ambiance shifts from secretive to exposed, the warm light from a single lamp contrasting with the harsh flood of exterior lights accompanying the intruders.
+
+---
+
+[Scene 3]
+- [Scene Name]: The Eternal Constant
+- [Environment]: A nondescript, serene space within environment_2, symbolizing an undefined time and place in the aftermath of chaos.
+- [Characters Present]: character_1 and character_2, lying next to each other.
+- [Dialogue]: No dialogue, silent communion between the characters.
+- [Camera Info]: Start with a tight close-up on character_1's closed eyes, then pull back slowly to reveal both characters lying side by side, transitioning to an aerial view that captures their peaceful repose.
+- [Sound Elements]: A calm, ambient sound that evokes peace and timelessness. The score is gentle, with soft, melodious undertones that suggest a return to tranquility.
+- [Voiceover]: "Eyes closed, they lay in serene companionship, beyond the reach of time's relentless march. In every incarnation, through every age, their love remained a constant—a silent vow echoing through eternity."
+- [Text-to-Image Prompt]: A peaceful, ethereal environment, bathed in soft light with character_1 and character_2 lying side by side, a picture of tranquility. There are no distinct features in the room, only the sense of a timeless sanctuary. The camera gently rises to an aerial view, capturing the intimacy and unspoken understanding between them. The image conveys a sense of enduring calm and deep connection, suggesting that despite the chaos, some things remain forever unshaken.
+
+---
+
+---
+
+[Scene 4]
+- [Scene Name]: The Immortal Embrace
+- [Environment]: A dimly lit room with the only light coming from the soft glow of the moon seeping through a window. The ambiance is intimate and timeless.
+- [Characters Present]: character_1 (lying down, auburn hair spread out), character_2 (propped on elbows, leaning over character_1).
+- [Dialogue]: character_2: "My love, it is good to swim with you again through the river of time."
+- [Camera Info]: Close-up on character_2’s face as he leans in, cutting to an over-the-shoulder shot from behind character_1, focusing on character_2's face.
+- [Sound Elements]: Ambient moonlight sonata, the rustle of fabric, gentle breaths, the soft whisper of the immortal name.
+- [Voiceover]: "In the quiet chamber of eternity, he whispers a secret, the true name that binds their souls, a melody of love eternal."
+- [Text-to-Image Prompt]: Visualize a bedroom bathed in shadows, with the ethereal silver light of the moon casting a delicate glow on character_1's auburn hair. character_2, with a tender expression, pushes a stray lock from her face. His eyes glimmer with a history untold, a deep love that has weathered countless lifetimes. Their fingers touch, a gesture echoing through the ages. The room itself is timeless, sparse furnishings suggesting a place out of history, a sanctuary for two souls beyond the reach of time.
+
+---
+
+[Scene 5]
+- [Scene Name]: The Awakening
+- [Environment]: A post-apocalyptic landscape, the world outside is harsh, filled with artificial lighting, plastic remnants, and a sense of desolation.
+- [Characters Present]: character_1 (just awakened), character_2 (gazing down at character_1 with mixed emotions).
+- [Dialogue]: character_1: "May the waters be gentler this time and our ocean be near."
+- [Camera Info]: A slow zoom out to reveal the dystopian world through the window, juxtaposed with the intimate scene inside.
+- [Sound Elements]: A haunting score of desolation, distant echoes of a world in despair, the soft dialogue between the characters.
+- [Voiceover]: "As she awakens, the world holds its breath, a new age dawns—a world of lights, plastic, and emptiness. A stark contrast to the purity of their reunion."
+- [Text-to-Image Prompt]: Focus on character_1, her eyes fluttering open to reveal a depth of wisdom and love. character_2 is silhouetted against a window revealing a stark dystopian backdrop—neon signs, crumbling structures, and the artificial glow of a world on the brink. Their sanctuary is a poignant bubble of peace amidst chaos, a tranquil haven where the only truth is their immortal bond. The camera pulls back to frame them within this crumbling world, underlining the stark difference between the purity of their connection and the poisoned age they've awakened into.
+
+---
+
+[Scene 6]
+- [Scene Name]: The End Times
+- [Environment]: An underground bunker-like room with blue flashing lights from law enforcement visible through cracks and crevices, signaling an urgent atmosphere.
+- [Characters Present]: character_1 and character_2, surrounded by duffel bags and weaponry, indicative of a high-stakes scenario.
+- [Dialogue]: No dialogue, only shared looks of understanding and determination between the characters.
+- [Camera Info]: A tracking shot that moves from the flashing blue lights, passing by the weapons and duffel bags, to focus on the faces of character_1 and character_2.
+- [Sound Elements]: The muffled sound of chaos outside, the intermittent blue light reflected sounds, and a low, tense background score.
+- [Voiceover]: "They stand at the precipice of a world teetering on the edge of oblivion, their love the last bastion against the dying of the light."
+- [Text-to-Image Prompt]: Capture the urgency of an underground hideout, walls echoing with the threat of encroaching forces. Blue lights flash rhythmically, casting character_1 and character_2 in a strobe-like effect. They stand back-to-back, ready for what may come, a tableau of resilience. The room is filled with the paraphernalia of resistance—weapons, duffel bags, maps, and the remnants of humanity's last stand. The camera captures the detailed textures of their practical attire, the focus in their eyes, and the unspoken bond they share, all set against the backdrop of a world in its final throes.
+
+---
+
+---
+
+[Scene 7]
+- [Scene Name]: The Eternal Voyage Begins
+- [Environment]: A dimly lit cave with natural light seeping through cracks in the stone. The time is indistinguishable, blending past and present.
+- [Characters Present]: character_1, character_2
+- [Dialogue]: None.
+- [Camera Info]: A wide shot revealing character_1 and character_2 standing at the entrance of the cave, looking out. Slow zoom in on their faces to capture the weight of millennia in their eyes.
+- [Sound Elements]: Soft, ambient music with a haunting melody; echoes of distant, primal sounds, suggesting the dawn of humanity.
+- [Voiceover]: "From primitive beginnings to the twilight of civilizations, character_1 and character_2 bore witness to the cycles of the world, an eternal dance of creation and decay."
+- [Text-to-Image Prompt]: We see the silhouettes of character_1 and character_2 standing at the mouth of a prehistoric cave. Light filters through the entrance, illuminating their contemplative faces, streaked with the shadows of the past. The cave walls are adorned with ancient paintings, and the atmosphere is charged with the essence of beginnings. Their attire is simple and timeless, blending with the eras they've traversed.
+
+---
+
+[Scene 8]
+- [Scene Name]: The Collapse of Empires
+- [Environment]: The ruins of a once-glorious Roman colosseum bathed in the warm, golden light of a setting sun.
+- [Characters Present]: character_1, character_2
+- [Dialogue]: None.
+- [Camera Info]: A tracking shot moving through the crumbling archways, finally resting on character_1 and character_2 as they stand amidst the ruins.
+- [Sound Elements]: A somber orchestral score with strings and a solo horn to evoke the sense of a grand era's end.
+- [Voiceover]: "They stood amidst fallen empires, each stone a testament to the ephemeral glory of man, as the sun dipped below the horizon, taking with it the day and the might of ages."
+- [Text-to-Image Prompt]: The camera captures the stark beauty of the colosseum's decay, overgrown with vines. character_1 and character_2 are at the center, auburn hair and practical attire melding with the dust and stone. The sun casts long shadows, draping them in a mantle of history's twilight. Their expressions are solemn, eyes reflecting the fall of an empire as they gaze into the distance, untouched by time.
+
+---
+
+[Scene 9]
+- [Scene Name]: The Final Witnesses
+- [Environment]: The surface of a desolate Earth, scorched and lifeless, under a sky streaked with ominous light.
+- [Characters Present]: character_1, character_2
+- [Dialogue]: None.
+- [Camera Info]: An establishing shot of the bunker's entrance then cuts to a close-up of character_1 and character_2's faces, filled with the gravity of the moment. The camera slowly rotates around them, capturing the desolation.
+- [Sound Elements]: A chilling silence, with a low, droning sound that crescendos as the white light approaches.
+- [Voiceover]: "As the final chapter unfolded, character_1 and character_2, in their mortal shells, bore the witness to the end. The white light, a harbinger of oblivion, approached, ready to claim the last vestiges of a once-vibrant world."
+- [Text-to-Image Prompt]: The barren landscape surrounds character_1 and character_2, standing on the bunker as the sky turns a pale, unforgiving white. Their worn bodies are a stark contrast to their ancient souls, which seem to glow with an inner light. The bunker's entrance is a dark maw behind them, leading to mankind's final refuge. The approaching white light begins to envelop the horizon, casting an ethereal glow that signals the imminent end of everything known.
+
+---
+
+[Scene 10]
+- [Scene Name]: The Creation of a New Star
+- [Environment]: The vast, infinite cosmos filled with stars, nebulae, and cosmic dust in a breathtaking array of colors.
+- [Characters Present]: character_1, character_2 (as ethereal beings of light)
+- [Dialogue]: None.
+- [Camera Info]: A panoramic view of the cosmos, slowly zooming in on two converging points of light that represent character_1 and character_2.
+- [Sound Elements]: An uplifting, celestial chorus intertwined with the soft sounds of a cosmic wind, symbolizing rebirth and eternity.
+- [Voiceover]: "In the aftermath of destruction, character_1 and character_2 transcended, their love igniting the darkness and birthing a new star—a beacon for the cycles yet to come."
+- [Text-to-Image Prompt]: The camera floats through the grandeur of space, capturing the majesty of the cosmos. Two radiant points of light, embodying character_1 and character_2, spiral towards each other in a delicate dance. As they merge, a brilliant star is formed, casting a warm, golden glow that pierces the void. The star's birth is a cosmic event of awe-inspiring beauty, an eternal testament to their immortal love.
+
+---
+
+[Scene 11]
+- [Scene Name]: The Final Embrace
+- [Environment]: The scene is set in the dying moments of Earth. A catastrophic white light is rapidly approaching, engulfing everything in its path. The time is irrelevant as this is the end of days.
+- [Characters Present]: character_1 (elderly woman), character_2 (elderly man)
+- [Dialogue]: character_2: "I remember you, always."
+- [Camera Info]: Close-up on character_2's face as he whispers, transitioning to character_1's reaction. Cut to a wide shot of both holding each other as the white light envelops them.
+- [Sound Elements]: A low, rumbling crescendo that mimics the white light's approach. The sound then cuts out to silence at the moment of the embrace.
+- [Voiceover]: "As the final chapter of Earth unfolded, they found solace in each other's arms, whispering ancient secrets that transcended time."
+- [Text-to-Image Prompt]: Imagine an elderly couple, character_1 and character_2, standing amidst a crumbling world. The environment is chaotic, with debris flying and the ground shaking. The couple is in sharp focus, with character_2 gently kissing character_1's forehead, whispering her name. Their surroundings blur as a bright white light engulfs everything around them, symbolizing the end of Earth.
+
+---
+
+[Scene 12]
+- [Scene Name]: Awakening into Eternity
+- [Environment]: The environment is the vastness of space, filled with nebulae, distant galaxies, and the remnants of what was once Earth. There is no day or night, only the eternal cosmic ballet.
+- [Characters Present]: character_1 (light form), character_2 (light form)
+- [Dialogue]: None. The communication is beyond words.
+- [Camera Info]: An extreme wide shot that slowly zooms in on the two light forms floating in space. The camera movement is smooth and ethereal, matching the serenity of the scene.
+- [Sound Elements]: Ethereal, ambient music with soft celestial tones that evoke a sense of wonder and infinity.
+- [Voiceover]: "Freed from the shackles of mortal coils, they opened their eyes to the cosmic canvas, painting their presence with strokes of light."
+- [Text-to-Image Prompt]: Envision two beings made purely of light, character_1 and character_2, with auras that pulse with the colors of the universe. They float against a backdrop of the infinite cosmos, with stars, galaxies, and nebulae painting a breathtaking panorama. The camera perspective captures the grandeur of their new existence against the canvas of space, with a focus on the interconnectedness of their lights.
+
+---
+
+[Scene 13]
+- [Scene Name]: The Cosmic Dance
+- [Environment]: The cosmic realm where the two beings of light are surrounded by the fabric of the universe, with swirling galaxies and the luminescent glow of nebulae.
+- [Characters Present]: character_1 (light form), character_2 (light form)
+- [Dialogue]: None. Their love and communication transcend verbal exchanges.
+- [Camera Info]: Begin with a close-up on the lights that are character_1 and character_2, then pull back to a wide shot as they begin to swirl around each other. The camera spirals around them, mimicking their dance.
+- [Sound Elements]: A symphony of otherworldly sounds mixed with a harmonious background score that builds up to the crescendo of the star's birth.
+- [Voiceover]: "In the silent ballet of eternity, their lights intertwined in an ancient dance, a silent testament to an immortal love that birthed new worlds."
+- [Text-to-Image Prompt]: Visualize an endless cosmic waltz, where character_1 and character_2, now radiant beings of light, spiral around each other against the cosmic backdrop. Their lights are vivid and dynamic, creating an interplay of colors with the surrounding cosmos. The camera captures their swirling motion, which culminates in a crescendo of light that intensifies to the point of a star's birth.
+
+---
+
