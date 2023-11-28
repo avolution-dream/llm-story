@@ -1,0 +1,173 @@
+
+---
+
+[Scene 1]
+- [Scene Name]: The Court's Discontent
+- [Environment]: The imperial court of the Tang Dynasty, during a tense afternoon. The luxurious throne room is cast in a heavy shadow as clouds of discontent gather both outside and within the palace walls.
+- [Characters Present]: Emperor Ming Huang (seated on the throne), Yang Gui Fe (standing beside him), court officials, and the murmuring crowd of soldiers and servants.
+- [Dialogue]: Soldier A: "It is her cousin's fault, he must pay!" Emperor Ming Huang: "Peace, my people. Let us not be hasty."
+- [Camera Info]: Wide shots of the throne room, slowly zooming in on the anxious faces of the court. Cut to medium shots of the emperor and Yang Gui Fe, then to close-ups of the angry soldiers.
+- [Sound Elements]: Low, ominous music reflecting the brewing unrest; the murmur of the crowd growing louder, punctuated by the sharp cries of the soldiers.
+- [Voiceover]: "In the opulent heart of the Tang empire, whispers of betrayal and revolt begin to echo off the gilded walls, setting the stage for a tale of love and loss as the Emperor and his beloved consort face the ire of their own people."
+- [Text-to-Image Prompt]: The grand throne room, adorned with golden dragons and red silk banners, is filled with tension. Emperor Ming Huang, in his imperial dragon robes, looks on with concern as Yang Gui Fe stands by his side, her beauty a stark contrast to the growing darkness of the court. Soldiers, their faces hardened by anger, point accusatorily as the camera captures the unease in their eyes and the emperor's quiet desperation.
+
+---
+
+[Scene 2]
+- [Scene Name]: The Pass's Mutiny
+- [Environment]: A rugged mountain pass during twilight, as the last rays of the sun cast long shadows over the emperor's retreating caravan and the mutinous soldiers.
+- [Characters Present]: Emperor Ming Huang (distressed), Yang Gui Fe (terrified), cousin (defeated), soldiers (mutinous).
+- [Dialogue]: Soldiers: "We will not move until justice is served!" Emperor Ming Huang: "Please, we must stand together!"
+- [Camera Info]: Aerial shots of the mountain pass and the caravan, moving to handheld shaky shots among the soldiers to convey the chaos. Close-ups on the emperor's and Yang Gui Fe's faces to capture their emotions.
+- [Sound Elements]: The sound of wind howling through the pass, the clanging of armor, and the angry shouts of soldiers, contrasted with the emperor’s pleading voice.
+- [Voiceover]: "At a pass where the world seems to narrow to a point of no return, loyalty fractures, and the emperor's voice drowns in the din of rebellion as his soldiers demand a scapegoat for their troubles."
+- [Text-to-Image Prompt]: Twilight descends upon the craggy mountain pass, where the emperor's colorful caravan is halted by the chaos of mutiny. The soldiers' faces are lit by flickering torchlight, their eyes filled with fury. In the middle, the emperor, his face a mask of sorrow, reaches out to his subjects, while Yang Gui Fe looks on in horror, her elegant attire in disarray amidst the turmoil.
+
+---
+
+[Scene 3]
+- [Scene Name]: The Pear-Tree Execution
+- [Environment]: A desolate clearing near the pass, with a solitary pear-tree. It is dusk, and the area is dimly lit by torches, casting long shadows and an eerie glow on the scene.
+- [Characters Present]: Yang Gui Fe (distraught), the emperor (anguished), eunuch (executor), soldiers (impassive).
+- [Dialogue]: Yang Gui Fe: "My emperor..." Emperor Ming Huang: "Forgive me, my love."
+- [Camera Info]: Sweeping crane shot of the clearing, focusing on the pear-tree. Slow-motion capture of Yang Gui Fe's final moments, with tight shots on the emperor's tearful face.
+- [Sound Elements]: The somber rustling of leaves, a soft, tragic string melody, the creaking of the tree branch, and a poignant silence as the deed is done.
+- [Voiceover]: "Under the watchful gaze of an ancient pear-tree, a tragedy unfolds. The emperor's heart shatters as the love of his life is taken from him, her figure silhouetted against the setting sun's final light."
+- [Text-to-Image Prompt]: The stark image of a pear-tree standing alone, its branches swaying gently in the evening breeze. Below, the tragic figure of Yang Gui Fe, draped in her yellow swan down furs, is suspended, her spirit departing. The emperor, cloaked in his dragon robes, is a picture of despair, his hand reaching out hopelessly towards her. The soldiers stand back, their faces obscured by the shadows, as the eunuch steps away from the tragic scene.
+
+---
+
+[Scene 4]
+- [Scene Name]: The Summoning of Yang Shi Wu
+- [Environment]: The emperor's private chamber, deep night. Moonlight filters through lattice windows, casting a blue hue over the somber setting.
+- [Characters Present]: Emperor Ming Huang (grieving), Yang Shi Wu (mystical), eunuch (informant).
+- [Dialogue]: Eunuch: "There is one, Sire, who can call upon the departed." Emperor Ming Huang: "Bring him to me at once."
+- [Camera Info]: Static wide shot of the chamber transitioning to a medium shot as the eunuch speaks, then a slow zoom to the emperor's face, full of hope and sorrow.
+- [Sound Elements]: A haunting melody with a flute, the distant sound of palace life, and the soft shuffle of the eunuch’s steps.
+- [Voiceover]: "In the quietude of his chamber, the emperor's longing for his lost love knows no bounds. A glimmer of hope is offered in hushed tones, the promise of a reunion, even if but a whisper from beyond."
+- [Text-to-Image Prompt]: The emperor's chamber, bathed in moonlight, imbued with an air of melancholy. Emperor Ming Huang, his figure slumped in solitude, is suddenly roused by the eunuch's words. The camera captures the flicker of hope that crosses his face, the intricate patterns of his robes, and the antique beauty of the room, waiting for the arrival of the one who could bridge the gap between the living and the dead.
+
+---
+
+[Scene 5]
+- [Scene Name]: The Necromancer's Incantation
+- [Environment]: A dimly lit chamber within the emperor's palace, at the onset of twilight. Shadows dance along the walls as the last light of day struggles to penetrate the room.
+- [Characters Present]: Yang Shi Wu stands center, surrounded by mystical symbols and artifacts. Emperor Ming Huang observes from a throne-like chair.
+- [Dialogue]: Ming Huang: "How can it be possible that she had no soul!" Yang Shi Wu: "I will go back once more and search for her there."
+- [Camera Info]: Close-up on Yang Shi Wu's face, then cut to a wide shot that captures both the emperor and the necromancer. Zoom in on the emperor as he speaks, then back to Yang Shi Wu for his reply.
+- [Sound Elements]: A low, haunting melody underscores the scene. The rustle of robes, the flicker of candle flames, and the subtle murmur of incantations fill the air.
+- [Voiceover]: "In the twilight of the emperor's chamber, the necromancer Yang Shi Wu stands amidst symbols of ancient power. The emperor, draped in his dragon robes, watches with a mix of hope and sorrow. With a voice heavy with grief and determination, Ming Huang challenges the possibility of Yang Gui Fe's nonexistence. Yang Shi Wu, bound by duty and unseen forces, vows to search again among the blessed."
+- [Text-to-Image Prompt]: The scene is set in an imperial chamber as dusk falls. The room is filled with ancient scrolls and arcane objects casting eerie shadows. In the center, Yang Shi Wu, dressed in mystical Taoist garments, is surrounded by glowing symbols etched on the floor. Emperor Ming Huang sits regally in a throne-like chair, his face a mask of sorrowful determination. The camera focuses on Yang Shi Wu's determined expression, then shifts to capture Ming Huang's reaction. The emotional atmosphere is heavy with the mystique of the occult and the weight of an emperor's heartache.
+
+---
+
+[Scene 6]
+- [Scene Name]: The Quest in Nether World
+- [Environment]: A fog-shrouded landscape with indistinct forms and silhouettes of spirits drifting aimlessly. The realm is eternally engulfed in a twilight haze.
+- [Characters Present]: Yang Shi Wu appears as a spectral figure, searching through the mists, speaking with various shades.
+- [Dialogue]: No direct dialogue, only indistinct whispers of the departed.
+- [Camera Info]: Aerial shots transitioning to tracking shots that follow Yang Shi Wu through the fog. Close-ups of his face reveal his intense focus and determination.
+- [Sound Elements]: Whispers and sighs of roaming spirits, the sound of a lonely wind, and a soft, sorrowful tune.
+- [Voiceover]: "Yang Shi Wu's spirit traverses the melancholy expanse of the Nether World, a place where lost souls linger in perpetual twilight. He seeks Yang Gui Fe among the shades, his voice mingling with theirs in hushed tones of inquiry, but she is nowhere to be found."
+- [Text-to-Image Prompt]: The Nether World is depicted as a twilight realm where the fog rolls over a desolate landscape. Spectral figures float about, their features blurred and sorrowful. Yang Shi Wu moves among them, his figure partially translucent, his garments flowing ethereally. The camera captures the endless expanse and the necromancer's interactions with the shades, reflecting his fruitless search in the mysterious and somber environment.
+
+---
+
+[Scene 7]
+- [Scene Name]: Ascension to the Highest Heaven
+- [Environment]: A celestial realm beyond the clouds, bathed in a radiant golden light. The stars, sun, and moon move in an eternal, majestic dance.
+- [Characters Present]: Yang Shi Wu, now a luminous being, searches the heavens, moving among the celestial bodies.
+- [Dialogue]: No dialogue, only the celestial music of the spheres.
+- [Camera Info]: Sweeping panoramic shots that showcase the vastness of the heavens. The camera orbits around Yang Shi Wu, capturing his upward gaze.
+- [Sound Elements]: Harmonic tones of the celestial orbs, a chorus of heavenly voices in the distance, and the soft hum of cosmic energy.
+- [Voiceover]: "In the resplendence of the highest heaven, Yang Shi Wu ascends, his form aglow with the pure light of the stars. Amidst the sacred dance of celestial bodies, he seeks the lost empress's spirit. But even in this exalted realm, she remains elusive, her essence beyond his reach."
+- [Text-to-Image Prompt]: High above the clouds, the scene is filled with the brilliance of a golden celestial light. Yang Shi Wu is illuminated by the glow of the cosmos, the stars and planets casting soft reflections on his face. The camera captures the grace of his movements as he searches among the heavenly bodies, the background filled with the grandeur of the astral dance, conveying the beauty and solitude of the highest heavens.
+
+---
+
+[Scene 8]
+- [Scene Name]: Discovery in Fairyland
+- [Environment]: The ethereal beauty of Fairyland, with its jade gardens, coral trees, and the grand south palace shimmering in the distance.
+- [Characters Present]: Yang Shi Wu approaches a fairy, the embodiment of serenity, in the midst of this divine splendor.
+- [Dialogue]: Fairy: "Yang Gui Fe has become a blessed spirit and dwells in the great south palace!"
+- [Camera Info]: The camera tracks Yang Shi Wu's approach to the fairy, then cuts to a wide shot of Fairyland, ending with a medium shot of the fairy delivering her message.
+- [Sound Elements]: The tinkling of chimes, the rustle of silken leaves, and a soothing melody that captures the tranquility of the realm.
+- [Voiceover]: "After a journey through realms unseen, Yang Shi Wu arrives in Fairyland, a place of perfect harmony and beauty. He encounters a serene fairy, who reveals the fate of Yang Gui Fe. She resides in the grand south palace, transformed into a blessed spirit."
+- [Text-to-Image Prompt]: The scene opens with a sweeping view of Fairyland's jade gardens and coral trees, leading to the magnificent south palace. Yang Shi Wu, clothed in his mystical garments, speaks with a fairy amidst this splendor. The fairy, graceful and calm, points towards the palace. The camera captures the lush gardens and the fairy's revelation, the atmosphere imbued with a sense of divine tranquility and the hope of a long-sought discovery.
+
+---
+
+[Scene 9]
+- [Scene Name]: The Arrival at the Tower
+- [Environment]: A mystical garden in Fairyland, bathed in the soft, eternal twilight of the divine realm. The air is filled with a sweet fragrance emanating from jade flowers and coral trees.
+- [Characters Present]: Yang Shi Wu (Magician), Maiden
+- [Dialogue]: Maiden: "What is it you seek?" Yang Shi Wu: "The emperor has sent me to look for her mistress."
+- [Camera Info]: Wide shot of Yang Shi Wu arriving at the majestic garden gates, then medium shot facing him as he speaks with the Maiden. Cut to over-the-shoulder shot from behind Yang Shi Wu as he follows the Maiden through the garden.
+- [Sound Elements]: Ethereal background music plays with a mystical melody. Sound effects include the rustling of leaves and a gate creaking open.
+- [Voiceover]: "As the necromancer enters the enchanted garden of Fairyland, his senses are greeted by otherworldly beauty. The Maiden, guardian of the celestial threshold, inquires his purpose, guiding him towards the high tower where destiny awaits."
+- [Text-to-Image Prompt]: A grand garden with vibrant jade flowers and trees with coral branches under a twilight sky. Yang Shi Wu, in mystical garments with Taoist symbols, stands at an ornate gate. A youthful Maiden, garbed in flowing robes, greets him. They walk through the lush flora, the garden exuding an aura of serenity and magic. The camera follows from behind, capturing the towering silhouette of a high tower in the distance, framed by the garden's splendor.
+
+---
+
+[Scene 10]
+- [Scene Name]: The Audience with Yang Gui Fe
+- [Environment]: The interior of a high tower, richly adorned with silks and precious stones, reflecting the celestial status of its occupant. The ambiance is somber yet beautiful, with a throne at the center.
+- [Characters Present]: Yang Shi Wu, Yang Gui Fe
+- [Dialogue]: Yang Gui Fe: "Well do I know the emperor longs for me! But for me there is no path leading back to the world of men!"
+- [Camera Info]: A low-angle shot of Yang Gui Fe on her throne, emphasizing her divine status. Cut to Yang Shi Wu kneeling, with a close-up on his face, filled with awe and reverence.
+- [Sound Elements]: A soft, melancholic tune accentuates the sacredness of the encounter. The rustling of silk and the subtle chime of heavenly ornaments can be heard.
+- [Voiceover]: "Kneeling before the radiant figure of Yang Gui Fe, the necromancer beholds the sorrowful beauty of the empress, now a celestial being. Her words echo the painful truth of their separation."
+- [Text-to-Image Prompt]: Yang Gui Fe sits on a throne within the high tower, her emerald headdress gleaming and her furs of yellow swans' down flowing. She glows with an ethereal light, her face a mix of rose-tinted beauty and concerned contemplation. Yang Shi Wu, dressed in mystical garments, kneels before her, his face upturned in awe. The room is filled with luxurious decor, and the air is thick with a sense of solemnity and reverence.
+
+---
+
+[Scene 11]
+- [Scene Name]: The Vow Remembered
+- [Environment]: The same high tower interior, an intimate setting focused on the two characters amidst the opulence around them.
+- [Characters Present]: Yang Gui Fe, Yang Shi Wu
+- [Dialogue]: Yang Gui Fe: "In twelve years' time we will meet again. Take this half of my ring, bring it to the emperor, and tell him not to forget our words."
+- [Camera Info]: Close-up on Yang Gui Fe's hand as she extends the broken ring to Yang Shi Wu. Cut to Yang Shi Wu's hands receiving the ring, showcasing the intricate details and the symbolic break.
+- [Sound Elements]: The music swells with a bittersweet harmony as the ring changes hands. The sound of the ring clinking against Yang Shi Wu's is faint but clear.
+- [Voiceover]: "Yang Gui Fe reminisces about their shared past and the promise of reunion. With the tender gesture of offering her half of the broken ring, she entrusts the necromancer with their undying love."
+- [Text-to-Image Prompt]: A close-up on a delicate hand adorned with an emerald headdress extending a broken ring, shimmering with ancient inscriptions. Yang Shi Wu's hands, clad in mystical garments, receive the precious token carefully. The light catches on the jagged edge of the ring, symbolizing the fractured yet enduring bond. The atmosphere is charged with the weight of memory and the promise of future love.
+
+---
+
+---
+
+[Scene 12]
+- [Scene Name]: The Sorrowful Exchange
+- [Environment]: Highest Heaven at twilight, with a soft ethereal glow bathing the grand south palace. The jade gardens glisten under the last rays of the sun, with coral trees casting long, peaceful shadows.
+- [Characters Present]: Yang Gui Fe (ethereal figure, compassionate), Yang Shi Wu (solemn, respectful)
+- [Dialogue]: Yang Gui Fe: "Please take this to him, as a testament of my undying love."
+- [Camera Info]: Close-up on Yang Gui Fe's hands as she reluctantly parts with the ring; cut to a medium shot capturing both characters' faces, focusing on their emotional exchange; slow zoom out to a wide shot that showcases the celestial environment.
+- [Sound Elements]: The soft rustling of the swan down furs, a melancholic string melody playing lightly in the background, the gentle chime of celestial bells.
+- [Voiceover]: "In the fading light of Highest Heaven, Yang Gui Fe, now a divine spirit, entrusts the necromancer with a symbol of eternal love. Despite her celestial grace, the act of parting with the ring weighs heavily upon her heart."
+- [Text-to-Image Prompt]: A serene twilight sky over Highest Heaven, a celestial realm with the grand south palace surrounded by jade gardens and coral trees. Yang Gui Fe, in emerald headdress and yellow furs, stands before Yang Shi Wu, her face a portrait of both peace and sorrow, as she hands over a broken ring. The focus is on the ring, glowing with a soft light against the backdrop of the mystical setting.
+
+---
+
+[Scene 13]
+- [Scene Name]: Ming Huang's Renewed Grief
+- [Environment]: Tang Dynasty Court, in the emperor's private chambers. The room is dimly lit by flickering candles, the shadows playing on the walls adorned with traditional silk paintings.
+- [Characters Present]: Emperor Ming Huang (grieving, regal), Yang Shi Wu (sympathetic, respectful)
+- [Dialogue]: Ming Huang: "What we said to each other that evening no one else has ever learned! And now you bring me back her ring! By that sign I know that your words are true and that my beloved has really become a blessed spirit."
+- [Camera Info]: Medium shot of Yang Shi Wu presenting the ring; reaction shot of Ming Huang’s face as he is overcome with emotion; close-up on Ming Huang's hand as he takes the ring, trembling.
+- [Sound Elements]: The soft sizzle of the candle flames, a haunting flute melody that echoes the emperor's sorrow, the faint rustling of imperial robes.
+- [Voiceover]: "In the dim solitude of his chambers, Emperor Ming Huang is confronted with the tangible proof of his consort's eternal spirit. The sight of the ring, a token of their shared secrets and undying bond, unleashes a torrent of grief within the emperor's heart."
+- [Text-to-Image Prompt]: In the emperor's chambers, lit by candles, Emperor Ming Huang, dressed in dragon robes, receives a broken ring from the hands of Yang Shi Wu, who wears mystical Taoist garments. The emperor's face is etched with profound sorrow and longing as he gazes at the ring that glimmers with a faint spectral light. The room's ambiance reflects a somber mood, with shadows and the warm candlelight emphasizing the emotional gravity of the moment.
+
+---
+
+[Scene 14]
+- [Scene Name]: The Generous Ruler
+- [Environment]: Tang Dynasty Court, in the emperor's grand receiving hall, daylight streaming through ornate windows, illuminating the majesty of the court.
+- [Characters Present]: Emperor Ming Huang (composed, generous), Yang Shi Wu (grateful, humble)
+- [Dialogue]: Ming Huang: "For your unwavering service, accept these rewards as a token of my gratitude."
+- [Camera Info]: Wide shot of the grand receiving hall to establish the setting; medium shot of Ming Huang as he gestures magnanimously to the rewards; over-the-shoulder shot from Yang Shi Wu's perspective, focusing on the emperor's noble expression.
+- [Sound Elements]: The distant echo of court musicians playing a lively tune, the rustle of silk as the emperor moves, the soft clinking of gold and jewels as the rewards are presented.
+- [Voiceover]: "In the grandeur of the receiving hall, beneath the watchful eyes of his court, Emperor Ming Huang honors the necromancer's loyalty with lavish rewards. His generosity is as boundless as his love for Yang Gui Fe, reflected in every golden gleam and silken whisper."
+- [Text-to-Image Prompt]: The elaborate Tang Dynasty receiving hall, bathed in soft daylight, with Emperor Ming Huang in the center, gesturing towards a collection of treasures as a sign of his gratitude. Yang Shi Wu stands before him, dressed in mystical robes, his face a mixture of gratitude and awe. The hall exudes opulence with its rich decorations and the sunlight accentuating the splendor of the emperor’s gesture and the shimmer of the rewards.
+
+---
+

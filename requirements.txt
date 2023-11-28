@@ -6,3 +6,5 @@ langchain==0.0.285
 compel==2.0.2
 diffusers==0.23.1
 torch==2.0.1
+gradio==3.50.2
+transformers==4.35.0

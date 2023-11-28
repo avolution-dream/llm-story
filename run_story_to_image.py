@@ -46,20 +46,23 @@ os.makedirs(image_path, exist_ok=True)
 # Helper functions
 # #########################
 def extract_prompts(file_path: str='',
-                    keyword: str='[Text-to-Image Prompt]: '):
+                    keyword: str='Text-to-Image Prompt'):
     """
-    Get the text to image prompts from the file.
-
-    This is a temporary solution as we need pydantic to
-    do exact match.
+    Get the text to image prompts from the file,
+    allowing for various formats of the keyword.
     """
     prompts = []
 
     with open(file_path, 'r') as file:
         content = file.readlines()
+        pattern = re.compile(rf'-? \[?\s*{re.escape(keyword)}\s*\]?:\s*(.*)',
+                             re.IGNORECASE)
+
         for line in content:
-            if keyword in line:
-                prompt = line.split(keyword)[-1].strip()
+            match = pattern.search(line)
+            if match:
+                # Extracting the text following the flexible keyword pattern
+                prompt = match.group(1).strip()
                 prompts.append(prompt)
 
     return prompts
@@ -69,8 +72,8 @@ def extract_prompts(file_path: str='',
 # Generate images
 # #########################
 # Get the prompts
-prompts = extract_prompts(storyboard_path, '[Text-to-Image Prompt]: ')
-voiceovers = extract_prompts(storyboard_path, '[Voiceover]: ')
+prompts = extract_prompts(storyboard_path, 'Text-to-Image Prompt')
+voiceovers = extract_prompts(storyboard_path, 'Voiceover')
 
 # This is temporary as it needs to be refined from the summary
 # We need to retrieve characters and envrionments from the summary

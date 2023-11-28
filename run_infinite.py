@@ -10,7 +10,6 @@ import argparse
 
 from typing import Dict
 from pathlib import Path
-from instructor import patch
 from datetime import datetime
 from pydantic import BaseModel, Field
 from pydantic.json import pydantic_encoder
@@ -23,7 +22,6 @@ from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import TextLoader
 from langchain.chains.summarize import load_summarize_chain
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-patch()
 
 
 # #########################
@@ -283,6 +281,8 @@ def parse_single_story(story_path: str='./story.txt',
                                      summary,
                                      storyboard)
 
+    return summary, storyboard
+
 
 # #########################
 # >>> Set the paths
@@ -318,13 +318,13 @@ storyboard_save_path = result_root / f'{story_name}-{save_time}-storyboard.txt'
 # >>> Run the main function
 # ##########################
 if __name__ == '__main__':
-    parse_single_story(story_path,
-                       chunk_size,
-                       chunk_overlap,
-                       model_name,
-                       summary_question_prompt_path,
-                       summary_refine_prompt_path,
-                       storyboard_map_prompt_path,
-                       summary_save_path,
-                       storyboard_save_path,
-                       language)
+    summary, storyboard = parse_single_story(story_path,
+                                             chunk_size,
+                                             chunk_overlap,
+                                             model_name,
+                                             summary_question_prompt_path,
+                                             summary_refine_prompt_path,
+                                             storyboard_map_prompt_path,
+                                             summary_save_path,
+                                             storyboard_save_path,
+                                             language)

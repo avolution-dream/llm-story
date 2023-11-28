@@ -1,0 +1,74 @@
+[Story Summary]
+The Sea Kingdom is thrown into turmoil when the Dragon Princess falls ill. Rin Jin, the Dragon King, desperate to save his wife, sends the jellyfish, Kurage, to fetch a monkey's liver, believed to be the cure. The clever monkey on Monkey Island deceives Kurage, claiming his liver is stored in a tree. Kurage returns empty-handed, and for his failure, Rin Jin doles out a harsh punishment, stripping Kurage of his bones, an affliction that his descendants still bear, as evident from the boneless jellyfish found on Japan's shores.
+
+[Character Summary]
+character_1:
+- Name: Rin Jin, the Dragon King.
+- High-Level Synopsis: Sovereign of the Sea Kingdom, Rin Jin is driven by desperation to heal his ailing wife, orchestrating a plan to procure a monkey's liver.
+- Appearance and Attire: A majestic sea dragon cloaked in royal regalia, symbolizing his authority.
+- Psychological Profile: Initially content, he becomes deeply concerned and resolute in seeking a remedy for the Dragon Princess.
+- Socio-Cultural Context: As a dragon in Japanese mythology, Rin Jin is a figure of great power and veneration.
+- Relationships: A devoted husband to the Dragon Princess, his endeavors are motivated by her welfare.
+- Key Moments: Initiates the quest for the cure; orders Kurage's severe punishment.
+- Additional Nuances: Presumed to possess a dignified presence befitting his royal station.
+
+character_2:
+- Name: Dragon Princess.
+- High-Level Synopsis: The cherished and severely ill spouse of Rin Jin, her sickness is the impetus for the quest.
+- Appearance and Attire: Portrayed with elaborate scales and noble attire, reflecting her royal standing.
+- Psychological Profile: GUESS: Ordinarily tranquil, her illness causes her distress.
+- Socio-Cultural Context: GUESS: Likely of noble birth, matching Rin Jin's status.
+- Relationships: Her health is pivotal to the Sea Kingdom, emphasizing her bond with Rin Jin.
+- Key Moments: Her illness triggers the narrative's events.
+- Additional Nuances: GUESS: Exhibits grace and composure under normal circumstances.
+
+character_3:
+- Name: Kurage.
+- High-Level Synopsis: A once-shelled jellyfish, Kurage loyally serves Rin Jin but fails in his task to dupe the monkey and faces a grave penalty.
+- Appearance and Attire: Initially envisioned with a shell and legs, resembling a tortoise.
+- Psychological Profile: Displays loyalty but is naive, which leads to his deception.
+- Socio-Cultural Context: Occupies a unique role in folklore as a punished creature.
+- Relationships: A servant to Rin Jin, his failure incurs a severe punishment.
+- Key Moments: His mission's failure and subsequent punishment by having his bones removed.
+- Additional Nuances: GUESS: His gullibility is significant, as it leads to his and his descendants' boneless condition.
+
+character_4:
+- Name: Chief Steward.
+- High-Level Synopsis: A perceptive advisor, the Chief Steward suggests the remedy that propels the story.
+- Appearance and Attire: Not described.
+- Psychological Profile: Intelligent, with a focus on the wellbeing of the Dragon Princess.
+- Socio-Cultural Context: GUESS: Holds a position of respect within the royal court.
+- Relationships: A trusted counselor to Rin Jin.
+- Key Moments: His counsel instigates the search for the monkey's liver.
+- Additional Nuances: GUESS: Characterized by sagacity and experience.
+
+character_5:
+- Name: Monkey.
+- High-Level Synopsis: A shrewd animal whose quick thinking saves him from being deceived by the sea creatures.
+- Appearance and Attire: Typical monkey characteristics, unspecified beyond that.
+- Psychological Profile: Uses intelligence and wit to evade danger and protect himself.
+- Socio-Cultural Context: Represents cunning and the instinct for survival in the animal kingdom.
+- Relationships: Involuntarily entangled in the sea creatures' plot but adeptly avoids peril.
+- Key Moments: Deceives Kurage to ensure his escape.
+- Additional Nuances: Maintains composure under threat, skillfully manipulating his would-be captor.
+
+[Environment Summary]
+environment_1:
+- Name: Kingdom of the Sea.
+- Description: A mystical underwater domain governed by Rin Jin, filled with unrest due to the Dragon Princess's sickness.
+
+environment_2:
+- Name: Palace of Rin Jin.
+- Description: A lavish coral, jade, and mother-of-pearl palace, its usual radiance overshadowed by concern for the Dragon Princess's health.
+
+environment_3:
+- Name: Sea (Wedding Location).
+- Description: GUESS: An elaborate and splendid venue for royal nuptials, now overshadowed by the anxiety of the Dragon Princess's condition.
+
+environment_4:
+- Name: Monkey Island.
+- Description: Home to the clever monkey, the island becomes a target in the sea creatures' search for a cure.
+
+environment_5:
+- Name: Pine Tree on Monkey Island.
+- Description: Falsely claimed by the monkey as the hiding place of his liver, this tree becomes central to his escape strategy.
