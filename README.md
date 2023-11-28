@@ -1,20 +1,8 @@
 # LLM-Story
+<p align="center">
+  <img src="./gradio.png" />
+</p>
 
-## 🕹 Setup
-```bash
-# (Optional) Create a conda virtual environment and activate it
-conda create --name story python=3.10
-conda activate story
-
-# Install the packages
-pip install -r requirements.txt
-
-# Export your OpenAI API key
-export OPENAI_API_KEY=<insert your OpenAI API key>
-
-# We also support a most open-source language models
-# hosted on huggingface using the vllm interface.
-```
 
 ## 🕹 Usage
 ### Gradio Interface
@@ -30,18 +18,10 @@ gradio app.py
 ### Collected Stories and Results
 Parsed storyboard scripts locate in `./results`.
 
-Copyright-free stories (special thanks to the Gutenberg Project) locate in `./scraping`, we have collected hundreds of different-length stories ranging from:
-- fairy tales
-- romance
-- fantasy
-- literary
-- horror
-- detective fiction
-- science fiction
+Copyright-free stories (special thanks to the Gutenberg Project) locate in `./scraping`, we have collected hundreds of different-length stories ranging from: fairy tales, romance, fantasy, literary, horror, detective fiction, science fiction.
 
-(Notice the flash-fiction are only for test use.)
+(Notice the flash-fiction are only for test use.) This effort is ongoing and we will focusing on generating best-quality scripts and the derived images.
 
-This effort is ongoing.
 
 ### (Optional) Command Line Jobs
 <!-- A stable version is at `run-gpt.py`. Below is an example command, and you may upload your own story (defaul path is `./stories`) and check the Python file for customized arguments.
@@ -63,6 +43,22 @@ Generating images/videos using SDXL.
 python3.10 run_story_to_image.py
 ```
 
+## 🕹 Setup
+```bash
+# (Optional) Create a conda virtual environment and activate it
+conda create --name story python=3.10
+conda activate story
+
+# Install the packages
+pip install -r requirements.txt
+
+# Export your OpenAI API key
+export OPENAI_API_KEY=<insert your OpenAI API key>
+
+# We also support a most open-source language models
+# hosted on huggingface using the vllm interface.
+```
+
 <!-- ### (Images/Videos) Comics Generation -->
 <!-- If you have obtained parsed storyboard and summary script, you can run:
 ```bash
@@ -74,6 +70,7 @@ We will soon updating this so that you can run with a single story txt file. -->
 ```bash
 python3.10 run_story_to_image.py
 ``` -->
+
 
 ## 🕹 Introduction
 This repository is for automatically generating high-quality summary (for characters and environments) and storyboard script for any-length story files, ultimately for the adaptations across multiple media formats, such as films and animation. The codes are structured as follows:
