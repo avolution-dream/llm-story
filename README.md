@@ -4,6 +4,36 @@
 </p>
 
 
+## 🕹 Setup
+```bash
+# (Optional) Create a conda virtual environment and activate it
+conda create --name story python=3.10
+conda activate story
+
+# Install the packages
+pip install -r requirements.txt
+```
+### Running with Open Source Models (LLAMA/Mosaic/...)
+The current code base supports most models from Hugging Face and we use vllm for fast inference. Below is an example command to start a server in the background.
+```bash
+python3.10 -m vllm.entrypoints.openai.api_server \
+  --model mosaicml/mpt-7b-8k-chat \
+  --dtype float \
+  --trust-remote-code \
+  --tensor-parallel-size 4
+```
+By default, the above command line starts the server at `http://localhost:8000`, and you may also specify the address with `--host` and `--post`. Check the [vllm doc](https://docs.vllm.ai/en/latest/getting_started/quickstart.html) for reference.
+
+Next, modify the `configs/model.yaml` to match your setting, and be sure the adjust the arguments later on when you work on `run_infinite.py`.
+
+Currently, open-source models may fail in certain cases; we are fine
+
+### Running with Blackbox Models (GPT/Anthropic/...)
+You can set the api key in the environment, or directly modify the `configs/model.yaml`.
+```bash
+export OPENAI_API_KEY=<insert your OpenAI API key>
+```
+
 ## 🕹 Usage
 ### Gradio Interface
 Directly uploading your story file and get the generated images/videos:
@@ -43,21 +73,7 @@ Generating images/videos using SDXL.
 python3.10 run_story_to_image.py
 ```
 
-## 🕹 Setup
-```bash
-# (Optional) Create a conda virtual environment and activate it
-conda create --name story python=3.10
-conda activate story
 
-# Install the packages
-pip install -r requirements.txt
-
-# Export your OpenAI API key
-export OPENAI_API_KEY=<insert your OpenAI API key>
-
-# We also support a most open-source language models
-# hosted on huggingface using the vllm interface.
-```
 
 <!-- ### (Images/Videos) Comics Generation -->
 <!-- If you have obtained parsed storyboard and summary script, you can run:
@@ -96,7 +112,7 @@ Major and mid-term goal: Improving the quality of the generated scripts and the 
 - [ ] Improving the parallel part with memory modules.
 - [ ] Refining the gradio with stable video diffusion.
 - [ ] Finetuning open-source llm models.
-    - Collecting high-quality datasets.
+    - Currently the open-source model cannot match that of the GPT-4 models. A simple approach is to use the GPT-4-generated results to finetune that of other open-source models.
     <!-- - [ ] Demonstrations for few-shot illustration with expert exemplars.
         - This is essential to improve the story performance. -->
     <!-- - [PromptBase](https://promptbase.com/)

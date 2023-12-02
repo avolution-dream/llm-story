@@ -5,6 +5,7 @@ Generating the storyboard for stories with infinite lengths.
 import os
 import re
 import json
+import yaml
 import openai
 import argparse
 
@@ -41,6 +42,7 @@ parser.add_argument('-co', '--chunk_overlap', type=int, default=0)
 parser.add_argument('-la', '--language', type=str, default='Chinese')
 parser.add_argument('-sv', '--save_time', action='store_true',
                     help='Flag to add current time in filename.')
+parser.add_argument('-mr', '--model_config_root', type=str, default='./configs/model.yaml')
 
 
 # #########################
@@ -107,7 +109,8 @@ def get_split_docs(story_path: str='./story.txt',
 # #########################
 # Get the results
 # #########################
-def get_summary_storyboard(model_name: str='gpt-4-1106-preview',
+def get_summary_storyboard(model_config_root: str='./configs/model.yaml',
+                           model_name: str='gpt-4-1106-preview',
                            summary_question_prompt_path: str='',
                            summary_refine_prompt_path: str='',
                            storyboard_map_prompt_path: str='',
@@ -117,7 +120,8 @@ def get_summary_storyboard(model_name: str='gpt-4-1106-preview',
 
     ##### Get the summary #####
     # Set the chat model
-    chat_model = ChatOpenAI(model_name=model_name)
+    model_config = yaml.safe_load(open(model_config_root))
+    chat_model = ChatOpenAI(**model_config[model_name])
 
     # Load the prompt
     summary_question_prompt = load_text(summary_question_prompt_path)
@@ -182,7 +186,8 @@ def get_summary_storyboard(model_name: str='gpt-4-1106-preview',
 # #########################
 # Translate things
 # #########################
-def translate_summary_storyboard(model_name: str='gpt-4-1106-preview',
+def translate_summary_storyboard(model_config_root: str='./configs/model.yaml',
+                                 model_name: str='gpt-4-1106-preview',
                                  language: str='Chinese',
                                  summary: str='',
                                  storyboard: str=''):
@@ -191,7 +196,8 @@ def translate_summary_storyboard(model_name: str='gpt-4-1106-preview',
     """
 
     # Set the chat model
-    chat_model = ChatOpenAI(model_name=model_name)
+    model_config = yaml.safe_load(open(model_config_root))
+    chat_model = ChatOpenAI(**model_config[model_name])
 
     # Translate for SUMMARY
     summary_translated = chat_model.predict(
@@ -252,6 +258,7 @@ def translate_summary_storyboard(model_name: str='gpt-4-1106-preview',
 def parse_single_story(story_path: str='./story.txt',
                        chunk_size: int=1500,
                        chunk_overlap: int=0,
+                       model_config_root: str='./configs/model.yaml',
                        model_name: str='gpt-4-1106-preview',
                        summary_question_prompt_path: str='',
                        summary_refine_prompt_path: str='',
@@ -266,7 +273,8 @@ def parse_single_story(story_path: str='./story.txt',
                                 chunk_overlap)
 
     # Get and save the summary and the storyboard
-    summary, storyboard = get_summary_storyboard(model_name,
+    summary, storyboard = get_summary_storyboard(model_config_root,
+                                                 model_name,
                                                  summary_question_prompt_path,
                                                  summary_refine_prompt_path,
                                                  storyboard_map_prompt_path,
@@ -276,7 +284,8 @@ def parse_single_story(story_path: str='./story.txt',
 
     # Translate and save the resulted content
     if language:
-        translate_summary_storyboard(model_name,
+        translate_summary_storyboard(model_config_root,
+                                     model_name,
                                      language,
                                      summary,
                                      storyboard)
@@ -321,6 +330,7 @@ if __name__ == '__main__':
     summary, storyboard = parse_single_story(story_path,
                                              chunk_size,
                                              chunk_overlap,
+                                             model_config_root,
                                              model_name,
                                              summary_question_prompt_path,
                                              summary_refine_prompt_path,

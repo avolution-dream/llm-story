@@ -35,6 +35,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 # #########################
 # Setting the default values for prompts
 # To update them later in the gradio webpage
+model_config_root = './configs/model.yaml'
 model_name = 'gpt-4-1106-preview'
 chunk_size = 1500
 chunk_overlap = 0
@@ -110,7 +111,8 @@ def get_split_docs(story_path: str='./story.txt',
 # #########################
 # Get the results
 # #########################
-def get_summary_storyboard(model_name: str='gpt-4-1106-preview',
+def get_summary_storyboard(model_config_root: str='./configs/model.yaml',
+                           model_name: str='gpt-4-1106-preview',
                            summary_question_prompt_path: str='',
                            summary_refine_prompt_path: str='',
                            storyboard_map_prompt_path: str='',
@@ -120,7 +122,8 @@ def get_summary_storyboard(model_name: str='gpt-4-1106-preview',
 
     ##### Get the summary #####
     # Set the chat model
-    chat_model = ChatOpenAI(model_name=model_name)
+    model_config = yaml.safe_load(open(model_config_root))
+    chat_model = ChatOpenAI(**model_config[model_name])
 
     # Load the prompt
     summary_question_prompt = load_text(summary_question_prompt_path)
@@ -220,7 +223,8 @@ def generate_images(story_file):
                                     chunk_overlap)
 
         # Get and save the summary and the storyboard
-        summary, storyboard = get_summary_storyboard(model_name,
+        summary, storyboard = get_summary_storyboard(model_config_root,
+                                                     model_name,
                                                      summary_question_prompt_path,
                                                      summary_refine_prompt_path,
                                                      storyboard_map_prompt_path,
