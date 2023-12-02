@@ -37,7 +37,7 @@ parser.add_argument('-sp', '--story_root', type=str, default='./scraping/flash-f
 parser.add_argument('-rp', '--result_root', type=str, default='./results/flash-fiction-library/romance')
 parser.add_argument('-is', '--instruction_root', type=str, default='./prompts/instructions')
 parser.add_argument('-mn', '--model_name', type=str, default='gpt-4-1106-preview')
-parser.add_argument('-mt', '--chunk_size', type=int, default=1500)
+parser.add_argument('-cs', '--chunk_size', type=int, default=1500)
 parser.add_argument('-co', '--chunk_overlap', type=int, default=0)
 parser.add_argument('-la', '--language', type=str, default='Chinese')
 parser.add_argument('-sv', '--save_time', action='store_true',

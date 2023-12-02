@@ -24,9 +24,11 @@ python3.10 -m vllm.entrypoints.openai.api_server \
 ```
 By default, the above command line starts the server at `http://localhost:8000`, and you may also specify the address with `--host` and `--post`. Check the [vllm doc](https://docs.vllm.ai/en/latest/getting_started/quickstart.html) for reference.
 
+We have tested `llama`, `vicuna`, `mpt`, `zephyr`. Other models should work as well but not heavily tested yet.
+
 Next, modify the `configs/model.yaml` to match your setting, and be sure the adjust the arguments later on when you work on `run_infinite.py`.
 
-Currently, open-source models may fail in certain cases; we are fine
+<!-- Currently, open-source models may fail in certain cases; we are fine -->
 
 ### Running with Blackbox Models (GPT/Anthropic/...)
 You can set the api key in the environment, or directly modify the `configs/model.yaml`.
@@ -40,31 +42,28 @@ Directly uploading your story file and get the generated images/videos:
 ```bash
 gradio app_test.py
 ```
-If you have obtained parsed storyboard and summary script, you can run them with:
+If you have obtained parsed storyboard and summary script (by running `run_infinite.py` prior to this, see the next section for details), you can run them with:
 ```bash
 gradio app.py
 ```
 
-### Collected Stories and Results
-Parsed storyboard scripts locate in `./results`.
-
-Copyright-free stories (special thanks to the Gutenberg Project) locate in `./scraping`, we have collected hundreds of different-length stories ranging from: fairy tales, romance, fantasy, literary, horror, detective fiction, science fiction.
-
-(Notice the flash-fiction are only for test use.) This effort is ongoing and we will focusing on generating best-quality scripts and the derived images.
 
 
-### (Optional) Command Line Jobs
+### Getting Storyboard Scripts from Stories
+#### Command Lines
 <!-- A stable version is at `run-gpt.py`. Below is an example command, and you may upload your own story (defaul path is `./stories`) and check the Python file for customized arguments.
 ```bash
 python3.10 run_gpt.py
 ```
 An advanced yet in development version is at `run_infinite.py`. -->
-Get the text files for storyboard and summary! We support infinite length of stories. You may also check `./notebook/demo-infinite.ipynb` for an high-level overview.
+Get the text files for storyboard and summary! We support infinite length of stories. Modify `-mn` to match the model you are using with `./configs/model.yaml`.
 ```bash
 python3.10 run_infinite.py \
     -sp ./scraping/flash-fiction-library/horror \
     -rp ./results/flash-fiction-library/horror \
-    -sv -sn the-dream-eater
+    -mn gpt-4-1106-preview \
+    -sn the-dream-eater \
+    -sv
 ```
 Check the bash template as well.
 ```bash
@@ -75,6 +74,12 @@ Generating images/videos using SDXL.
 ```bash
 python3.10 run_story_to_image.py
 ```
+#### Collected Stories and Results
+Parsed storyboard scripts locate in `./results`.
+
+Copyright-free stories (special thanks to the Gutenberg Project) locate in `./scraping`, we have collected hundreds of different-length stories ranging from: fairy tales, romance, fantasy, literary, horror, detective fiction, science fiction.
+
+(Notice the flash-fiction are only for test use.) This effort is ongoing and we will focusing on generating best-quality scripts and the derived images.
 
 
 

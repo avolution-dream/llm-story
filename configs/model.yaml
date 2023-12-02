@@ -1,33 +1,67 @@
-# ==================================
+# ============================================
+# Zephyrc #8K context length # Load with float
+# ============================================
+'HuggingFaceH4/zephyr-7b-alpha':
+    model_name: 'HuggingFaceH4/zephyr-7b-alpha'
+    openai_api_key: 'EMPTY'
+    openai_api_base: 'http://localhost:8000/v1'
+    max_tokens: 2048
+    temperature: 0.2
+    model_kwargs:
+        eos_token_id: 0
+        pad_token_id: 0
+        stop: '###'
+
+# ============================================
+# Viccuna
+# ============================================
+'lmsys/vicuna-13b-v1.5-16k':
+    model_name: 'lmsys/vicuna-13b-v1.5-16k'
+    openai_api_key: 'EMPTY'
+    openai_api_base: 'http://localhost:8000/v1'
+    max_tokens: 1024
+    temperature: 0.2
+
+'lmsys/vicuna-7b-v1.5-16k':
+    model_name: 'lmsys/vicuna-7b-v1.5-16k'
+    openai_api_key: 'EMPTY'
+    openai_api_base: 'http://localhost:8000/v1'
+    max_tokens: 1024
+    temperature: 0.2
+
+# =============================================
 #  LLAMA
-# ==================================
+# =============================================
+# The context length is too short
+# meaning that you have to use smaller chunk size
+# or smaller max_tokens when working with the storyboard generation
+# which could lead to performance drop
 'meta-llama/Llama-2-7b-chat-hf':
-    model: 'meta-llama/Llama-2-7b-chat-hf'
+    model_name: 'meta-llama/Llama-2-7b-chat-hf'
     openai_api_key: 'EMPTY'
     openai_api_base: 'http://localhost:8000/v1'
     max_tokens: 1024
     temperature: 0.2
 
 'meta-llama/Llama-2-13b-chat-hf':
-    model: 'meta-llama/Llama-2-13b-chat-hf'
+    model_name: 'meta-llama/Llama-2-13b-chat-hf'
     openai_api_key: 'EMPTY'
     openai_api_base: 'http://localhost:8000/v1'
     max_tokens: 1024
     temperature: 0.2
 
 'meta-llama/Llama-2-70b-chat-hf':
-    model: 'meta-llama/Llama-2-13b-chat-hf'
+    model_name: 'meta-llama/Llama-2-70b-chat-hf'
     openai_api_key: 'EMPTY'
     openai_api_base: 'http://localhost:8000/v1'
     max_tokens: 1024
     temperature: 0.2
 
-
-# ==================================
+# =============================================
 #  Mosaic
-# ==================================
+# =============================================
 'mosaicml/mpt-7b-8k-chat':
-    model: 'mosaicml/mpt-7b-8k-chat'
+    model_name: 'mosaicml/mpt-7b-8k-chat'
     openai_api_key: 'EMPTY'
     openai_api_base: 'http://localhost:8000/v1'
     max_tokens: 1024
@@ -38,10 +72,9 @@
         pad_token_id: 0
         stop: '###'
 
-
-# ==================================
+# =============================================
 #  GPT-based
-# ==================================
+# =============================================
 'gpt-4-1106-preview':
     model_name: 'gpt-4-1106-preview'
     temperature: 0.2

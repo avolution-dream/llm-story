@@ -244,7 +244,7 @@ def generate_images(story_file):
         negative_prompt = 'photo, deformed, black and white, realism, disfigured, low contrast'
         # ####################################################################
 
-        print("Loading pipeline...")
+        print('Loading pipeline...')
         pipeline = StableDiffusionXLPipeline.from_pretrained(
             "stabilityai/stable-diffusion-xl-base-1.0",
             torch_dtype=torch.float16,
@@ -252,7 +252,7 @@ def generate_images(story_file):
             use_safetensors=True,
             custom_pipeline='lpw_stable_diffusion_xl').to('cuda')
 
-        print("Pipeline loaded. Generating images...")
+        print('Pipeline loaded. Generating images...')
         images = []
         for i, prompt in enumerate(prompts):
             print(f"Generating image {i+1}/{len(prompts)}")
