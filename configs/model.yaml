@@ -1,4 +1,29 @@
 # ==================================
+#  LLAMA
+# ==================================
+'meta-llama/Llama-2-7b-chat-hf':
+    model: 'meta-llama/Llama-2-7b-chat-hf'
+    openai_api_key: 'EMPTY'
+    openai_api_base: 'http://localhost:8000/v1'
+    max_tokens: 1024
+    temperature: 0.2
+
+'meta-llama/Llama-2-13b-chat-hf':
+    model: 'meta-llama/Llama-2-13b-chat-hf'
+    openai_api_key: 'EMPTY'
+    openai_api_base: 'http://localhost:8000/v1'
+    max_tokens: 1024
+    temperature: 0.2
+
+'meta-llama/Llama-2-70b-chat-hf':
+    model: 'meta-llama/Llama-2-13b-chat-hf'
+    openai_api_key: 'EMPTY'
+    openai_api_base: 'http://localhost:8000/v1'
+    max_tokens: 1024
+    temperature: 0.2
+
+
+# ==================================
 #  Mosaic
 # ==================================
 'mosaicml/mpt-7b-8k-chat':

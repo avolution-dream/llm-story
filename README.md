@@ -61,7 +61,10 @@ python3.10 run_gpt.py
 An advanced yet in development version is at `run_infinite.py`. -->
 Get the text files for storyboard and summary! We support infinite length of stories. You may also check `./notebook/demo-infinite.ipynb` for an high-level overview.
 ```bash
-python3.10 run_infinite.py -sp ./scraping/flash-fiction-library/horror -rp ./results/flash-fiction-library/horror -sv -sn the-dream-eater
+python3.10 run_infinite.py \
+    -sp ./scraping/flash-fiction-library/horror \
+    -rp ./results/flash-fiction-library/horror \
+    -sv -sn the-dream-eater
 ```
 Check the bash template as well.
 ```bash
@@ -104,6 +107,8 @@ Currently, the methodology is:
 ## 🕹 Tasks (to be refined as a detailed doc)
 Major and mid-term goal: Improving the quality of the generated scripts and the derived prompts.
 
+- [ ] Add the story generation function.
+- [ ] Make this to be a streamlit app.
 - [ ] Scraping for more stories with different varieties.
 - [ ] Refining prompt engineering.
     - Pre-prompt engineering: few-shot demonstrations, instructions, reasoning techniques
@@ -111,7 +116,7 @@ Major and mid-term goal: Improving the quality of the generated scripts and the 
     - The consistency issue.
 - [ ] Improving the parallel part with memory modules.
 - [ ] Refining the gradio with stable video diffusion.
-- [ ] Finetuning open-source llm models.
+- [ ] Finetuning/Distilling Open-Source llm models.
     - Currently the open-source model cannot match that of the GPT-4 models. A simple approach is to use the GPT-4-generated results to finetune that of other open-source models.
     <!-- - [ ] Demonstrations for few-shot illustration with expert exemplars.
         - This is essential to improve the story performance. -->
